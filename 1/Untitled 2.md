@@ -1,5 +1,5 @@
 *
-
+chechk
 , cmp ldr arr 4 
 ldr regisater arr
 
