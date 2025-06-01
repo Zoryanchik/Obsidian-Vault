@@ -417,12 +417,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Untitled 2.md",
+                "file": "1/Test note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Test note"
             }
           },
           {
@@ -690,6 +690,8 @@
   },
   "active": "7ee591136e32b41b",
   "lastOpenFiles": [
+    "1/Untitled 2.md",
+    "1/Test note.md",
     "1/Untitled 1.md",
     "Html/Cat app/Final.md",
     "ObsidianNotes",
@@ -732,8 +734,6 @@
     "121.2/weeks 22-23/3.NP-Complete Problems/Special Case 2vs3-SAT.md",
     "121.2/weeks 22-23/3.NP-Complete Problems/NP Complete Problems.md",
     "121.2/weeks 22-23/3.NP-Complete Problems/Example Hamiltonian Path to TSP.md",
-    "121.2/weeks 22-23/3.NP-Complete Problems/Np complete.md",
-    "121.2/weeks 22-23/3.NP-Complete Problems/Recap.md",
     "121.2/weeks 22-23/3.NP-Complete Problems",
     "121.2/weeks 22-23/2.Non-Deterministic Polynomial Time",
     "Задачи/Untitled.canvas",
