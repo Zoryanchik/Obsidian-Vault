@@ -1,0 +1,2 @@
+![[Pasted image 20250524182116.png]]![[Pasted image 20250524182142.png]]
+We don’t need to own the hardware • Resources are rented as needed from a cloud • Various providers allow creating virtual servers: • Choose the OS and software each instance will have. • The chosen OS will run on a large server. • Can instantiate more virtual servers or shut down existing ones within minutes.• We get billed only for what we used

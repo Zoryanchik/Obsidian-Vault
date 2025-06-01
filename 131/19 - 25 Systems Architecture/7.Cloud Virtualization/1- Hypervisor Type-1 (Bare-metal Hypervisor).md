@@ -1,0 +1,1 @@
+![[Pasted image 20250524175931.png]]<mark class="hltr-cyan">Manages the hardware and hosts multiple virtual machines (VMs) without needing a host OS.</mark>

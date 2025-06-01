@@ -1,0 +1,1 @@
+The `<!DOCTYPE>` declaration defines the **document type** and version of **HTML** that the browser should use to render the webpage. It **must be the first line** in an HTML document.

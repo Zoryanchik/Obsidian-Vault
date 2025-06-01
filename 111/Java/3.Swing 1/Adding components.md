@@ -1,0 +1,8 @@
+GUI.set![[Pasted image 20250224202550.png]]
+![[Pasted image 20250224202634.png]]
+![[Pasted image 20250224202802.png]]
+![[Pasted image 20250224202845.png]]
+![[Pasted image 20250224202919.png]]
+![[Pasted image 20250224203021.png]]
+![[Pasted image 20250224203132.png]]
+![[Pasted image 20250224203331.png]]

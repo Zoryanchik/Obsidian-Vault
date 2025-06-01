@@ -1,0 +1,11 @@
+![[Pasted image 20250206202745.png]]
+![[Pasted image 20250206202957.png]]
+![[Pasted image 20250206203040.png]]
+![[Pasted image 20250206203244.png]]
+![[Pasted image 20250206203341.png]]
+![[Pasted image 20250206203421.png]]
+![[Pasted image 20250206203614.png]]
+![[Pasted image 20250206203655.png]]
+![[Pasted image 20250206204107.png]]
+![[Pasted image 20250206204338.png]]
+![[Pasted image 20250206204444.png]]тут как в оршигале только домнажаем на новую иснтрукцию

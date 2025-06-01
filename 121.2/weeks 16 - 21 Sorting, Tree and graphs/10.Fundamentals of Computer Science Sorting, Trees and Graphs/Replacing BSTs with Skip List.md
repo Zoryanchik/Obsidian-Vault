@@ -1,0 +1,12 @@
+![[Pasted image 20250419211143.png]]
+![[Pasted image 20250419211459.png]]
+![[Pasted image 20250419211634.png]]
+![[Pasted image 20250419211647.png]]
+![[Pasted image 20250419211815.png]]
+![[Pasted image 20250419211831.png]]
+![[Pasted image 20250419211848.png]]
+search(50) -> 50 not in data structure![[Pasted image 20250419211928.png]]![[Pasted image 20250419212015.png]]![[Pasted image 20250419212043.png]]
+![[Pasted image 20250419212100.png]]
+
+![[Pasted image 20250419212116.png]]
+![[Pasted image 20250419212145.png]]

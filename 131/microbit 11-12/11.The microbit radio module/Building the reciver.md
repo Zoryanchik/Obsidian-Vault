@@ -1,0 +1,3 @@
+![[Pasted image 20250210023147.png]]
+![[Pasted image 20250210023216.png]]
+Today we learnt about: • The capabilities of micro:bit for wireless communication. • The characteristics of the proprietary radio mode at 2.4 GHz. • The concept of a datagram and key instructions for transmitting and receiving datagrams using variables of type PacketBuffer. • How to set up a listener for the radio component and how to call an event handler when a datagram is received. • How to create groups and how to measure the received signal strength. • Steps on how to build a simple one-way wireless communication system

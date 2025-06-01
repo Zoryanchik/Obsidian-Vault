@@ -1,0 +1,17 @@
+![[Pasted image 20250224203922.png]]
+![[Pasted image 20250224204016.png]]
+layout как разрешение
+(FlowLayout.LEFT)
+![[Pasted image 20250224204959.png]]
+![[Pasted image 20250224205019.png]]
+![[Pasted image 20250224205123.png]]
+![[Pasted image 20250224212357.png]]
+![[Pasted image 20250224212605.png]]
+![[Pasted image 20250224212852.png]]
+![[Pasted image 20250224212949.png]]
+![[Pasted image 20250224213614.png]]
+![[Pasted image 20250224213823.png]]
+![[Pasted image 20250224213910.png]]
+![[Pasted image 20250224213948.png]]
+![[Pasted image 20250224215328.png]]
+![[Pasted image 20250224215524.png]]

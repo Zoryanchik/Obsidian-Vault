@@ -1,0 +1,8 @@
+![[Pasted image 20241202193547.png]]
+![[Pasted image 20241202193717.png]]
+![[Pasted image 20241202193853.png]]
+![[Pasted image 20241202194005.png]]
+![[Pasted image 20241202194025.png]]![[Pasted image 20241202194109.png]]
+x is now the address of y ![[Pasted image 20241202194225.png]]
+![[Pasted image 20241202194358.png]]
+![[Pasted image 20241202194415.png]]
