@@ -1,0 +1,2 @@
+![[Pasted image 20251006170700.png]]![[Pasted image 20251006170759.png]]
+![[Pasted image 20251006171033.png]]![[Pasted image 20251006171159.png]]![[Pasted image 20251006171307.png]]![[Pasted image 20251006171257.png]]Protocols define the format, order of messages sent and received among network entities, and actions taken on message transmission, receipt
