@@ -13,3 +13,12 @@ Not restricted to digital and interactive systems.
 	Buttons, switches, wheels and levers in a cockpit
 	Control panel of everyday devices,
 	e.g. microwave oven, alarm cock, ...
+
+The user interface is the part of a system that we
+actually experience
+
+• Utility: What a system (device, product, app,…) enables the user to do
+
+• Usability: How well a user can use a system to achieve their goals
+
+• User experience (UX): The actual experience of using a system
