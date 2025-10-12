@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/1.Intro/3.Relations.md",
+                "file": "scc-221/1.Intro/4.Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Relations"
+              "title": "4.Lab"
             }
           },
           {
@@ -699,8 +699,10 @@
   },
   "active": "8c519da200246dcc",
   "lastOpenFiles": [
-    "scc-221/1.Intro/2.ER entity.md",
+    "screen/Pasted image 20251012172141.png",
+    "screen/Pasted image 20251012172133.png",
     "scc-221/1.Intro/3.Relations.md",
+    "scc-221/1.Intro/2.ER entity.md",
     "scc-221/1.Intro/4.Lab.md",
     "screen/Pasted image 20251012171628.png",
     "screen/Pasted image 20251012171304.png",
@@ -718,7 +720,6 @@
     "screen/Pasted image 20251011162327.png",
     "screen/Pasted image 20251011162159.png",
     "screen/Pasted image 20251011161813.png",
-    "screen/Pasted image 20251011161756.png",
     "scc-241/2.Model Human Processor and Time Scales/Model human processor.md",
     "scc-241/2.Model Human Processor and Time Scales",
     "scc-211/1.Software req/4.Requirements engineering.md",
