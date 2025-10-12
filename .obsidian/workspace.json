@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/1.Intro/2.ER entity.md",
+                "file": "scc-221/1.Intro/3.Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.ER entity"
+              "title": "3.Relations"
             }
           },
           {
@@ -699,8 +699,11 @@
   },
   "active": "8c519da200246dcc",
   "lastOpenFiles": [
-    "scc-221/1.Intro/3.Relations.md",
+    "screen/Pasted image 20251012170012.png",
+    "screen/Pasted image 20251012165935.png",
+    "screen/Pasted image 20251012165855.png",
     "scc-221/1.Intro/2.ER entity.md",
+    "scc-221/1.Intro/3.Relations.md",
     "scc-221/1.Intro/1.What is data-engineering.md",
     "scc-241/2.Model Human Processor and Time Scales/Perceptual System.md",
     "scc-241/2.Model Human Processor and Time Scales/Motor sytem.md",
@@ -716,8 +719,6 @@
     "screen/Pasted image 20251011161626.png",
     "screen/Pasted image 20251011161621.png",
     "screen/Pasted image 20251011161226.png",
-    "screen/Pasted image 20251011161220.png",
-    "screen/Pasted image 20251011161140.png",
     "scc-241/2.Model Human Processor and Time Scales/Model human processor.md",
     "scc-241/2.Model Human Processor and Time Scales",
     "scc-211/1.Software req/4.Requirements engineering.md",
