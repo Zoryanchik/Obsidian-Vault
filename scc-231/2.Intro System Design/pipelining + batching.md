@@ -1,0 +1,3 @@
+![[Pasted image 20251013185524.png]]![[Pasted image 20251013185704.png]]![[Pasted image 20251013185817.png]]Batching is ==the practice of grouping similar tasks together to be completed all at once, rather than handling them sporadically throughout the day==![[Pasted image 20251013185949.png]]
+![[Pasted image 20251013190124.png]]
+ ![[Pasted image 20251013190251.png]]![[Pasted image 20251013190403.png]]![[Pasted image 20251013190433.png]]
