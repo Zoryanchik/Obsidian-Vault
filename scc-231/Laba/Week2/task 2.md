@@ -15,3 +15,6 @@
 3. A good way to terminate a program is to use the exit system call (_i.e._, `sys.exit(0)`). What is the significance of the argument `0` (You can read about it in the [python documentation](https://docs.python.org/3/library/sys.html#sys.exit)) or by using the help pages in Linux `man 3 kill`)? What happens if you pass a non-zero value to `sys.exit()`? You can experiment by changing the argument to a non-zero value. In you terminal you can check the exit status of the last executed command using `echo $?`. What does the exit status indicate?
     
     > The argument of the exit command is the return value from a process. The command `echo $?` returns the exit status of the last executed command. An exit status of `0` typically indicates that the program completed successfully without any errors. Non-zero values indicate that an error occurred during the execution of the program. Different non-zero values can represent different types of errors, depending on how the program is designed to use them. Usually automated bash scripts use the exit status to determine if a command was successful or if it failed, and they can terminate execution.
+    
+    ![[Pasted image 20251016141803.png]]
+    
