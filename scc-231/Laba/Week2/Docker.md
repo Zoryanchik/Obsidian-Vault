@@ -1,0 +1,2 @@
+Devcontainers exploit an OS mechanism called namespaces to run isolated instances of the software that you will use for your lab activities and coursework. A container is a lightweight, standalone, and executable package hat includes everything needed to run a piece of software, including the code, runtime, libraries, and dependencies. They look like Virtual Machines, but they are much more lightweight. The most popular container technology is called [Docker](https://www.docker.com/).![[Pasted image 20251016132257.png]]
+![[Pasted image 20251016132524.png]]
