@@ -16,3 +16,5 @@
 5. Does smaller values of sleep duration lead to greater randomness in the order of the printed messages when running the command from question 2? You can experiment by changing the sleep duration to a smaller value (e.g., `0.01` seconds) and observing the output.
     
     > Yes, smaller values of sleep duration can lead to greater randomness in the order of the printed messages when running multiple instances of the program. This is because with shorter sleep durations, the processes are more likely to compete for CPU time, leading to more frequent context switches by the OS scheduler. As a result, the order in which the messages are printed can become less predictable and more interleaved, especially if the system is under load or if there are other processes running concurrently.
+    
+    ![[Pasted image 20251016134927.png]]![[Pasted image 20251016134936.png]]

@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/Week2/Code 1.md",
+                "file": "scc-231/Laba/Week2/task 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code 1"
+              "title": "task 2"
             }
           },
           {
@@ -699,9 +699,17 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251016135258.png",
+    "screen/Pasted image 20251016135052.png",
+    "scc-231/3.Processes and op systems/Limited direct execution.md",
+    "scc-231/3.Processes and op systems/What is a process.md",
+    "scc-231/3.Processes and op systems/Recap.md",
+    "scc-231/Laba/Week2/task 1.md",
+    "screen/Pasted image 20251016134936.png",
+    "screen/Pasted image 20251016134927.png",
+    "scc-231/Laba/Week2/task 2.md",
     "screen/Pasted image 20251016132855.png",
     "scc-231/Laba/Week2/Docker.md",
-    "scc-231/Laba/Week2/Code 1.md",
     "screen/Pasted image 20251016132524.png",
     "screen/Pasted image 20251016132257.png",
     "Ту ду/Задание.md",
@@ -712,10 +720,6 @@
     "screen/Pasted image 20251015194105.png",
     "screen/Pasted image 20251015194027.png",
     "screen/Pasted image 20251015193948.png",
-    "screen/Pasted image 20251015193659.png",
-    "screen/Pasted image 20251015193634.png",
-    "screen/Pasted image 20251015193623.png",
-    "Pasted image 20241123222817.png",
     "scc-211/3.Use cases/1.USe cases.md",
     "scc-211/3.Use cases/Untitled",
     "scc-211/2.Software req/UML.md",
@@ -736,11 +740,7 @@
     "scc-221/2.Continue",
     "scc-221/1.Intro/1.What is data-engineering.md",
     "111/Java/9.Interfaces/Abstract Classes.md",
-    "scc-241/3.Vision and colour/colour.md",
-    "scc-231/3.Processes and op systems/Problem 2 CPU sharing.md",
     "scc-241/3.Vision and colour",
-    "scc-231/3.Processes and op systems/What is a process.md",
-    "scc-231/3.Processes and op systems/Limited direct execution.md",
     "scc-231/3.Processes and op systems",
     "scc-211/2.Software req",
     "scc-231/2.Intro System Design",
