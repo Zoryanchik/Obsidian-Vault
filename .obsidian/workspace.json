@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/Week2/task 3.md",
+                "file": "scc-231/Laba/Week2/task 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "task 3"
+              "title": "task 4"
             }
           },
           {
@@ -699,24 +699,25 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251016144632.png",
+    "screen/Pasted image 20251016144630.png",
+    "screen/Pasted image 20251016143909.png",
+    "screen/Pasted image 20251016143645.png",
+    "scc-231/Laba/Week2/task 3.md",
+    "scc-231/Laba/Week2/task 4.md",
     "screen/Pasted image 20251016143009.png",
     "screen/Pasted image 20251016142620.png",
     "screen/Pasted image 20251016142200.png",
     "Ту ду/Задание.md",
-    "scc-231/Laba/Week2/task 3.md",
     "screen/Pasted image 20251016141835.png",
     "scc-231/Laba/Week2/task 2.md",
     "screen/Pasted image 20251016141803.png",
     "screen/Pasted image 20251016140356.png",
     "screen/Pasted image 20251016140343.png",
-    "screen/Pasted image 20251016140327.png",
-    "screen/Pasted image 20251016135258.png",
-    "screen/Pasted image 20251016135052.png",
     "scc-231/3.Processes and op systems/Limited direct execution.md",
     "scc-231/3.Processes and op systems/What is a process.md",
     "scc-231/3.Processes and op systems/Recap.md",
     "scc-231/Laba/Week2/task 1.md",
-    "screen/Pasted image 20251016134936.png",
     "scc-231/Laba/Week2/Docker.md",
     "scc-231/Laba/Week2",
     "scc-231/Laba",
@@ -739,7 +740,6 @@
     "scc-221/1.Intro/4.Lab.md",
     "scc-221/1.Intro/3.5.Er model.md",
     "scc-221/2.Continue",
-    "scc-221/1.Intro/1.What is data-engineering.md",
     "scc-241/3.Vision and colour",
     "scc-231/3.Processes and op systems",
     "scc-211/2.Software req",
