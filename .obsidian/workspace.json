@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/2.Continue/Weak entity and relationship set.md",
+                "file": "scc-241/Lab/week2/E2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weak entity and relationship set"
+              "title": "E2"
             }
           },
           {
@@ -699,6 +699,7 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/3.Relational Database/exercise.md",
     "screen/Pasted image 20251022010728.png",
     "scc-221/Lab/week 3.2.md",
@@ -727,7 +728,6 @@
     "scc-241/5.Fitts law and movment",
     "scc-221/2.Continue/2.Participation constraints.md",
     "scc-221/2.Continue/1 to many and etc.md",
-    "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/1.Intro/4.Lab.md",
     "scc-221/1.Intro/3.Relations.md",
     "scc-221/1.Intro/3.5.Er model.md",
