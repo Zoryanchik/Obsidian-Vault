@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/3.Relational Database/exercise.md",
+                "file": "scc-221/2.Continue/Weak entity and relationship set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise"
+              "title": "Weak entity and relationship set"
             }
           },
           {
@@ -699,9 +699,9 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "scc-221/3.Relational Database/exercise.md",
     "screen/Pasted image 20251022010728.png",
     "scc-221/Lab/week 3.2.md",
-    "scc-221/3.Relational Database/exercise.md",
     "screen/Pasted image 20251022010009.png",
     "screen/Pasted image 20251022005750.png",
     "screen/Pasted image 20251022005526.png",
@@ -713,7 +713,6 @@
     "screen/Pasted image 20251022004532.png",
     "screen/Pasted image 20251022004338.png",
     "screen/Pasted image 20251022004312.png",
-    "screen/Pasted image 20251022004138.png",
     "scc-221/3.Relational Database/3.Referential integrity.md",
     "scc-221/3.Relational Database/2.Relationship database.md",
     "scc-221/3.Relational Database/1.REvision.md",
