@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
+                "file": "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Finding keys using F+"
+              "title": "3.Normal Forms"
             }
           },
           {
@@ -699,19 +699,20 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251023203100.png",
+    "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
+    "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "screen/Pasted image 20251023202202.png",
     "screen/Pasted image 20251023202007.png",
     "screen/Pasted image 20251023201825.png",
     "screen/Pasted image 20251023201812.png",
     "screen/Pasted image 20251023201517.png",
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
-    "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
     "screen/Pasted image 20251023201239.png",
     "screen/Pasted image 20251023200923.png",
     "screen/Pasted image 20251023195659.png",
     "screen/Pasted image 20251023195437.png",
     "screen/Pasted image 20251023195001.png",
-    "screen/Pasted image 20251023194951.png",
     "scc-221/3.Relational Database/Study this one.md",
     "scc-221/4.Functional dependensis and Normal forms",
     "scc-231/4.Memory Virtualisation/1.Recap.md",
@@ -738,7 +739,6 @@
     "scc-241/5.Fitts law and movment",
     "scc-221/2.Continue/2.Participation constraints.md",
     "scc-221/2.Continue/1 to many and etc.md",
-    "scc-221/1.Intro/4.Lab.md",
     "scc-221/Lab",
     "scc-231/4.Memory Virtualisation",
     "scc-241/Lab/week2",
