@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/5.Software architecture/Sftw architecture.md",
+                "file": "scc-211/Lab/weeek2/Laba 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sftw architecture"
+              "title": "Laba 2"
             }
           },
           {
@@ -697,8 +697,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251024003522.png",
+    "screen/Pasted image 20251024003437.png",
+    "screen/Pasted image 20251024003318.png",
+    "scc-211/Lab/week 1/Question 1 Mary.md",
+    "scc-211/Lab/weeek2/Laba 2.md",
+    "scc-211/Lab/weeek2",
+    "scc-241/Lab/week2/Untitled.md",
+    "scc-241/Lab/week2/E2.md",
+    "scc-241/5.Fitts law and movment/Fitts law.md",
+    "scc-221/5.Software architecture/Sftw architecture.md",
     "Ту ду/Задание.md",
     "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
     "screen/Pasted image 20251023213249.png",
@@ -710,19 +720,14 @@
     "screen/Pasted image 20251023211747.png",
     "screen/Pasted image 20251023211528.png",
     "screen/Pasted image 20251023211357.png",
-    "screen/Pasted image 20251023211130.png",
-    "screen/Pasted image 20251023210907.png",
     "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
     "scc-221/3.Relational Database/Study this one.md",
     "scc-221/4.Functional dependensis and Normal forms",
     "scc-231/4.Memory Virtualisation/1.Recap.md",
     "scc-231/4.Memory Virtualisation/2.OS Memory Virtualisation.md",
-    "scc-221/5.Software architecture/Sftw architecture.md",
     "scc-221/3.Relational Database/exercise.md",
-    "scc-241/Lab/week2/Untitled.md",
     "scc-221/5.Software architecture",
-    "scc-241/Lab/week2/E2.md",
     "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/Lab/week 3.2.md",
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
@@ -734,16 +739,12 @@
     "scc-221/3.Relational Database",
     "scc-241/5.Fitts law and movment/Speed-Accuracy Trade-off.md",
     "scc-241/5.Fitts law and movment/Index of Difficulty (ID).md",
-    "scc-241/5.Fitts law and movment/Fitts law.md",
-    "scc-221/Lab/week2.md",
     "scc-241/5.Fitts law and movment",
-    "scc-221/2.Continue/2.Participation constraints.md",
     "scc-221/Lab",
     "scc-231/4.Memory Virtualisation",
     "scc-241/Lab/week2",
     "scc-241/Lab",
     "scc-241/4.Visual Perception",
-    "scc-211/Lab/week 1",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
