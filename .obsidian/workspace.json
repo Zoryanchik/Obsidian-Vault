@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ту ду/Задание.md",
+                "file": "scc-221/5.Software architecture/Sftw architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задание"
+              "title": "Sftw architecture"
             }
           },
           {
@@ -697,8 +697,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c03f3d3ac0d52e6f",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "Ту ду/Задание.md",
     "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
     "screen/Pasted image 20251023213249.png",
     "screen/Pasted image 20251023213119.png",
@@ -717,10 +718,10 @@
     "scc-221/4.Functional dependensis and Normal forms",
     "scc-231/4.Memory Virtualisation/1.Recap.md",
     "scc-231/4.Memory Virtualisation/2.OS Memory Virtualisation.md",
-    "scc-241/6.Software architecture/Sftw architecture.md",
+    "scc-221/5.Software architecture/Sftw architecture.md",
     "scc-221/3.Relational Database/exercise.md",
     "scc-241/Lab/week2/Untitled.md",
-    "scc-241/6.Software architecture",
+    "scc-221/5.Software architecture",
     "scc-241/Lab/week2/E2.md",
     "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/Lab/week 3.2.md",
@@ -731,7 +732,6 @@
     "scc-221/Lab/week 3.md",
     "scc-221/2.Continue/3.Fill this.md",
     "scc-221/3.Relational Database",
-    "Ту ду/Задание.md",
     "scc-241/5.Fitts law and movment/Speed-Accuracy Trade-off.md",
     "scc-241/5.Fitts law and movment/Index of Difficulty (ID).md",
     "scc-241/5.Fitts law and movment/Fitts law.md",
