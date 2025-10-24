@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/6.Input Models/Pointing and Crossing.md",
+                "file": "scc-241/6.Input Models/Keystroke-Level Model (KLM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointing and Crossing"
+              "title": "Keystroke-Level Model (KLM)"
             }
           },
           {
@@ -699,19 +699,22 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251024234204.png",
+    "screen/Pasted image 20251024233714.png",
+    "screen/Pasted image 20251024233257.png",
+    "screen/Pasted image 20251024233114.png",
+    "scc-241/6.Input Models/Steering Law.md",
+    "scc-241/6.Input Models/Keystroke-Level Model (KLM).md",
+    "screen/Pasted image 20251024232803.png",
+    "screen/Pasted image 20251024232730.png",
+    "scc-241/6.Input Models/Pointing and Crossing.md",
+    "screen/Pasted image 20251024232221.png",
+    "screen/Pasted image 20251024232205.png",
+    "screen/Pasted image 20251024232144.png",
     "scc-241/Lab/week2/Untitled.md",
     "scc-241/6.Input Models/Input task.md",
-    "scc-241/6.Input Models/Pointing and Crossing.md",
     "screen/Pasted image 20251024231619.png",
     "screen/Pasted image 20251024231240.png",
-    "screen/Pasted image 20251024231231.png",
-    "screen/Pasted image 20251024230910.png",
-    "screen/Pasted image 20251024230742.png",
-    "screen/Pasted image 20251024230731.png",
-    "screen/Pasted image 20251024230713.png",
-    "screen/Pasted image 20251024230629.png",
-    "screen/Pasted image 20251024230400.png",
-    "screen/Pasted image 20251024230352.png",
     "scc-241/6.Input Models/Recap.md",
     "scc-211/Lab/weeek2/Laba 2.md",
     "scc-241/6.Input Models",
@@ -736,8 +739,6 @@
     "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/Lab/week 3.2.md",
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
-    "scc-221/3.Relational Database/3.Referential integrity.md",
-    "scc-221/3.Relational Database/2.Relationship database.md",
     "scc-221/3.Relational Database",
     "scc-241/5.Fitts law and movment",
     "scc-221/Lab",
