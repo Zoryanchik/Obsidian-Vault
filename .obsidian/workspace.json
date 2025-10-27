@@ -697,8 +697,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c03f3d3ac0d52e6f",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-211/6.Unified Modelling Language (UML)",
     "scc-221/3.Relational Database/3.Referential integrity.md",
     "scc-221/3.Relational Database/2.Relationship database.md",
     "scc-211/5.Software architecture/Sftw architecture.md",
@@ -737,7 +738,6 @@
     "scc-231/5.Process communication and Threads/2.pipe.md",
     "scc-231/5.Process communication and Threads/1.Ipc.md",
     "scc-231/5.Process communication and Threads/Thread.md",
-    "scc-231/5.Process communication and Threads/4.IPC with shared memory.md",
     "scc-231/5.Process communication and Threads/Untitled",
     "scc-231/5.Process communication and Threads",
     "scc-241/7.User Center desiughn",
