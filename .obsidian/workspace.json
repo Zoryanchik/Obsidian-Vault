@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/5.Process communication and Threads/3.Pipe cont.md",
+                "file": "scc-241/7.User Center desiughn/1.User Center Desighn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Pipe cont"
+              "title": "1.User Center Desighn"
             }
           },
           {
@@ -699,9 +699,9 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "scc-231/5.Process communication and Threads/3.Pipe cont.md",
     "scc-231/5.Process communication and Threads/2.pipe.md",
     "scc-231/5.Process communication and Threads/1.Ipc.md",
-    "scc-231/5.Process communication and Threads/3.Pipe cont.md",
     "scc-231/5.Process communication and Threads/Thread.md",
     "screen/Pasted image 20251027185056.png",
     "screen/Pasted image 20251027184540.png",
