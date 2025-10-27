@@ -1,0 +1,2 @@
+![[Pasted image 20251028002037.png]]![[Pasted image 20251028002241.png]]![[Pasted image 20251028002234.png]]The purpose of this exercise is to add up the time for all these operators (using the values from the table ) to get a total time for the manual "undo" process. This total time can then be compared to the much shorter time it would take to just press a single "Undo" button (which would probably be one `MI` operation).
+![[Pasted image 20251028002401.png]]
