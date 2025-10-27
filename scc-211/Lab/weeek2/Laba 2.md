@@ -1,4 +1,4 @@
-![[Pasted image 20251024003318.png]]![[Pasted image 20251024003437.png]]![[Pasted image 20251024003522.png]]![[Pasted image 20251024004040.png]]![[Pasted image 20251024004605.png]]![[Pasted image 20251024015717.png]]@startuml
+![[Pasted image 20251024003318.png]]![[Pasted image 20251024003437.png]]![[Pasted image 20251024003522.png]]![[Pasted image 20251024004040.png]]![[Pasted image 20251024004605.png]]![[Pasted image 20251028003337.png]]![[Pasted image 20251024015717.png]]@startuml
 left to right direction
 actor authors
 actor PC
