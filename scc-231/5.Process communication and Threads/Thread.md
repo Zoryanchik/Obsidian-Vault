@@ -69,4 +69,4 @@
 
 
 **What it is:** Locks are for protecting data, but condition variables are for **signaling** and **coordination**. They let threads wait for a specific _condition_ to become true.
-![[Pasted image 20251027184540.png]]
+![[Pasted image 20251027184540.png]]![[Pasted image 20251027185056.png]]
