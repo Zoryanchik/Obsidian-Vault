@@ -9,4 +9,31 @@ The `CANNOT NULL` (which is standard SQL `NOT NULL`) is on the right side due to
 | **`Bus` Symbol** | **Double line** (Total Participation)  | **Single line** (Partial Participation) |
 | **Foreign Key**  | `TeacherID_FK` in `Bus` table          | `TeacherID_FK` in `Bus` table           |
 | **Null Status**  | **`NOT NULL`**                         | **`NULL` is Allowed**                   |
-![[Pasted image 20251028192922.png]]![[Pasted image 20251028193036.png]]![[Pasted image 20251028193354.png]]
+![[Pasted image 20251028192922.png]]![[Pasted image 20251028193036.png]]![[Pasted image 20251028193354.png]]****
+![[Pasted image 20251028194220.png]]![[Pasted image 20251028194439.png]]2.2)
+
+CK{{ID},{Weight}} 
+PA {ID,Weight}
+NPA {TYPE, SALARY, ADDRESS}
+
+A->T (T->A)
+
+2.3) IN 1NF, IN 2NF, Not in 3NF so the table is in 2NF.
+
+2.4) R1 (ID (PK), TYPE, SALARY,Weight )
+     R2 (Type (PK), ADDRESS)  (T->A)
+	 
+3.1  {A-> B, B->C, C-> GEF}	 
+
+{A-> B, B->C, C-> GEF, A->GEF (BY TRANSITIVITY)}	 
+
+
+{A-> B, B->C, C-> GEF, A->GEF, AAAA->ABCGEF (BY AUGMENTATION)}	 
+
+{A-> B, B->C, C-> GEF, A->GEF, A->ABCGEF}	 
+
+{A-> B, B->C, C-> GEF, A->GEF, AD->ABCDGEF}	 
+
+1NF, IT IS NOT IN 2NF
+
+R1(AB) R2(AC) R3(AGEF) R4(AD) IN 2NF AND IN 3NF
