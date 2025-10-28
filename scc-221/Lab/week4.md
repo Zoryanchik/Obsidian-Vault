@@ -23,4 +23,4 @@ A->T (T->A)
 2.4) R1 (ID (PK), TYPE, SALARY,Weight )
      R2 (Type (PK), ADDRESS)  (T->A)
 	 
-![[Pasted image 20251028195618.png]]![[Pasted image 20251028195948.png]]
+![[Pasted image 20251028195618.png]]![[Pasted image 20251028195948.png]]![[Pasted image 20251028200458.png]]![[Pasted image 20251028200750.png]]![[Pasted image 20251028200858.png]]
