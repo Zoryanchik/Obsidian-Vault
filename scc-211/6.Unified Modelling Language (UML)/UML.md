@@ -70,3 +70,37 @@ When identifying relationships, ask:
     
 
 **Important:** The lecture slides note that you will be expected to use **PlantUML** for your diagrams.
+
+![[Pasted image 20251028025152.png]]@startuml
+skinparam classAttributeIconSize 0
+
+abstract class Contact {
+  # name: String
+  # emailAddress: String
+  # phoneNumber: String
+  + editDetails(String, String, String): void
+}
+
+class LocalContact extends Contact {
+  - preferredName: String
+  + getPreferredName(): String
+  + setPreferredName(String): void
+}
+
+class OverseasContact extends Contact {
+  - language: String
+  + getLanguage(): String
+  + setLanguage(String): void
+}
+
+class ContactBook {
+  - contacts: List<Contact>
+  + createNewContact(Contact): void
+  + addContact(Contact): void
+  + removeContact(Contact): void
+  + searchByName(String): List<Contact>
+  + searchByEmail(String): List<Contact>
+}
+
+ContactBook "1" o-- "*" Contact : manages >
+@enduml
