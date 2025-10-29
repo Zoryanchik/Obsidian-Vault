@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/5.Data enginerring/Expressions and Strings.md",
+                "file": "scc-221/5.Data enginerring/Nested Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expressions and Strings"
+              "title": "Nested Queries"
             }
           },
           {
@@ -699,20 +699,20 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
-    "screen/Pasted image 20251029211443.png",
-    "screen/Pasted image 20251029211104.png",
-    "scc-221/5.Data enginerring/What will happen if more than relations are used.md",
     "scc-221/5.Data enginerring/Expressions and Strings.md",
-    "screen/Pasted image 20251029210438.png",
-    "screen/Pasted image 20251029205622.png",
-    "screen/Pasted image 20251029205510.png",
-    "screen/Pasted image 20251029204925.png",
-    "screen/Pasted image 20251029204343.png",
-    "screen/Pasted image 20251029204331.png",
+    "screen/Pasted image 20251029213150.png",
+    "scc-221/5.Data enginerring/Nested Queries.md",
+    "scc-221/5.Data enginerring/What will happen if more than relations are used.md",
+    "screen/Pasted image 20251029213059.png",
+    "screen/Pasted image 20251029212616.png",
+    "screen/Pasted image 20251029212349.png",
+    "screen/Pasted image 20251029212339.png",
+    "screen/Pasted image 20251029212250.png",
+    "screen/Pasted image 20251029212225.png",
+    "screen/Pasted image 20251029212136.png",
+    "screen/Pasted image 20251029212046.png",
+    "screen/Pasted image 20251029211443.png",
     "scc-221/5.Data enginerring/Inserting and querying.md",
-    "screen/Pasted image 20251029203950.png",
-    "screen/Pasted image 20251029203630.png",
-    "screen/Pasted image 20251029203534.png",
     "scc-221/5.Data enginerring/Referential Integrity.md",
     "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
     "scc-221/5.Data enginerring/MySQL.md",
@@ -736,7 +736,6 @@
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
-    "scc-241/5.Fitts law and movment/Speed-Accuracy Trade-off.md",
     "scc-241/Lab/week3",
     "scc-241/examen context week 1-3, workshop week 1 -4",
     "scc-211/6.Unified Modelling Language (UML)",
