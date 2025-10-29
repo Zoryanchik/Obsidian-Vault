@@ -5,4 +5,4 @@
 - **Project:** From the rows that are left, throw away all the columns you _didn't_ ask for in the `SELECT` list.
     
 - **Remove Duplicates:** If you used `DISTINCT`, clean up the final result by deleting any identical rows.
-- ![[Pasted image 20251029204925.png]]
+- ![[Pasted image 20251029204925.png]]![[Pasted image 20251029205622.png]]
