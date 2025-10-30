@@ -1,0 +1,1 @@
+![[Pasted image 20251030180349.png]]![[Pasted image 20251030180730.png]]hoop by hoop jumpt localy from 1 to atoher to get to ur destination
