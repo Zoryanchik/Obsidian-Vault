@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
+                "file": "scc-231/6.Introduction to Layering/Switching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet-switching  + delay"
+              "title": "Switching"
             }
           },
           {
@@ -699,26 +699,25 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "scc-231/6.Introduction to Layering/Rev questions.md",
+    "scc-231/6.Introduction to Layering/Introducing Abstractions.md",
+    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
+    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
+    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
+    "screen/Pasted image 20251030211630.png",
+    "screen/Pasted image 20251030211549.png",
+    "screen/Pasted image 20251030211534.png",
+    "screen/Pasted image 20251030211505.png",
     "screen/Pasted image 20251030210557.png",
     "screen/Pasted image 20251030210534.png",
     "screen/Pasted image 20251030210433.png",
     "screen/Pasted image 20251030210224.png",
     "screen/Pasted image 20251030210216.png",
-    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
-    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
-    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
     "screen/Pasted image 20251030210118.png",
-    "screen/Pasted image 20251030210053.png",
-    "screen/Pasted image 20251030210017.png",
-    "screen/Pasted image 20251030205348.png",
-    "screen/Pasted image 20251030204951.png",
-    "screen/Pasted image 20251030204136.png",
-    "scc-231/6.Introduction to Layering/Rev questions.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering/Network core.md",
     "scc-231/6.Introduction to Layering/What’s a Protocol.md",
     "scc-231/6.Introduction to Layering/Switching.md",
-    "scc-231/6.Introduction to Layering/Introducing Abstractions.md",
     "scc-231/6.Introduction to Layering/Internet Structure.md",
     "scc-221/Lab/week4.md",
     "scc-231/6.Introduction to Layering",
