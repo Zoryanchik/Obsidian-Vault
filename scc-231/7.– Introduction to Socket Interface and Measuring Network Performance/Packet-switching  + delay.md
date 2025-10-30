@@ -2,4 +2,4 @@
 ![[Pasted image 20251030210224.png]]
 ![[Pasted image 20251030210433.png]]![[Pasted image 20251030210534.png]]![[Pasted image 20251030210557.png]]
 ![[Pasted image 20251030211505.png]]![[Pasted image 20251030211534.png]]![[Pasted image 20251030211549.png]]![[Pasted image 20251030211630.png]]![[Pasted image 20251030212459.png]]![[Pasted image 20251030212707.png]]
-![[Pasted image 20251030213029.png]]![[Pasted image 20251030213125.png]]![[Pasted image 20251030213225.png]]
+![[Pasted image 20251030213029.png]]![[Pasted image 20251030213125.png]]![[Pasted image 20251030213225.png]]![[Pasted image 20251030220511.png]]![[Pasted image 20251030220545.png]]![[Pasted image 20251030220845.png]]
