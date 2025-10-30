@@ -1,0 +1,4 @@
+![[Pasted image 20251030200836.png]]a **socket** is an **API** (Application Programming Interface) that acts like a file, allowing a **process** (application) to send and receive messages over a network.
+
+It's the endpoint for communication, connecting the application (controlled by the developer) to the network layers (controlled by the OS).
+![[Pasted image 20251030201105.png]]![[Pasted image 20251030201316.png]]![[Pasted image 20251030201715.png]]![[Pasted image 20251030201908.png]]![[Pasted image 20251030202217.png]]![[Pasted image 20251030202248.png]]
