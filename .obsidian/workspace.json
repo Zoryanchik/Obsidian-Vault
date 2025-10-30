@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/6.Introduction to Layering/Switching.md",
+                "file": "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switching"
+              "title": "Packet-switching  + delay"
             }
           },
           {
@@ -699,6 +699,12 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251030213225.png",
+    "screen/Pasted image 20251030213125.png",
+    "screen/Pasted image 20251030213029.png",
+    "screen/Pasted image 20251030212707.png",
+    "screen/Pasted image 20251030212459.png",
+    "scc-231/6.Introduction to Layering/Switching.md",
     "scc-231/6.Introduction to Layering/Rev questions.md",
     "scc-231/6.Introduction to Layering/Introducing Abstractions.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
@@ -710,14 +716,9 @@
     "screen/Pasted image 20251030211505.png",
     "screen/Pasted image 20251030210557.png",
     "screen/Pasted image 20251030210534.png",
-    "screen/Pasted image 20251030210433.png",
-    "screen/Pasted image 20251030210224.png",
-    "screen/Pasted image 20251030210216.png",
-    "screen/Pasted image 20251030210118.png",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering/Network core.md",
     "scc-231/6.Introduction to Layering/What’s a Protocol.md",
-    "scc-231/6.Introduction to Layering/Switching.md",
     "scc-231/6.Introduction to Layering/Internet Structure.md",
     "scc-221/Lab/week4.md",
     "scc-231/6.Introduction to Layering",
