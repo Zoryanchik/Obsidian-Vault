@@ -25,7 +25,12 @@ A->T (T->A)
 	 
 ![[Pasted image 20251028195618.png]]![[Pasted image 20251028195948.png]]![[Pasted image 20251028200458.png]]![[Pasted image 20251028200750.png]]![[Pasted image 20251028200858.png]
 ![[Pasted image 20251028201857.png]
-![[Pasted image 20251028202148.png]]![[Pasted image 20251028202344.png]]![[Pasted image 20251028202412.png]]![[Pasted image 20251028204308.png]]![[Pasted image 20251028204540.png]]![[Pasted image 20251028204706.png]]![[Pasted image 20251028205021.png]]![[Pasted image 20251028205211.png]]![[Pasted image 20251028205331.png]]![[Pasted image 20251028205546.png]]
+![[Pasted image 20251028202148.png]]![[Pasted image 20251028202344.png]]![[Pasted image 20251028202412.png]]![[Pasted image 20251028204308.png]]![[Pasted image 20251028204540.png]]![[Pasted image 20251028204706.png]]![[Pasted image 20251028205021.png]]
+or we can say ab ac aegf ad     
+
+
+
+![[Pasted image 20251028205211.png]]![[Pasted image 20251028205331.png]]![[Pasted image 20251028205546.png]]
 For _any_ functional dependency in the table (like $X \to Y$), the left side ($X$) **must be a superkey**.
 
 
