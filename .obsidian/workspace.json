@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week3/1a.md",
+                "file": "scc-231/5.Process communication and Threads/2.pipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1a"
+              "title": "2.pipe"
             }
           },
           {
@@ -699,11 +699,16 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251102024620.png",
+    "screen/Pasted image 20251102024601.png",
+    "scc-231/6.Introduction to Layering/Network core.md",
+    "scc-231/6.Introduction to Layering/Internet Structure.md",
+    "scc-231/6.Introduction to Layering/What’s a Protocol.md",
+    "scc-231/Laba/week3/1a.md",
     "screen/Pasted image 20251102022454.png",
     "screen/Pasted image 20251102022241.png",
     "scc-231/Laba/Week2/Docker.md",
     "scc-231/Laba/Week2/task 1.md",
-    "scc-231/Laba/week3/1a.md",
     "scc-231/Laba/Week2/task 4.md",
     "scc-231/Laba/Week2/task 3.md",
     "scc-231/Laba/Week2/task 2.md",
@@ -718,8 +723,6 @@
     "scc-211/6.Unified Modelling Language (UML)/UML.md",
     "scc-211/5.Software architecture/Sftw architecture.md",
     "screen/Pasted image 20251031174107.png",
-    "screen/Pasted image 20251031174039.png",
-    "screen/Pasted image 20251031173908.png",
     "scc-211/Lab/week3",
     "scc-211/6.5.Examples/Untitled.md",
     "scc-211/Lab/weeek2/Laba 2.md",
@@ -735,9 +738,6 @@
     "scc-221/Lab/week 3.2.md",
     "scc-231/8.Web & HTTP/Untitled.md",
     "scc-231/8.Web & HTTP",
-    "scc-241/Lab/week3/Fits law tutorial.md",
-    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
-    "scc-231/6.Introduction to Layering/Switching.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering",
     "scc-221/5.Data enginerring",
