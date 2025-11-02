@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week3/1b.md",
+                "file": "scc-231/Laba/week3/2a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1b"
+              "title": "2a"
             }
           },
           {
@@ -699,11 +699,16 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251102031243.png",
+    "screen/Pasted image 20251102031235.png",
+    "screen/Pasted image 20251102031223.png",
+    "scc-231/Laba/week3/1b.md",
+    "scc-231/Laba/week3/2a.md",
+    "screen/Pasted image 20251102030809.png",
     "screen/Pasted image 20251102030207.png",
     "screen/Pasted image 20251102030152.png",
     "screen/Pasted image 20251102025959.png",
     "scc-231/5.Process communication and Threads/2.pipe.md",
-    "scc-231/Laba/week3/1b.md",
     "screen/Pasted image 20251102024620.png",
     "screen/Pasted image 20251102024601.png",
     "scc-231/6.Introduction to Layering/Network core.md",
@@ -719,10 +724,6 @@
     "scc-231/Laba/Week2/task 2.md",
     "scc-211/Lab/week3/Untitled.md",
     "scc-231/Laba/week3",
-    "screen/Pasted image 20251031175604.png",
-    "screen/Pasted image 20251031175446.png",
-    "screen/Pasted image 20251031175311.png",
-    "screen/Pasted image 20251031175235.png",
     "scc-211/6.Unified Modelling Language (UML)/UML.md",
     "scc-211/5.Software architecture/Sftw architecture.md",
     "scc-211/Lab/week3",
@@ -736,7 +737,6 @@
     "scc-221/5.Data enginerring/Recap.md",
     "scc-221/5.Data enginerring/MySQL.md",
     "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
-    "scc-221/5.Data enginerring/Nested Queries.md",
     "scc-231/8.Web & HTTP",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering",
