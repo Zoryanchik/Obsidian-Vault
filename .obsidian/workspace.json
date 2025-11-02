@@ -389,12 +389,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week4/Untitled.md",
+                "file": "scc-231/Laba/week4/1.Mininet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1.Mininet"
             }
           },
           {
@@ -699,8 +699,9 @@
   },
   "active": "c03f3d3ac0d52e6f",
   "lastOpenFiles": [
+    "screen/Pasted image 20251102233149.png",
     "scc-231/Laba/week3/2b.md",
-    "scc-231/Laba/week4/Untitled.md",
+    "scc-231/Laba/week4/1.Mininet.md",
     "scc-231/Laba/week4",
     "screen/Pasted image 20251102032712.png",
     "screen/Pasted image 20251102032603.png",
@@ -737,7 +738,6 @@
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
     "scc-221/5.Data enginerring/Recap.md",
-    "scc-221/5.Data enginerring/MySQL.md",
     "scc-231/8.Web & HTTP",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering",
