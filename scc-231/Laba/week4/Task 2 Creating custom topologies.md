@@ -1,1 +1,2 @@
-![[Pasted image 20251102235934.png]]![[Pasted image 20251102235948.png]]![[Pasted image 20251103000002.png]]![[Pasted image 20251103000102.png]]![[Pasted image 20251103000438.png]]
+![[Pasted image 20251102235934.png]]![[Pasted image 20251102235948.png]]![[Pasted image 20251103000002.png]]![[Pasted image 20251103000102.png]]![[Pasted image 20251103000438.png]]mininet> h1 ping -c 1 h4
+![[Pasted image 20251103001454.png]]

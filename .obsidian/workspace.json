@@ -403,12 +403,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week4/Task 2 Creating custom topologies.md",
+                "file": "scc-231/Laba/week4/Task 3 Traffic inspection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 2 Creating custom topologies"
+              "title": "Task 3 Traffic inspection"
             }
           },
           {
@@ -713,19 +713,20 @@
   },
   "active": "45a614d62dc60e66",
   "lastOpenFiles": [
+    "screen/Pasted image 20251103001818.png",
+    "screen/Pasted image 20251103001806.png",
+    "screen/Pasted image 20251103001752.png",
+    "scc-231/Laba/week4/Task 2 Creating custom topologies.md",
+    "scc-231/Laba/week4/Task 3 Traffic inspection.md",
+    "screen/Pasted image 20251103001454.png",
+    "scc-231/Laba/week4/1.Mininet.md",
     "screen/Pasted image 20251103000438.png",
     "screen/Pasted image 20251103000102.png",
     "screen/Pasted image 20251103000002.png",
     "screen/Pasted image 20251102235948.png",
     "screen/Pasted image 20251102235934.png",
-    "scc-231/Laba/week4/1.Mininet.md",
-    "scc-231/Laba/week4/Task 2 Creating custom topologies.md",
     "screen/Pasted image 20251102235842.png",
     "screen/Pasted image 20251102235613.png",
-    "screen/Pasted image 20251102235135.png",
-    "screen/Pasted image 20251102235028.png",
-    "screen/Pasted image 20251102233943.png",
-    "screen/Pasted image 20251102233919.png",
     "scc-231/Laba/week3/2b.md",
     "scc-231/Laba/week4",
     "scc-231/Laba/week3/2a.md",
@@ -751,7 +752,6 @@
     "scc-221/Lab/week4.md",
     "scc-221/Lab/week 3.md",
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
-    "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
     "scc-231/8.Web & HTTP",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering",
