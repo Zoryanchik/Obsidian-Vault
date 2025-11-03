@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week4/Task 3 Traffic inspection.md",
+                "file": "scc-231/Laba/week4/4.5 Iperf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 3 Traffic inspection"
+              "title": "4.5 Iperf"
             }
           },
           {
@@ -741,6 +741,13 @@
   },
   "active": "732545d0e71c23e0",
   "lastOpenFiles": [
+    "screen/Pasted image 20251103185430.png",
+    "scc-231/Laba/week4/task 4.md",
+    "scc-231/Laba/week4/4.5 Iperf.md",
+    "screen/Pasted image 20251103185400.png",
+    "screen/Pasted image 20251103185348.png",
+    "screen/Pasted image 20251103185334.png",
+    "scc-231/Laba/week4/Task 3 Traffic inspection.md",
     "screen/Pasted image 20251103184745.png",
     "screen/Pasted image 20251103184719.png",
     "screen/Pasted image 20251103175902.png",
@@ -748,17 +755,12 @@
     "screen/Pasted image 20251103175438.png",
     "screen/Pasted image 20251103175420.png",
     "screen/Pasted image 20251103174012.png",
-    "screen/Pasted image 20251103173958.png",
-    "screen/Pasted image 20251103173941.png",
-    "screen/Pasted image 20251103173540.png",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
     "scc-231/8.Web & HTTP/Maintaining user server state  cookies.md",
     "scc-231/8.Web & HTTP/Web caches.md",
     "scc-231/8.Web & HTTP/Non persistnet http.md",
-    "scc-231/Laba/week4/Task 3 Traffic inspection.md",
-    "screen/Pasted image 20251103173043.png",
     "scc-231/Laba/week5/Untitled.md",
     "scc-231/Laba/week3/2a.md",
     "scc-231/Laba/week5",
@@ -778,8 +780,6 @@
     "scc-231/Laba/week4",
     "scc-231/5.Process communication and Threads/2.pipe.md",
     "scc-231/6.Introduction to Layering/Network core.md",
-    "scc-231/6.Introduction to Layering/Internet Structure.md",
-    "scc-231/6.Introduction to Layering/What’s a Protocol.md",
     "scc-231/Laba/week3",
     "scc-211/Lab/week3",
     "scc-231/8.Web & HTTP",
