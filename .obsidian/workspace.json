@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/Lab/week3/Untitled.md",
+                "file": "scc-241/Lab/week2/E2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "E2"
             }
           },
           {
@@ -741,8 +741,12 @@
   },
   "active": "732545d0e71c23e0",
   "lastOpenFiles": [
-    "scc-241/Lab/week3/Fits law tutorial.md",
+    "scc-241/Lab/week 1/Untitled.md",
+    "scc-241/Lab/Untitled.canvas",
+    "scc-241/Lab/week 1",
+    "scc-211/Lab/weeek2/Laba 2.md",
     "scc-241/Lab/week3/Untitled.md",
+    "scc-241/Lab/week3/Fits law tutorial.md",
     "scc-241/Lab/week2/E2.md",
     "scc-241/Lab/week2/Untitled.md",
     "scc-241/JavaSkript/2.QuizQuestions/base java.md",
@@ -764,9 +768,6 @@
     "scc-241/3.Vision and colour/Phyisology of the Eye.md",
     "scc-241/2.Model Human Processor and Time Scales/Model human processor.md",
     "scc-241/8.Evaluation and Testing/ex.md",
-    "scc-211/Lab/week 1/Question 1 Mary.md",
-    "scc-211/Lab/weeek2/Laba 2.md",
-    "scc-221/Lab/week2.md",
     "screen/Pasted image 20251104024445.png",
     "screen/Pasted image 20251104023314.png",
     "screen/Pasted image 20251104023043.png",
@@ -786,7 +787,6 @@
     "scc-231/8.Web & HTTP",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance",
     "scc-231/6.Introduction to Layering",
-    "scc-221/5.Data enginerring",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
