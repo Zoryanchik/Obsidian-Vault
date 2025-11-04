@@ -67,3 +67,49 @@ Now that the world knows _where_ to look, you must set up that server to provide
     
 
 Would you like to know how to check the live DNS records for an existing domain?
+
+![[Pasted image 20251104024445.png]]## 🧩 **Breaking down your examples:**
+
+### 1️⃣ `dig -4 +trace example.com`
+
+- **`-4`** → forces IPv4 only (no IPv6).
+    
+- **`+trace`** → shows the **entire DNS resolution path**, starting from **root servers** down to the **authoritative server**.  
+    You’ll see how the query “travels” step by step:
+    
+    `. (root)  → .com (TLD)    → example.com (authoritative)`
+    ### 2️⃣ `dig www.lancaster.ac.uk CNAME`
+
+- This asks for the **CNAME record** (Canonical Name).
+    
+- CNAME tells you if a domain is **an alias** for another name.  
+    Example output:
+    
+    `www.lancaster.ac.uk.  CNAME  web-lb.lancaster.ac.uk.`
+    
+    Meaning → `www.lancaster.ac.uk` is just another name for `web-lb.lancaster.ac.uk`.
+    
+
+---
+
+### 3️⃣ `dig lancs.ac.uk MX`
+
+- Asks for **MX (Mail eXchanger)** records — i.e. which mail servers handle email for that domain.  
+    Example:
+    
+    `lancs.ac.uk.  MX  10 mail.lancs.ac.uk.`
+    
+    Meaning → mail for `@lancs.ac.uk` should go to **mail.lancs.ac.uk**.
+    
+
+---
+
+### 4️⃣ `dig www.google.com`
+
+- Queries the standard **A record** (IPv4 addresses).
+    
+- Google usually returns **multiple IPs** — this is **load balancing**:
+    
+    `www.google.com.  A  142.250.180.68 www.google.com.  A  142.250.180.100 ...`
+    
+    The order of these IPs can **change each time**, spreading traffic across multiple servers.
