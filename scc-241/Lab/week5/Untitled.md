@@ -46,15 +46,24 @@ Post-task questionnaires provide **immediate feedback on specific tasks**, ident
 
 ### **D) Levels of Measurement (Data Types)**
 
-|Variable|Type|Level of Measurement|
-|---|---|---|
-|**Menu type**|Factor|Nominal|
-|**Preference rating**|Measurement|Ordinal (e.g., Likert scale)|
-|**App used**|Factor|Nominal|
-|**Completion time**|Measurement|Ratio|
-|**Errors/success rate**|Measurement|Ratio (count, percentage)|
-|**Colour vision**|Factor|Nominal|
-|**Reaction time**|Measurement|Ratio|
+| Variable                | Type        | Level of Measurement         |
+| ----------------------- | ----------- | ---------------------------- |
+| **Menu type**           | Factor      | Nominal                      |
+| **Preference rating**   | Measurement | Ordinal (e.g., Likert scale) |
+| **App used**            | Factor      | Nominal                      |
+| **Completion time**     | Measurement | Ratio                        |
+| **Errors/success rate** | Measurement | Ratio (count, percentage)    |
+| **Colour vision**       | Factor      | Nominal                      |
+| **Reaction time**       | Measurement | Ratio                        |
+|                         |             |                              |
+
+|Level|Description|Example|What You Can Do With It|
+|---|---|---|---|
+|**Nominal**|Categories with _no numerical meaning_. You can only say whether things are the same or different.|Gender, app name, menu type|Count, mode, percentages|
+|**Ordinal**|Ordered categories — there is a ranking, but the distance between ranks isn’t equal.|Likert scale (e.g., 1=Strongly Disagree → 5=Strongly Agree), satisfaction ratings|Median, rank correlation|
+|**Interval**|Numeric values with _equal spacing_ between them, but no true zero.|Temperature in °C, time of day|Mean, standard deviation, t-tests|
+|**Ratio**|Like interval, but with a _true zero_, so ratios make sense (“twice as fast”).|Reaction time, number of errors, completion time|All statistical operations (including ratios)|
+
 
 ---
 
