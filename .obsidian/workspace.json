@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
+                "file": "scc-211/Lab/week3/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dependency Inversion Principle (DIP"
+              "title": "Untitled"
             }
           },
           {
@@ -741,9 +741,12 @@
   },
   "active": "732545d0e71c23e0",
   "lastOpenFiles": [
+    "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
+    "screen/Pasted image 20251110200415.png",
+    "screen/Pasted image 20251110200400.png",
+    "screen/Pasted image 20251110200335.png",
     "screen/Pasted image 20251110195742.png",
     "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
-    "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
     "scc-211/7.Solid principles/SOLID Design Principles.md",
     "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
     "scc-211/7.Solid principles/LSP.md",
@@ -753,10 +756,6 @@
     "screen/Pasted image 20251110192825.png",
     "screen/Pasted image 20251110192753.png",
     "screen/Pasted image 20251110191920.png",
-    "screen/Pasted image 20251110191901.png",
-    "screen/Pasted image 20251110191757.png",
-    "screen/Pasted image 20251110181759.png",
-    "screen/Pasted image 20251110181647.png",
     "scc-211/7.Solid principles/Untitled.md",
     "scc-211/Untitled.md",
     "scc-211/7.Solid principles",
