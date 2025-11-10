@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
+                "file": "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interface Segregation Principle (ISP)"
+              "title": "Dependency Inversion Principle (DIP"
             }
           },
           {
@@ -741,22 +741,23 @@
   },
   "active": "732545d0e71c23e0",
   "lastOpenFiles": [
-    "screen/Pasted image 20251110193211.png",
-    "scc-211/7.Solid principles/LSP.md",
+    "screen/Pasted image 20251110195742.png",
     "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
+    "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
+    "scc-211/7.Solid principles/SOLID Design Principles.md",
+    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
+    "scc-211/7.Solid principles/LSP.md",
+    "screen/Pasted image 20251110195530.png",
+    "screen/Pasted image 20251110195430.png",
+    "screen/Pasted image 20251110193211.png",
     "screen/Pasted image 20251110192825.png",
     "screen/Pasted image 20251110192753.png",
-    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
-    "scc-211/7.Solid principles/SOLID Design Principles.md",
     "screen/Pasted image 20251110191920.png",
     "screen/Pasted image 20251110191901.png",
     "screen/Pasted image 20251110191757.png",
     "screen/Pasted image 20251110181759.png",
     "screen/Pasted image 20251110181647.png",
-    "screen/Pasted image 20251110181426.png",
     "scc-211/7.Solid principles/Untitled.md",
-    "screen/Pasted image 20251110180943.png",
-    "screen/Pasted image 20251110180912.png",
     "scc-211/Untitled.md",
     "scc-211/7.Solid principles",
     "scc-211/6.Unified Modelling Language (UML)/UML.md",
@@ -781,7 +782,6 @@
     "scc-241/10.User Studies",
     "scc-241/8.Evaluation and Testing/ex.md",
     "scc-241/9.User Experience Metrics",
-    "scc-241/8.Evaluation and Testing/Analytical evaluation.md",
     "scc-241/Lab/Untitled.canvas",
     "scc-241/Lab/week 1",
     "scc-231/9.Domain Name System (DNS)",
