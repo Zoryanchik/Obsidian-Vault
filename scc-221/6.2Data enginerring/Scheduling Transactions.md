@@ -1,1 +1,5 @@
 ![[Pasted image 20251110221211.png]]![[Pasted image 20251110221237.png]]![[Pasted image 20251110221403.png]]![[Pasted image 20251110221642.png]]**Serializable schedule:** A concurrent (interleaved) schedule is "serializable" if it produces the **exact same final result** as one of the "serial" schedules.
+![[Pasted image 20251110222538.png]]**In short: T2 made a permanent decision based on temporary data from T1, and when T1 aborted, T2's decision was left based on nothing.** This is a serious violation of data integrity.
+
+![[Pasted image 20251110222908.png]]An unrepeatable read occurs when a transaction (**T1**) reads the same piece of data **twice**, but gets different values each time.
+![[Pasted image 20251110223153.png]]![[Pasted image 20251110223248.png]]![[Pasted image 20251110223330.png]]
