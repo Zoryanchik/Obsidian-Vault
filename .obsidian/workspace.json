@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
+                "file": "scc-221/6.2Data enginerring/Deadlocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock-Based Concurrency Control"
+              "title": "Deadlocks"
             }
           },
           {
@@ -741,19 +741,20 @@
   },
   "active": "732545d0e71c23e0",
   "lastOpenFiles": [
+    "screen/Pasted image 20251110232619.png",
+    "screen/Pasted image 20251110232137.png",
+    "screen/Pasted image 20251110231714.png",
+    "screen/Pasted image 20251110231401.png",
+    "screen/Pasted image 20251110231328.png",
+    "screen/Pasted image 20251110231249.png",
+    "screen/Pasted image 20251110231105.png",
+    "scc-221/6.2Data enginerring/Scheduling Transactions.md",
+    "scc-221/6.2Data enginerring/Deadlocks.md",
+    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "screen/Pasted image 20251110225945.png",
     "screen/Pasted image 20251110225930.png",
     "screen/Pasted image 20251110225137.png",
     "screen/Pasted image 20251110224755.png",
-    "screen/Pasted image 20251110224652.png",
-    "screen/Pasted image 20251110224558.png",
-    "screen/Pasted image 20251110224417.png",
-    "screen/Pasted image 20251110223643.png",
-    "scc-221/6.2Data enginerring/Scheduling Transactions.md",
-    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
-    "screen/Pasted image 20251110223330.png",
-    "screen/Pasted image 20251110223248.png",
-    "screen/Pasted image 20251110223153.png",
     "scc-221/6.2Data enginerring/Schedules.md",
     "scc-221/6.2Data enginerring/Reservation problem.md",
     "scc-221/6.2Data enginerring/Anatomy of a transaction.md",
@@ -779,7 +780,6 @@
     "scc-231/10.Udp/Transport layer.md",
     "scc-231/9.Domain Name System (DNS)/DNS - Design.md",
     "scc-231/9.Domain Name System (DNS)/DNS How does it work.md",
-    "scc-231/9.Domain Name System (DNS)/DNS records.md",
     "scc-231/10.Udp",
     "scc-241/Lab/week5",
     "scc-241/10.User Studies",
