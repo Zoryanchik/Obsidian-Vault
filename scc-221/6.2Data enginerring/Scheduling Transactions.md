@@ -1,0 +1,1 @@
+![[Pasted image 20251110221211.png]]![[Pasted image 20251110221237.png]]![[Pasted image 20251110221403.png]]![[Pasted image 20251110221642.png]]**Serializable schedule:** A concurrent (interleaved) schedule is "serializable" if it produces the **exact same final result** as one of the "serial" schedules.

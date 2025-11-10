@@ -1,0 +1,2 @@
+![[Pasted image 20251110213839.png]]![[Pasted image 20251110213910.png]]![[Pasted image 20251110213936.png]]![[Pasted image 20251110214048.png]]![[Pasted image 20251110214111.png]]![[Pasted image 20251110214315.png]]vn simple terms, **concurrency** is the ability of a system to handle multiple tasks at the same time.
+![[Pasted image 20251110214516.png]]![[Pasted image 20251110214550.png]]
