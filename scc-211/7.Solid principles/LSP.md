@@ -1,0 +1,1 @@
+![[Pasted image 20251110192753.png]]![[Pasted image 20251110192825.png]]If you have a piece of code that works with a **Parent** class (e.g., `Rectangle`), you should be able to swap in an object of a **Child** class (e.g., `Square`) and the program should **still work correctly** without breaking or having surprising side effects.
