@@ -1,0 +1,1 @@
+![[Pasted image 20251111184531.png]]![[Pasted image 20251111184545.png]]Spatial memory is the part of your memory responsible for recording, storing, and retrieving information about your environment and your orientation within it. It's what allows you to remember locations, navigate your surroundings, and recall where objects are placed.
