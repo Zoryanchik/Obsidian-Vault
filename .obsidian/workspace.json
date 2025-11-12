@@ -431,12 +431,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/11.Human Memory/Untitled.md",
+                "file": "scc-241/12.Human Attention/rev q.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "rev q"
+            }
+          },
+          {
+            "id": "3784436b642ba61b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           },
           {
@@ -580,7 +592,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -739,26 +751,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "3784436b642ba61b",
   "lastOpenFiles": [
-    "scc-241/12.Human Attention",
+    "scc-241/12.Human Attention/Effects on perception.md",
+    "scc-241/12.Human Attention/rev q.md",
+    "scc-241/12.Human Attention/Multitasking.md",
+    "screen/Pasted image 20251112040414.png",
+    "screen/Pasted image 20251112040357.png",
+    "screen/Pasted image 20251112040341.png",
+    "screen/Pasted image 20251112040313.png",
+    "screen/Pasted image 20251112040241.png",
+    "screen/Pasted image 20251112040234.png",
+    "screen/Pasted image 20251112040043.png",
+    "screen/Pasted image 20251112035343.png",
+    "screen/Pasted image 20251112035221.png",
+    "screen/Pasted image 20251112034958.png",
+    "scc-241/12.Human Attention/Attention.md",
+    "scc-241/12.Human Attention/Focused attention and selective.md",
+    "scc-241/11.Human Memory/Model Human Processor.md",
+    "scc-241/11.Human Memory/Spatial memory.md",
     "scc-241/11.Human Memory/Long-term memory.md",
     "scc-241/11.Human Memory/Working Memory.md",
     "scc-241/11.Human Memory/Untitled.md",
-    "scc-241/11.Human Memory/Spatial memory.md",
-    "screen/Pasted image 20251111184545.png",
-    "screen/Pasted image 20251111184531.png",
-    "screen/Pasted image 20251111184341.png",
-    "screen/Pasted image 20251111184333.png",
-    "screen/Pasted image 20251111184251.png",
-    "screen/Pasted image 20251111184138.png",
-    "screen/Pasted image 20251111184105.png",
-    "screen/Pasted image 20251111183906.png",
+    "scc-241/12.Human Attention",
     "scc-241/Human Memory/Models of Memory.md",
     "scc-241/10.User Studies/Study Objectives.md",
-    "screen/Pasted image 20251111183820.png",
-    "screen/Pasted image 20251111183737.png",
-    "scc-241/11.Human Memory/Model Human Processor.md",
     "scc-241/10.User Studies/Study Design.md",
     "scc-241/10.User Studies/Sampling.md",
     "scc-241/11.Human Memory",
@@ -775,10 +792,6 @@
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
     "scc-221/5.Data enginerring/Conceptual Evaluation.md",
     "scc-221/5.Data enginerring/question.md",
-    "scc-221/5.Data enginerring/Aggregate Operators.md",
-    "scc-221/5.Data enginerring/Nested Queries.md",
-    "scc-221/5.Data enginerring/Expressions and Strings.md",
-    "scc-221/5.Data enginerring/What will happen if more than relations are used.md",
     "scc-221/6.2Data enginerring",
     "scc-211/Lab/week4",
     "scc-211/7.Solid principles",
@@ -787,7 +800,6 @@
     "scc-241/10.User Studies",
     "scc-241/9.User Experience Metrics",
     "scc-241/Lab/Untitled.canvas",
-    "scc-241/Lab/week 1",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
