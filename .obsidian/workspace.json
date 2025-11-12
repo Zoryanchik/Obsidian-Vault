@@ -443,12 +443,14 @@
             "id": "3784436b642ba61b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "scc-241/Lab/week5/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -753,6 +755,8 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-241/Lab/week5/Untitled 1.md",
+    "scc-241/Lab/week5/Untitled.md",
     "scc-241/12.Human Attention/Effects on perception.md",
     "scc-241/12.Human Attention/rev q.md",
     "scc-241/12.Human Attention/Multitasking.md",
@@ -790,8 +794,6 @@
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
-    "scc-221/5.Data enginerring/Conceptual Evaluation.md",
-    "scc-221/5.Data enginerring/question.md",
     "scc-221/6.2Data enginerring",
     "scc-211/Lab/week4",
     "scc-211/7.Solid principles",
