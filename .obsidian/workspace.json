@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/11.Principles of Reliable Communication/Principles of reliable data transfer.md",
+                "file": "scc-231/11.Principles of Reliable Communication/rdt3.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles of reliable data transfer"
+              "title": "rdt3.0"
             }
           },
           {
@@ -755,19 +755,20 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
-    "screen/Pasted image 20251114002723.png",
-    "screen/Pasted image 20251114002706.png",
-    "screen/Pasted image 20251114002607.png",
-    "screen/Pasted image 20251114002521.png",
-    "screen/Pasted image 20251114002335.png",
-    "scc-231/10.Udp/UDP User Datagram Protoco.md",
+    "screen/Pasted image 20251114010628.png",
+    "screen/Pasted image 20251114010545.png",
+    "screen/Pasted image 20251114010101.png",
+    "screen/Pasted image 20251114010030.png",
+    "screen/Pasted image 20251114005932.png",
+    "screen/Pasted image 20251114005633.png",
+    "screen/Pasted image 20251114005622.png",
+    "screen/Pasted image 20251114005600.png",
+    "screen/Pasted image 20251114005437.png",
+    "screen/Pasted image 20251114005250.png",
+    "screen/Pasted image 20251114005135.png",
     "scc-231/11.Principles of Reliable Communication/Principles of reliable data transfer.md",
-    "screen/Pasted image 20251114002151.png",
-    "screen/Pasted image 20251114002125.png",
-    "screen/Pasted image 20251114001957.png",
-    "screen/Pasted image 20251114001842.png",
-    "screen/Pasted image 20251114001609.png",
-    "screen/Pasted image 20251114001434.png",
+    "scc-231/11.Principles of Reliable Communication/rdt3.0.md",
+    "scc-231/10.Udp/UDP User Datagram Protoco.md",
     "scc-231/11.Principles of Reliable Communication",
     "scc-231/10.Udp/reev q.md",
     "scc-231/8.Web & HTTP/http. 2.md",
@@ -793,7 +794,6 @@
     "scc-211/7.Solid principles/SOLID Design Principles.md",
     "scc-211/Lab/week4/wk4.md",
     "scc-211/7.Solid principles/Untitled.md",
-    "scc-211/Lab/Untitled.md",
     "scc-211/Lab/week5",
     "scc-211/8.Software Design State Machines",
     "scc-241/12.Human Attention",
