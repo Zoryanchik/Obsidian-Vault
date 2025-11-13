@@ -1,0 +1,2 @@
+![[Pasted image 20251113204228.png]]![[Pasted image 20251113204303.png]]![[Pasted image 20251113204333.png]]![[Pasted image 20251113204530.png]]![[Pasted image 20251113204555.png]]A **value** can be a string, number, object (nested), array, boolean
+![[Pasted image 20251113204818.png]]
