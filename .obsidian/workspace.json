@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/6.2Data enginerring/Deadlocks.md",
+                "file": "scc-221/Lab/week6/task 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlocks"
+              "title": "task 8"
             }
           },
           {
@@ -755,8 +755,13 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
-    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
+    "screen/Pasted image 20251116002858.png",
+    "screen/Pasted image 20251116002824.png",
+    "screen/Pasted image 20251116002746.png",
+    "screen/Pasted image 20251116002733.png",
+    "screen/Pasted image 20251116002717.png",
     "scc-221/6.2Data enginerring/Deadlocks.md",
+    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "scc-221/7.NoSQL/amdahel law.md",
     "scc-221/7.NoSQL/Types of Data.md",
     "scc-221/6.2Data enginerring/Scheduling Transactions.md",
@@ -777,8 +782,6 @@
     "scc-221/Lab/week 3.2.md",
     "scc-221/Lab/week 3.md",
     "screen/Pasted image 20251116000628.png",
-    "screen/Pasted image 20251116000347.png",
-    "screen/Pasted image 20251116000301.png",
     "scc-221/5.Data enginerring/Nested Queries.md",
     "scc-221/Lab/week6",
     "scc-221/5.Data enginerring/Expressions and Strings.md",
@@ -786,13 +789,10 @@
     "scc-221/5.Data enginerring/Inserting and querying.md",
     "scc-221/5.Data enginerring/Referential Integrity.md",
     "scc-221/Lab/week5/Task6.md",
-    "screen/Pasted image 20251115235723.png",
-    "screen/Pasted image 20251115235717.png",
     "scc-221/Lab/week5/task5.md",
     "scc-221/5.Data enginerring/Aggregate Operators.md",
     "scc-221/5.Data enginerring/Conceptual Evaluation.md",
     "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
-    "scc-221/5.Data enginerring/MySQL.md",
     "scc-221/Lab/week5",
     "scc-231/12.Congestion Control",
     "scc-231/11.Principles of Reliable Communication",
