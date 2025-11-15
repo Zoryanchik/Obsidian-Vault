@@ -1,0 +1,4 @@
+Create the ER Diagram, write the Relational Schema with ICs, and create the British Airways (BA) database using MySQL based on the following business rules. BA has several planes. Each plane has a unique chassis number, capacity, a Boolean value indicating the plane has Business-Class Option (1 for yes, 0 for no), and range (in km's). BA has captains. Each Captain has a unique licence code, age, and phone number. BA has several routes; each has a unique route_id, distance (in km), and Source and Destination as text values. A captain may serve on many routes and can captain many planes. Likewise, a plane may be served by many captains. A route can be used by many planes and many captains.
+![[Pasted image 20251115230748.png]]
+![[Pasted image 20251115230932.png]]
+![[Pasted image 20251115231423.png]]
