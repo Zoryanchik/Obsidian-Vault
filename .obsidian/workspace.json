@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week4/5. UDP Traceroute.md",
+                "file": "scc-221/Lab/week5/task5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. UDP Traceroute"
+              "title": "task5"
             }
           },
           {
@@ -755,6 +755,9 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "screen/Pasted image 20251115234134.png",
+    "scc-231/Laba/week4/5. UDP Traceroute.md",
+    "scc-221/Lab/week5/task5.md",
     "scc-221/Lab/week5/Task 3.md",
     "screen/Pasted image 20251115232340.png",
     "screen/Pasted image 20251115232331.png",
@@ -792,8 +795,6 @@
     "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "scc-221/6.2Data enginerring/Scheduling Transactions.md",
-    "scc-221/6.2Data enginerring/Reservation problem.md",
-    "scc-221/6.2Data enginerring/Anatomy of a transaction.md",
     "scc-221/7.NoSQL",
     "scc-211/Lab/week5",
     "scc-211/8.Software Design State Machines",
