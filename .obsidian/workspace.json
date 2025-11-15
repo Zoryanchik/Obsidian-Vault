@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/Lab/week6/Untitled.md",
+                "file": "scc-221/Lab/week6/Task 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Task 2"
             }
           },
           {
@@ -755,8 +755,11 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "screen/Pasted image 20251116000628.png",
+    "screen/Pasted image 20251116000347.png",
+    "screen/Pasted image 20251116000301.png",
     "scc-221/5.Data enginerring/Nested Queries.md",
-    "scc-221/Lab/week6/Untitled.md",
+    "scc-221/Lab/week6/Task 2.md",
     "scc-221/Lab/week6",
     "scc-221/5.Data enginerring/Expressions and Strings.md",
     "scc-221/5.Data enginerring/What will happen if more than relations are used.md",
@@ -771,9 +774,7 @@
     "screen/Pasted image 20251115235313.png",
     "screen/Pasted image 20251115235158.png",
     "screen/Pasted image 20251115235151.png",
-    "screen/Pasted image 20251115235143.png",
     "scc-221/Lab/week5/task5.md",
-    "screen/Pasted image 20251115234814.png",
     "scc-221/5.Data enginerring/Aggregate Operators.md",
     "scc-221/5.Data enginerring/Conceptual Evaluation.md",
     "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
@@ -792,7 +793,6 @@
     "scc-221/Lab/week5/Question 1 er diagram.md",
     "scc-221/Lab/week5/Question 1.md",
     "scc-221/Lab/week5",
-    "scc-231/12.Congestion Control/TCP Congestion Control.md",
     "scc-231/12.Congestion Control",
     "scc-231/11.Principles of Reliable Communication",
     "scc-221/8.Data Modelling for NoSQL",
