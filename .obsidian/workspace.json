@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/6.2Data enginerring/Deadlocks.md",
+                "file": "scc-221/Lab/week6/task 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlocks"
+              "title": "task 8"
             }
           },
           {
@@ -755,6 +755,7 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "scc-221/6.2Data enginerring/Scheduling Transactions.md",
     "scc-221/6.2Data enginerring/Reservation problem.md",
@@ -767,7 +768,6 @@
     "screen/Pasted image 20251116002746.png",
     "screen/Pasted image 20251116002733.png",
     "screen/Pasted image 20251116002717.png",
-    "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/7.NoSQL/amdahel law.md",
     "scc-221/6.2Data enginerring/Schedules.md",
     "scc-221/7.NoSQL/NoSQL.md",
