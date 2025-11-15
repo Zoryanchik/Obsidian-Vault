@@ -1,0 +1,1 @@
+![[Pasted image 20251115223851.png]]![[Pasted image 20251115224007.png]]-- department name, 20 chars max (varchar)
