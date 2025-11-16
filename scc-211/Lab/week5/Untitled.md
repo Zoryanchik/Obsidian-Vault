@@ -10,3 +10,5 @@
 - But it's forced to depend on the entire `FileServer` interface, including `changePermissions()`
 - This creates unnecessary coupling and potential for misuse
 ![[Pasted image 20251113004043.png]]![[Pasted image 20251113004121.png]]![[Pasted image 20251113004321.png]]
+
+
