@@ -1,0 +1,3 @@
+![[Pasted image 20251115235143.png]]
+6.1 Managers with at least one dependent
+![[Pasted image 20251116014228.png]]![[Pasted image 20251116014419.png]]![[Pasted image 20251116014636.png]]![[Pasted image 20251116014929.png]]![[Pasted image 20251116015034.png]]![[Pasted image 20251116015149.png]]![[Pasted image 20251116015245.png]]![[Pasted image 20251116015725.png]]![[Pasted image 20251116015830.png]]![[Pasted image 20251116015922.png]]![[Pasted image 20251116020120.png]]![[Pasted image 20251116020348.png]]![[Pasted image 20251116020448.png]]
