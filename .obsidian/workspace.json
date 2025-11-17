@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week6/PART 1 echo service.md",
+                "file": "scc-231/Laba/week6/Overview of how part 1 works together.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PART 1 echo service"
+              "title": "Overview of how part 1 works together"
             }
           },
           {
@@ -755,6 +755,9 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-231/Laba/week6/PART 1 echo service.md",
+    "screen/Pasted image 20251117220423.png",
+    "scc-231/Laba/week6/Overview of how part 1 works together.md",
     "screen/Pasted image 20251117214854.png",
     "scc-231/Laba/week3/2b.md",
     "scc-231/Laba/week3/2a.md",
@@ -766,7 +769,6 @@
     "scc-231/Laba/week4/task 4.md",
     "scc-231/Laba/week4/4.5 Iperf.md",
     "scc-231/Laba/week4/5. UDP Traceroute.md",
-    "scc-231/Laba/week6/PART 1 echo service.md",
     "scc-231/Laba/week5/Untitled.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
@@ -786,13 +788,10 @@
     "scc-211/Lab/week5/Untitled.md",
     "scc-211/Untitled.md",
     "scc-211/Lab/week4/wk4.md",
-    "scc-211/Lab/Untitled.md",
     "screen/Pasted image 20251116021638.png",
     "screen/Pasted image 20251116021627.png",
     "scc-211/Lab/week6",
     "screen/Pasted image 20251116020448.png",
-    "screen/Pasted image 20251116020348.png",
-    "screen/Pasted image 20251116020120.png",
     "screen/PALBASIC (1).zip",
     "scc-221/Lab/week6",
     "scc-221/Lab/week5",

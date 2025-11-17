@@ -1419,3 +1419,5 @@ def recv_all(sock, length):
 # Client: Send length, then data
 # Server: Read length, then read that many bytes
 ```
+
+![[Pasted image 20251117220423.png]]
