@@ -109,3 +109,5 @@ for sock in rlist:  # [client_socket]
     print("Обрабатываем данные от клиента!")
     data = sock.recv(1024)
 ```
+
+![[Pasted image 20251117234922.png]]
