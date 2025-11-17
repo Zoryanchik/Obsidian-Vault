@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week6/code.md",
+                "file": "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code"
+              "title": "Stage 2 Adding Realism to Mininet Topologies"
             }
           },
           {
@@ -755,9 +755,10 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-231/Laba/week6/code.md",
+    "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
     "screen/Pasted image 20251117234922.png",
     "scc-231/Laba/week6/Overview of how part 1 works together.md",
-    "scc-231/Laba/week6/code.md",
     "scc-231/Laba/week6/PART 1 echo service.md",
     "screen/Pasted image 20251117224012.png",
     "screen/Pasted image 20251117223959.png",
@@ -782,7 +783,6 @@
     "screen/Pasted image 20251117202434.png",
     "scc-211/8.Software Design State Machines/State.md",
     "screen/Pasted image 20251117202401.png",
-    "screen/Pasted image 20251117202304.png",
     "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
     "scc-231/Laba/week6",
     "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
