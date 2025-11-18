@@ -10,3 +10,5 @@ Think of network communication like sending a letter through the postal system:
 Layer 3 (Network Layer)  → IP addresses (like city/country addresses)
 Layer 2 (Data Link Layer) → MAC addresses (like apartment numbers in a building)
 ```
+
+![[Pasted image 20251118234536.png]]![[Pasted image 20251118234649.png]]
