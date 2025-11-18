@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week6/quiz2.md",
+                "file": "scc-241/13.Action and Knowledge/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quiz2"
+              "title": "Untitled"
             }
           },
           {
@@ -755,11 +755,13 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-231/Laba/week6/quiz2.md",
+    "scc-241/13.Action and Knowledge/Untitled.md",
+    "scc-241/13.Action and Knowledge",
     "screen/Pasted image 20251118234649.png",
     "screen/Pasted image 20251118234536.png",
     "screen/Pasted image 20251118234534.png",
     "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
-    "scc-231/Laba/week6/quiz2.md",
     "screen/Pasted image 20251118233853.png",
     "scc-231/Laba/week6/Quiz.md",
     "screen/Pasted image 20251118233546.png",
@@ -773,7 +775,6 @@
     "scc-231/Laba/week4/task 4.md",
     "scc-231/Laba/week4/4.5 Iperf.md",
     "scc-231/Laba/week4/5. UDP Traceroute.md",
-    "screen/Pasted image 20251118232445.png",
     "scc-231/Laba/week6/code.md",
     "scc-231/Laba/week6/PART 1 echo service.md",
     "scc-231/Laba/week6/Overview of how part 1 works together.md",
@@ -800,7 +801,6 @@
     "scc-231/12.Congestion Control",
     "scc-231/11.Principles of Reliable Communication",
     "scc-221/8.Data Modelling for NoSQL",
-    "scc-221/7.NoSQL",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
