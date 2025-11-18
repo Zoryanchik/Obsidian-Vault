@@ -1,0 +1,1 @@
+![[Pasted image 20251119011853.png]]![[Pasted image 20251119011939.png]]![[Pasted image 20251119012129.png]]![[Pasted image 20251119012520.png]]![[Pasted image 20251119012733.png]]![[Pasted image 20251119012814.png]]![[Pasted image 20251119012826.png]]![[Pasted image 20251119013031.png]]![[Pasted image 20251119013047.png]]
