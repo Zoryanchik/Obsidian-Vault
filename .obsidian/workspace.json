@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
+                "file": "scc-231/Laba/week6/quiz2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage 2 Adding Realism to Mininet Topologies"
+              "title": "quiz2"
             }
           },
           {
@@ -755,13 +755,15 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "screen/Pasted image 20251118233853.png",
     "scc-231/Laba/week6/Quiz.md",
+    "scc-231/Laba/week6/quiz2.md",
+    "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
     "screen/Pasted image 20251118233546.png",
     "screen/Pasted image 20251118233536.png",
     "screen/Pasted image 20251118233516.png",
     "screen/Pasted image 20251118233509.png",
     "screen/Pasted image 20251118233212.png",
-    "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
     "screen/Pasted image 20251118233021.png",
     "scc-231/Laba/week4/Task 2 Creating custom topologies.md",
     "scc-231/Laba/week4/Task 3 Traffic inspection.md",
@@ -791,7 +793,6 @@
     "scc-231/Laba/week6",
     "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
     "scc-211/7.Solid principles/LSP.md",
-    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
     "scc-211/Lab/week6",
     "screen/PALBASIC (1).zip",
     "scc-221/Lab/week6",
