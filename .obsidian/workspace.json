@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/13.Action and Knowledge/Models of Action.md",
+                "file": "scc-241/13.Action and Knowledge/Design implications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models of Action"
+              "title": "Design implications"
             }
           },
           {
@@ -755,19 +755,21 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "screen/Pasted image 20251119014005.png",
+    "scc-241/13.Action and Knowledge/Types of Knowledge.md",
+    "scc-241/13.Action and Knowledge/Design implications.md",
+    "screen/Pasted image 20251119013846.png",
+    "screen/Pasted image 20251119013656.png",
+    "screen/Pasted image 20251119013640.png",
+    "screen/Pasted image 20251119013604.png",
+    "scc-241/13.Action and Knowledge/Models of Action.md",
     "screen/Pasted image 20251119013047.png",
     "screen/Pasted image 20251119013031.png",
     "screen/Pasted image 20251119012826.png",
     "screen/Pasted image 20251119012814.png",
     "screen/Pasted image 20251119012733.png",
     "screen/Pasted image 20251119012520.png",
-    "screen/Pasted image 20251119012514.png",
-    "screen/Pasted image 20251119012507.png",
-    "screen/Pasted image 20251119012129.png",
-    "screen/Pasted image 20251119011939.png",
-    "screen/Pasted image 20251119011853.png",
     "scc-241/13.Action and Knowledge/Levels of Processing.md",
-    "scc-241/13.Action and Knowledge/Models of Action.md",
     "scc-231/Laba/week6/Stage 2 Adding Realism to Mininet Topologies.md",
     "scc-231/Laba/week6/code.md",
     "scc-231/Laba/week6/quiz2.md",
@@ -791,8 +793,6 @@
     "scc-231/Laba/week5/Untitled.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
-    "scc-211/8.Software Design State Machines/State.md",
-    "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
     "scc-231/Laba/week6",
     "scc-211/Lab/week6",
     "screen/PALBASIC (1).zip",
