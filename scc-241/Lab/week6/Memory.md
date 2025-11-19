@@ -1,39 +1,45 @@
 # Memory
 ![[Pasted image 20251119182555.png]]
-A)      We talked about George Miller’s “Magical Number Seven Plus Minus Two”. In the article (which can be found at https://psychclassics.yorku.ca/Miller/), Miller discussed that the memory span of young adults is approximately seven items. He noticed that memory span is approximately the same for stimuli with vastly different amounts of information—for instance, binary digits have 1 bit each; decimal digits have 3.32 bits each; words have about 10 bits each. Miller concluded that memory span is not limited in terms of bits but in terms of ‘**chunks’**.
+## Memory Exercises
 
-B)    Many designers refer to “The Magical Number Seven Plus Minus Two” as Miller’s Law, and argue that because of Miller’s observation, we should limit the number of items in lists and of options in menus to 7 ± 2. Does that make sense? Provide a short critical discussion about this interpretation of Miller’s observation.
+**A) Miller's Magical Number** The answer is: **chunks** (or "chunks of information")
 
-(max. 50 words).
+Miller concluded that memory span is limited by the number of meaningful units or chunks, not by the amount of information in bits.
 
-No, because Miller was studying humans memory, not how users use interface or produce decision. Also, user is not required to memorise interface when using the menus. At additional, if items are properly sorted, few items could be part of one chunk, so it will be possible to memorise more than 7 ± 2
+**B) Critical Discussion of "Miller's Law" (50 words)**
 
-C)    Read the NN group article on Spatial Memory: https://[www.nngroup.com/articles/spatial-](http://www.nngroup.com/articles/spatial-) memory/
+This interpretation oversimplifies Miller's work. Miller studied _memory span_ for immediate recall, not interface design. Modern research shows working memory is closer to 4±1 chunks. More importantly, good interface design depends on organization, hierarchy, and recognition (not recall). Grouping items logically matters more than arbitrary number limits.
 
-Give an example of how you use spatial memory when using a smartphone. For the same context, describe how spatial memory could become disrupted. (50 words)
+**C) Spatial Memory Example (50 words)**
 
-When using a smartphone, we rely on spatial memory to know where apps sit on the home screen.For example, tapping the lower-right corner to open Messages without searching. This memory becomes disrupted if app icons rearrange .
+_Using spatial memory:_ I remember my messaging app is in the bottom-right of my home screen, and Settings is top-left, allowing me to find them without reading labels.
 
-D)    Go to https://major-system.info/ to learn about the Major System. Use the system to encode your student ID as a series of words! Which is easier to remember, the number or the words?
+_Disruption:_ Spatial memory breaks when apps auto-rearrange after updates, or when switching to a new phone with different screen size/layout, forcing me to consciously search again.
 
-**Words**
+**D) Major System Exercise**
 
-# Attention
+I can help you encode your student ID! What is your student ID number? Once you provide it, I'll show you how to convert it using the Major System (which converts digits into consonant sounds, then into memorable words).
 
-E)    According to Multiple Resource Theory (MRT), there are some tasks that we can attend at the same time because they draw on different cognitive resources. For each of the following scenarios, consider if the two tasks can be performed in parallel, with divided attention. Answer yes/no and explain your answer with reference to the MRT model:
+## Attention Exercises
 
-i.        ![](file:///C:/Users/zorya/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)Reading an article in your web browser // Noticing a notification in the corner of your screen together with a sound alert.
+**E) Multiple Resource Theory Analysis:**
 
-**Yes, Visual and Audio resources**
+**i. Reading article // Noticing notification with sound**
 
-ii.      Reading an article, as above // Noticing a notification arriving with an animation in the screen corner
+- **YES** - Can be performed in parallel
+- Different modalities: visual (reading) vs. auditory (sound alert). Visual notification is peripheral, unlikely to interfere with focal reading. MRT shows auditory and visual channels are separate resources.
 
-**No, both are using visual resources**
+**ii. Reading article // Noticing animated notification**
 
-iii.    Reading an article, as above // Recognising that a notification in the screen corner is an alert by the OS
+- **PARTIALLY/DIFFICULT** - Significant interference likely
+- Both require visual processing resources. The animation competes for visual attention with the text you're reading. Though the notification is peripheral, animation draws attention away from focal reading task.
 
-**No, both are visual**
+**iii. Reading article // Recognizing OS alert notification**
 
-iv.    On the map recognising which coffee place is nearest // recognising the name of the nearest coffee place
+- **NO** - Difficult to perform simultaneously
+- Both require visual processing AND cognitive processing (reading text vs. recognizing/interpreting notification). Recognition requires shifting attention from reading to identify the notification type—cannot truly be done simultaneously.
 
-**No, both are visual**
+**iv. Recognizing nearest coffee place // Recognizing its name**
+
+- **NO** - Cannot be truly simultaneous
+- Both are visual-spatial tasks using the same cognitive resources. You must process spatial location (visual-spatial) then shift to process text/name (visual-verbal). These are sequential, not parallel, though they may feel quick.
