@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
+                "file": "scc-211/7.Solid principles/LSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet-switching  + delay"
+              "title": "LSP"
             }
           },
           {
@@ -755,6 +755,10 @@
   },
   "active": "3784436b642ba61b",
   "lastOpenFiles": [
+    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
+    "scc-211/7.Solid principles/SOLID Design Principles.md",
+    "scc-211/7.Solid principles/Untitled.md",
+    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/sOCKET API.md",
     "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Sockets The interface between Processes and Transport Protocols.md",
     "scc-231/6.Introduction to Layering/Rev questions.md",
@@ -781,11 +785,7 @@
     "screen/Pasted image 20251119235053.png",
     "screen/Pasted image 20251119234637.png",
     "scc-231/Laba/Coursework",
-    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
-    "scc-211/7.Solid principles/SOLID Design Principles.md",
-    "scc-211/7.Solid principles/Untitled.md",
     "scc-211/Lab/week5/Untitled.md",
-    "scc-211/6.Unified Modelling Language (UML)/UML.md",
     "screen/Pasted image 20251119194143.png",
     "screen/Pasted image 20251119194135.png",
     "screen/Pasted image 20251119194015.png",
