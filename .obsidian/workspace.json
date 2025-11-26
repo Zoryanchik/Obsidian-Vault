@@ -459,12 +459,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/Lab/week7/week7.md",
+                "file": "scc-211/1.Software req/1.intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week7"
+              "title": "1.intro"
             }
           },
           {
@@ -769,9 +769,9 @@
   },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
-    "screen/Pasted image 20251126183423.png",
     "scc-241/Lab/week6/Memory.md",
     "scc-241/Lab/week7/week7.md",
+    "screen/Pasted image 20251126183423.png",
     "scc-241/Lab/week7",
     "scc-241/Lab/Untitled.md",
     "scc-211/Lab/week4/wk4.md",
@@ -806,7 +806,6 @@
     "screen/Pasted image 20251119194015.png",
     "screen/Pasted image 20251119193917.png",
     "screen/Pasted image 20251119193906.png",
-    "screen/Pasted image 20251119193610.png",
     "scc-211/9.Design Patterns – Observer & Adapter",
     "scc-241/Lab/Untitled.canvas",
     "scc-241/Lab/week6",
