@@ -459,12 +459,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/3.Relational Database/exercise.md",
+                "file": "scc-221/Lab/week 3.2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise"
+              "title": "week 3.2"
             }
           },
           {
@@ -769,6 +769,8 @@
   },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
+    "scc-221/Lab/week 3.md",
+    "scc-221/3.Relational Database/exercise.md",
     "scc-221/3.Relational Database/Study this one.md",
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
@@ -776,9 +778,7 @@
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
     "scc-221/8.Data Modelling for NoSQL/Data Modelling.md",
     "scc-221/Lab/week 3.2.md",
-    "scc-221/Lab/week 3.md",
     "scc-221/Lab/week4.md",
-    "scc-221/3.Relational Database/exercise.md",
     "scc-221/3.Relational Database/3.Referential integrity.md",
     "scc-221/3.Relational Database/2.Relationship database.md",
     "scc-221/3.Relational Database/1.REvision.md",
