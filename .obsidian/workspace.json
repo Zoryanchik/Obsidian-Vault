@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/14.NAT and Link-state Routing/Untitled.md",
+                "file": "scc-231/14.NAT and Link-state Routing/Running out of IPv4 Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Running out of IPv4 Addresses"
             }
           },
           {
@@ -755,8 +755,11 @@
   },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
+    "screen/Pasted image 20251230214041.png",
+    "screen/Pasted image 20251230213730.png",
+    "screen/Pasted image 20251230213656.png",
     "scc-231/13.Inside the router/IP Datagram format.md",
-    "scc-231/14.NAT and Link-state Routing/Untitled.md",
+    "scc-231/14.NAT and Link-state Routing/Running out of IPv4 Addresses.md",
     "screen/Pasted image 20251230205656.png",
     "scc-231/14.NAT and Link-state Routing",
     "screen/Pasted image 20251230205604.png",
@@ -766,10 +769,8 @@
     "screen/Pasted image 20251230205307.png",
     "screen/Pasted image 20251230205210.png",
     "screen/Pasted image 20251230205037.png",
-    "screen/Pasted image 20251230205028.png",
     "scc-231/13.Inside the router/Network layer.md",
     "scc-231/13.Inside the router/Router architecture overview.md",
-    "screen/Pasted image 20251230204839.png",
     "scc-231/11.Principles of Reliable Communication/Selective repeat the approach.md",
     "scc-231/11.Principles of Reliable Communication/rdt3.0.md",
     "scc-231/11.Principles of Reliable Communication/Principles of reliable data transfer.md",
@@ -793,7 +794,6 @@
     "scc-241/19.Input devices",
     "scc-241/15.Design Principles/Affordances in Design.md",
     "scc-241/15.Design Principles/Affordances vs Signifiers.md",
-    "scc-241/18. AI and HCI/guidance for ai.md",
     "scc-241/Lab/week9",
     "scc-241/18. AI and HCI",
     "scc-241/17.Deceptive Design",
