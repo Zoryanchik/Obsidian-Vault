@@ -1,10 +1,10 @@
-|**Feature**|**Link Layer (Layer 2)**|**Network Layer (Layer 3)**|
-|---|---|---|
-|**Primary Goal**|Communication within a local network (LAN).|Communication between different networks.|
-|**Addressing**|**MAC Address** (Hardware-based/Static).|**IP Address** (Logical/Assigned).|
-|**Data Unit**|**Frame**|**Packet**|
-|**Primary Device**|**Switch**|**Router**|
-|**Scope**|"Hop-to-hop" (direct neighbors).|"End-to-end" (source to final destination).|
+| **Feature**        | **Link Layer (Layer 2)**                    | **Network Layer (Layer 3)**                 |
+| ------------------ | ------------------------------------------- | ------------------------------------------- |
+| **Primary Goal**   | Communication within a local network (LAN). | Communication between different networks.   |
+| **Addressing**     | **MAC Address** (Hardware-based/Static).    | **IP Address** (Logical/Assigned).          |
+| **Data Unit**      | **Frame**                                   | **Packet**                                  |
+| **Primary Device** | **Switch**                                  | **Router**                                  |
+| **Scope**          | "Hop-to-hop" (direct neighbors).            | "End-to-end" (source to final destination). |
 ![[Pasted image 20251231142535.png]]![[Pasted image 20251231142633.png]]![[Pasted image 20251231142852.png]]![[Pasted image 20251231143013.png]]![[Pasted image 20251231143218.png]]![[Pasted image 20251231143442.png]]![[Pasted image 20251231143553.png]]![[Pasted image 20251231143921.png]]![[Pasted image 20251231144134.png]]![[Pasted image 20251231144339.png]]![[Pasted image 20251231144447.png]]![[Pasted image 20251231144501.png]]### The Core Goal
 
 The sender wants to find a remainder **R** (the CRC) that, when appended to the data, makes the entire message exactly divisible by a predetermined divisor **G** (the Generator).
