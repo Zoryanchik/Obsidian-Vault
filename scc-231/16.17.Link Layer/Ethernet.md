@@ -1,2 +1,2 @@
 ![[Pasted image 20251231153321.png]]![[Pasted image 20251231153358.png]]![[Pasted image 20251231153443.png]]![[Pasted image 20251231153643.png]]![[Pasted image 20251231153746.png]]![[Pasted image 20251231153830.png]]![[Pasted image 20251231154035.png]]Ethernet is the primary technology used to connect devices in a **Local Area Network (LAN)**. It operates at both the **Physical Layer** (cables and signals) and the **Data Link Layer** (framing and addressing) of the OSI model.
-![[Pasted image 20251231154452.png]]![[Pasted image 20251231154520.png]]
+![[Pasted image 20251231154452.png]]![[Pasted image 20251231154520.png]]![[Pasted image 20251231160445.png]]
