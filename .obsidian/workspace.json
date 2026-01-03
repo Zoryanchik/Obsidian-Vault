@@ -445,12 +445,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/19.Cloud Computing/Cloud Delivery Models.md",
+                "file": "scc-231/Laba/WEEK8/Task 1 + quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Delivery Models"
+              "title": "Task 1 + quiz"
+            }
+          },
+          {
+            "id": "4b67c02988252fb9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "screen/Pasted image 20260103195942.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260103195942"
             }
           },
           {
@@ -765,27 +777,72 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "f4d691f071df880d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cb6715ea58c3f851",
+        "type": "window",
+        "children": [
+          {
+            "id": "77a63a92d5a4e56e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "487004bc538c8c7c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "screen/Pasted image 20260103195942.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260103195942"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
-    "screen/Pasted image 20251231181740.png",
-    "screen/Pasted image 20251231181542.png",
-    "screen/Pasted image 20251231181502.png",
-    "screen/Pasted image 20251231181318.png",
-    "screen/Pasted image 20251231181157.png",
-    "screen/Pasted image 20251231181139.png",
-    "screen/Pasted image 20251231181036.png",
-    "screen/Pasted image 20251231180917.png",
-    "screen/Pasted image 20251231180904.png",
+    "screen/Pasted image 20260103201327.png",
+    "screen/Pasted image 20260103201136.png",
+    "screen/Pasted image 20260103201051.png",
+    "screen/Pasted image 20260103200204.png",
+    "scc-231/16.17.Link Layer/Link layer introduction.md",
+    "scc-231/Laba/WEEK8/Task 1 + quiz.md",
+    "screen/Pasted image 20260103195942.png",
+    "scc-211/Lab/week5/Untitled.md",
+    "screen/Pasted image 20260103195935.png",
+    "screen/Pasted image 20260103195743.png",
+    "screen/Pasted image 20260103195728.png",
+    "screen/Pasted image 20260103195658.png",
+    "scc-231/16.17.Link Layer/rev q.md",
+    "scc-231/Laba/WEEK8",
+    "scc-231/16.17.Link Layer/Ethernet.md",
+    "scc-231/16.17.Link Layer/MAC addresses.md",
+    "scc-231/16.17.Link Layer/multiple acesses protocols.md",
+    "scc-231/18.OS Virtualisation/Virtualization.md",
+    "scc-231/18.OS Virtualisation/Containerisation.md",
+    "scc-231/18.OS Virtualisation/rev q.md",
     "scc-231/19.Cloud Computing/What is Cloud Computing.md",
     "scc-231/19.Cloud Computing/Cloud Delivery Models.md",
-    "screen/Pasted image 20251231180756.png",
-    "screen/Pasted image 20251231180553.png",
+    "screen/Pasted image 20251231181740.png",
+    "screen/Pasted image 20251231181542.png",
     "scc-231/20.REvision/Untitled.md",
     "scc-231/20.REvision",
-    "scc-231/18.OS Virtualisation/rev q.md",
     "scc-231/19.Cloud Computing",
-    "scc-231/18.OS Virtualisation/Containerisation.md",
-    "scc-231/18.OS Virtualisation/Virtualization.md",
     "scc-231/18.OS Virtualisation/Containment.md",
     "scc-231/6.Introduction to Layering/Introducing Abstractions.md",
     "scc-231/6.Introduction to Layering/Rev questions.md",
@@ -793,11 +850,6 @@
     "scc-231/6.Introduction to Layering/What’s a Protocol.md",
     "scc-231/4.Memory Virtualisation/2.OS Memory Virtualisation.md",
     "scc-231/4.Memory Virtualisation/1.Recap.md",
-    "scc-231/16.17.Link Layer/rev q.md",
-    "scc-231/16.17.Link Layer/Ethernet.md",
-    "scc-231/16.17.Link Layer/Link layer introduction.md",
-    "scc-231/16.17.Link Layer/multiple acesses protocols.md",
-    "scc-231/16.17.Link Layer/MAC addresses.md",
     "scc-231/18.OS Virtualisation",
     "scc-231/15.Principles of Inter-domain Routing/BGP.md",
     "scc-231/16.17.Link Layer",
@@ -807,12 +859,9 @@
     "scc-231/14.NAT and Link-state Routing/NAT.md",
     "scc-231/13.Inside the router/IP Datagram format.md",
     "scc-231/14.NAT and Link-state Routing",
-    "scc-231/13.Inside the router/Network layer.md",
-    "scc-231/13.Inside the router/Router architecture overview.md",
     "scc-241/20.Gaze Input",
     "scc-241/19.Input devices",
     "scc-241/Lab/week9",
-    "scc-241/18. AI and HCI",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
