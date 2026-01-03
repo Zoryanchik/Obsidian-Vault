@@ -126,3 +126,4 @@ Based on the IPs in the diagram, the traceroute output will be:
 - Blank 2: **10.0.1.1** (This is the specific IP of router2 that router1 talks to)
     
 - Blank 3: **10.0.2.10**
+![[Pasted image 20260103202528.png]]

@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/Laba/WEEK8/Task 1 + quiz.md",
+                "file": "scc-231/Laba/WEEK8/Task2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 1 + quiz"
+              "title": "Task2"
             }
           },
           {
@@ -777,57 +777,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "f4d691f071df880d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cb6715ea58c3f851",
-        "type": "window",
-        "children": [
-          {
-            "id": "77a63a92d5a4e56e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "487004bc538c8c7c",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "screen/Pasted image 20260103195942.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20260103195942"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
+    "scc-231/Laba/WEEK8/Task 1 + quiz.md",
+    "scc-231/Laba/WEEK8/Task2.md",
+    "screen/Pasted image 20260103202649.png",
+    "screen/Pasted image 20260103202642.png",
+    "screen/Pasted image 20260103202633.png",
+    "screen/Pasted image 20260103202528.png",
+    "screen/Pasted image 20260103195942.png",
     "screen/Pasted image 20260103201327.png",
     "screen/Pasted image 20260103201136.png",
     "screen/Pasted image 20260103201051.png",
     "screen/Pasted image 20260103200204.png",
     "scc-231/16.17.Link Layer/Link layer introduction.md",
-    "scc-231/Laba/WEEK8/Task 1 + quiz.md",
-    "screen/Pasted image 20260103195942.png",
     "scc-211/Lab/week5/Untitled.md",
     "screen/Pasted image 20260103195935.png",
-    "screen/Pasted image 20260103195743.png",
-    "screen/Pasted image 20260103195728.png",
-    "screen/Pasted image 20260103195658.png",
     "scc-231/16.17.Link Layer/rev q.md",
     "scc-231/Laba/WEEK8",
     "scc-231/16.17.Link Layer/Ethernet.md",
@@ -838,8 +803,6 @@
     "scc-231/18.OS Virtualisation/rev q.md",
     "scc-231/19.Cloud Computing/What is Cloud Computing.md",
     "scc-231/19.Cloud Computing/Cloud Delivery Models.md",
-    "screen/Pasted image 20251231181740.png",
-    "screen/Pasted image 20251231181542.png",
     "scc-231/20.REvision/Untitled.md",
     "scc-231/20.REvision",
     "scc-231/19.Cloud Computing",
@@ -857,7 +820,6 @@
     "scc-231/14.NAT and Link-state Routing/Routing.md",
     "scc-231/15.Principles of Inter-domain Routing",
     "scc-231/14.NAT and Link-state Routing/NAT.md",
-    "scc-231/13.Inside the router/IP Datagram format.md",
     "scc-231/14.NAT and Link-state Routing",
     "scc-241/20.Gaze Input",
     "scc-241/19.Input devices",
