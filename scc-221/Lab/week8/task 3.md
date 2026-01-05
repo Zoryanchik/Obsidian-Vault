@@ -27,101 +27,135 @@ var albumTracks = [
 
 ---
 
-### **3.1 Create Album with Embedded Songs**
+Here is the rewritten and formatted version of **Task 3**, including the instructions and the corresponding JavaScript/MongoDB shell code for each step.
 
-We create a new album document and store the full list of songs directly inside it.
+### **Task 3: Modelling a New Entity**
+
+See the Album – Song relationship. An album must contain multiple songs, and a song may belong to one album. A list of songs on an album is provided in `album_tracks.json`.
+
+---
+
+### **3.1. Create an Album document (Embedded)**
+
+**Task:** Create an `Album` document (in an `albums` collection) with the fields: `Title` "Unknown Pleasures", `Released` 1979, and the list of songs (from `album_tracks.json`) embedded.
+
+**Code:**
 
 JavaScript
 
 ```java
+// Load the JSON data (Node.js environment)
+const fs = require('fs');
+const r = fs.readFileSync('album_tracks.json');
+const tracks = JSON.parse(r);
+
+// Insert the album with embedded tracks
 db.albums.insertOne({
-    Title: "Unknown Pleasures",
-    Released: 1979,
-    songs: albumTracks
-})
+    "title": "Unknown Pleasures",
+    "released": 1979,
+    "tracks": tracks
+});
 ```
 
-### **3.2 Print Album Details**
+---
 
-We use `findOne` to verify the album and its embedded tracks are saved.
+### **3.2. Print the Album Details**
+
+**Task:** Print the album details, including the track listing (list of song details).
+
+**Code:**
 
 JavaScript
 
 ```java
-db.albums.findOne({ Title: "Unknown Pleasures" })
-```
-
-### **3.3 Delete the Album**
-
-We delete the document we just created to prepare for the next approach (referencing).
-
-JavaScript
-
-```java
-db.albums.deleteOne({ Title: "Unknown Pleasures" })
-```
-
-### **3.4 Add Songs to `songs` Collection & Retain IDs**
-
-Now we insert the tracks into the main `songs` collection instead. We capture the result in a variable (`result`) so we can access the automatically generated `_id` for each song.
-
-JavaScript
-
-```java
-// 1. Insert the tracks into the songs collection
-var result = db.songs.insertMany(albumTracks);
-
-// 2. Extract the _ids using Object.values() as requested
-var songIds = Object.values(result.insertedIds);
-
-// Optional: Print to verify we have the IDs
-printjson(songIds);
-```
-
-### **3.5 Create Album with References**
-
-We create the album again, but this time, instead of the full song details, we only store the array of `_id`s we captured in the previous step.
-
-JavaScript
-
-```java
-db.albums.insertOne({
-    Title: "Unknown Pleasures",
-    Released: 1979,
-    songs: songIds
-})
-```
-
-### **3.6 Print Album Details (Resolving References)**
-
-If we just did a standard `findOne` here, we would only see a list of ID numbers (e.g., `ObjectId("...")`). To see the actual song titles, we need to "join" the data using the `$lookup` aggregation.
-
-JavaScript
-
-```java
-db.albums.aggregate([
-    // 1. Find the specific album
-    { $match: { Title: "Unknown Pleasures" } },
-
-    // 2. "Join" with the songs collection
-    {
-        $lookup: {
-            from: "songs",          // The collection to join with
-            localField: "songs",    // The field in 'albums' containing the IDs
-            foreignField: "_id",    // The matching field in 'songs'
-            as: "track_details"     // The name for the output array
-        }
-    },
-
-    // 3. (Optional) Make the output cleaner by showing only Title, Released, and Track Titles
-    {
-        $project: {
-            Title: 1,
-            Released: 1,
-            "track_details.title": 1
-        }
+// Find and print specific fields
+db.albums.find(
+    { "title": "Unknown Pleasures" },
+    { 
+        "_id": 0, 
+        "title": 1, 
+        "released": 1, 
+        "tracks.title": 1,
+        "tracks.duration": 1 
     }
-])
+);
 ```
 
-**Next Step:** Would you like me to explain how to handle **Deleting** in this referenced model (e.g., if you delete the Album, what happens to the Songs)?
+---
+
+### **3.3. Delete the Album**
+
+**Task:** Delete the album created in the previous step to prepare for the referencing model.
+
+**Code:**
+
+JavaScript
+
+```java
+db.albums.deleteOne({ "title": "Unknown Pleasures" });
+```
+
+---
+
+### **3.4. Add Songs to Collection (Retaining IDs)**
+
+**Task:** Add the songs from `album_tracks.json` to the `songs` collection. Retain the `_ids` created (returned from `insertMany`) by using `Object.values()` to extract an array of ID values.
+
+**Code:**
+
+JavaScript
+
+```java
+// Insert tracks into the separate 'songs' collection
+let added = db.songs.insertMany(tracks);
+
+// Extract the generated _ids into an array
+let track_ids = Object.values(added.insertedIds);
+```
+
+---
+
+### **3.5. Create Album Document (Referenced)**
+
+**Task:** Create the `Album` document again, this time including the list of album songs as **references** (using the array of IDs).
+
+**Code:**
+
+JavaScript
+
+```java
+db.albums.insertOne({
+    "title": "Unknown Pleasures",
+    "released": 1979,
+    "tracks": track_ids  // Storing only the IDs
+});
+```
+
+---
+
+### **3.6. Print Album Details (Resolving References)**
+
+**Task:** Print the album details, including the list of song titles. This involves fetching the album first, then using the stored IDs to fetch the song details.
+
+**Code:**
+
+JavaScript
+
+```java
+// 1. Fetch the album
+let album = db.albums.findOne({ "title": "Unknown Pleasures" });
+
+// 2. Fetch the songs using the IDs found in the album
+let track_details = db.songs.find(
+    { "_id": { $in: album.tracks } },
+    { "title": 1, "duration": 1, "_id": 0 }
+);
+
+// 3. Print the formatted output
+print(album.title + " (" + album.released + ")");
+
+// Loop through the cursor to print track details
+for (let track of track_details) {
+    print(track.title + " (" + track.duration + ")");
+}
+```
