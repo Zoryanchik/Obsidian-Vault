@@ -99,7 +99,7 @@ Here are the answers to your reflective quiz questions, formatted for clarity an
 
 **Question text:** In our lab exercise, when you set the interface router1-eth1 state to down on router1, what happens to the OSPF neighbour state on router2?
 
-- **Correct Answer:** **b. It immediately transitions to "Down".**
+**Correct Answer:** **d. It waits for the dead-interval timer to expire before declaring the neighbour down.****
     
 
 > Reasoning:

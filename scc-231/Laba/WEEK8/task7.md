@@ -82,3 +82,54 @@
 ---
 
 **Would you like me to tackle Task 8 (Traffic Engineering) with this same format?**
+
+
+
+Here are the correct answers and explanations for your quiz questions.
+
+### **Question 25**
+
+**Question text:** Network areas are a common way for OSPF domains to scale routing in large networks. In our example, we misconfigured the area membership in a link between router1 and router2. What happens if two routers on the same link are configured in different OSPF areas?
+
+- **Correct Answer:** **b. They cannot form an adjacency**
+    
+
+> Reasoning:
+> 
+> OSPF is strict about what constitutes a valid neighbor. When routers exchange Hello packets, they verify specific parameters. If any of the following do not match, the packet is ignored, and no adjacency forms:
+> 
+> - **Area ID** (This is the mismatch in your question)
+>     
+> - Subnet Mask
+>     
+> - Hello and Dead Intervals
+>     
+> - Authentication
+>     
+
+---
+
+### **Question 26**
+
+**Question text:** Which of the following logging lines from router1 reports the area misconfiguration problem?
+
+- **Correct Answer:** **a. OSPF: [Y9FH4-5CVMQ][EC 134217741] interface router2-eth0:10.0.1.1: ospf_read invalid Area ID 0.0.0.1**
+    
+
+> Reasoning:
+> 
+> This log line explicitly identifies the root cause of the failure.
+> 
+> - **`ospf_read`**: The router processed an incoming packet.
+>     
+> - **`invalid Area ID`**: It checks the Area ID field in the Hello packet header.
+>     
+> - **`0.0.0.1`**: It shows that it received a packet tagged for Area 1 (which you configured), but the receiving interface was expecting Area 0 (default).
+>     
+> 
+> _Why the others are wrong:_
+> 
+> - _(b)_ refers to a normal Designated Router (DR) election.
+>     
+> - _(c)_ and _(d)_ show the _consequence_ (adjacency going down), but option (d) specifically attributes it to an `InactivityTimer` (timeout), which happens if packets stop arriving entirely, not if they arrive with the wrong config. Option (a) is the specific error message for the mismatch.
+>
