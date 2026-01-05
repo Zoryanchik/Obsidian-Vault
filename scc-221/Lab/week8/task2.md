@@ -62,7 +62,18 @@ db.songs.updateOne(
     }
 );
 ```
+let cover_song = {
+    "title": "Time After Time", 
+    "artist": "Mabel",
+    "released": 2021
+};
 
+db.songs.updateOne( 
+    { "title": "Time After Time", "artist": "Cyndi Lauper" }, 
+    { 
+      $push: { "covers" : cover_song } 
+    } 
+);
 ### 2.2 Referencing Documents
 
 Here, we only store the `_id` of the cover song in the `covers` array. This keeps the original document smaller and prevents data duplication (normalization), but requires a second query (lookup) to get the details of the cover.
