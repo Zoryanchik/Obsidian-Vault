@@ -1,36 +1,36 @@
-![[Pasted image 20260105185846.png]]![[Pasted image 20260105185919.png]]![[Pasted image 20260105185932.png]]In SQL, you write a command to create a constraint. In NoSQL (like MongoDB), the constraint itself is just another JSON object. You are essentially using JSON to police your JSON.
+![[Pasted image 20260105195709.png]]---
 
-![[Pasted image 20260105190139.png]]
-![[Pasted image 20260105190155.png]]![[Pasted image 20260105190342.png]]### 2. The Relationships (The Lines)
+### 1. The Foundation: The "Workload First" Mindset
 
-The lines connecting the boxes tell the "story" of how the data interacts. The symbols at the ends of the lines (Crow's feet, bars, circles) define the rules (constraints).
+In SQL (Relational) databases, you design data to avoid duplication (Normalization). In NoSQL (Document) databases like MongoDB, you design data to **match your application's queries**.
 
-**User Interactions**
+Before writing a single line of code, you must identify the **Workload**:
 
-- **User creates Playlist:** A single **User** can create many **Playlists**, but each Playlist belongs to exactly one User.
+- **What are we storing?** Users, Songs, Albums, Plays.
     
-- **User logs Play:** A **User** generates many **Play** records (listening history). Each Play record belongs to one User.
+- **What are the constraints?** A document cannot be larger than 16MB. Updates are atomic only at the _single document_ level.
     
+- **What is the priority?** "Logging a play" happens millions of times (Write-Heavy). "Viewing a User Profile" happens thousands of times (Read-Heavy).
 
-**Music Structure**
+![[Pasted image 20260105195839.png]]
+![[Pasted image 20260105195848.png]]
+![[Pasted image 20260105195856.png]]
+![[Pasted image 20260105195906.png]]
+### 2. The Core Decision: Embed vs. Reference
 
-- **Artist releases Album:** An **Artist** can release many **Albums**. An Album belongs to one Artist.
+The fundamental choice in document modelling is how to connect data.
+
+- **Embed:** Store related data inside the same document (e.g., inside an array or subdocument).
     
-- **Artist writes Song:** An **Artist** writes many **Songs**.
+    - _Pros:_ Fast reads (one disk seek). Atomic updates.
+        
+    - _Cons:_ Document size limit (16MB). Data duplication.
+        
+- **Reference:** Store data in separate documents and link them via `_id`.
     
-- **Album contains Song:** An **Album** contains many **Songs**, but a Song typically belongs to one Album (based on this specific diagram's notation).
-    
+    - _Pros:_ Smaller documents. Avoids duplication.
+        
+    - _Cons:_ Requires multiple queries (slower) to fetch connected data .
+        
 
-**Song Connections**
-
-- **Playlist contains Song:** This is a **Many-to-Many** relationship. A **Playlist** can have many **Songs**, and a single **Song** can appear in many different Playlists.
-    
-- **Play of Song:** Each **Play** log corresponds to exactly one **Song**. (e.g., "User X listened to Song Y at 12:00 PM").
-    
-- **Song has Lyrics:** This is a **One-to-One** (or optional one) relationship. A **Song** has one set of **Lyrics**.
-    
-
-### Summary of the Flow
-
-
-![[Pasted image 20260105190544.png]]![[Pasted image 20260105190610.png]]![[Pasted image 20260105190629.png]]![[Pasted image 20260105190643.png]]![[Pasted image 20260105190853.png]]![[Pasted image 20260105191007.png]]![[Pasted image 20260105191153.png]]![[Pasted image 20260105191220.png]]![[Pasted image 20260105191410.png]]![[Pasted image 20260105191541.png]]![[Pasted image 20260105191740.png]]![[Pasted image 20260105191835.png]]
+**The Rule of Thumb:** "What is used together is stored together".
