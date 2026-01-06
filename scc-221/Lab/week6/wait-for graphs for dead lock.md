@@ -4,3 +4,7 @@ X on S true too
 ![[Pasted image 20251116005859.png]]
 
 
+xcwc -> sc rc  t3-t2
+xawa -> sa ra t2-t1
+xawa -. t1 -t1 типо лока еще не біло и смотрм на первую все еще 
+xawa t4-t1 все еще смотрим на первую

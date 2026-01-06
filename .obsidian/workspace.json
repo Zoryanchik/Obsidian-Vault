@@ -445,12 +445,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/Lab/week9/Code.md",
+                "file": "scc-221/Lab/week6/wait-for graphs for dead lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code"
+              "title": "wait-for graphs for dead lock"
             }
           },
           {
@@ -779,11 +779,16 @@
   },
   "active": "989c288c497228c2",
   "lastOpenFiles": [
+    "scc-221/Lab/week6/Presedence graph.md",
+    "scc-221/Lab/week6/Task 2.md",
+    "scc-221/Lab/week7/task4.md",
+    "scc-221/Lab/week7/Task3.md",
+    "scc-221/Lab/week7/Task 1-2.md",
+    "scc-221/Lab/week9/Code.md",
     "screen/Pasted image 20260106013114.png",
     "screen/Pasted image 20260106013058.png",
     "screen/Pasted image 20260106013035.png",
     "scc-221/Lab/week9/Untitled.md",
-    "scc-221/Lab/week9/Code.md",
     "scc-221/11.Aggregation/Untitled.md",
     "scc-221/Lab/week9",
     "screen/Pasted image 20260106012801.png",
@@ -793,7 +798,6 @@
     "screen/Pasted image 20260106011928.png",
     "screen/Pasted image 20260106011525.png",
     "screen/Pasted image 20260106011425.png",
-    "screen/Pasted image 20260106011349.png",
     "scc-221/10.Indexes and Queries/Regular expressions not needed for exam.md",
     "scc-221/10.Indexes and Queries/embeded.md",
     "scc-221/10.Indexes and Queries/Queries.md",
@@ -812,12 +816,7 @@
     "scc-221/9.MongoDb basic operations/subset pattern.md",
     "scc-221/9.MongoDb basic operations/more patterns.md",
     "scc-221/10.Indexes and Queries",
-    "scc-221/Lab/week7/Task 1-2.md",
-    "scc-221/Lab/week7/Task3.md",
-    "scc-221/Lab/week7/task4.md",
-    "scc-221/Lab/week6/Task 2.md",
     "scc-221/Lab/week7",
-    "scc-221/Lab/week6/Presedence graph.md",
     "scc-221/Lab/week6/wait-for graphs for dead lock.md",
     "scc-221/8.Data Modelling for NoSQL/Crow’s Foot Notation.md",
     "scc-221/9.MongoDb basic operations",
