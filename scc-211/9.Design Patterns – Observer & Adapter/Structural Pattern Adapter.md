@@ -12,4 +12,4 @@ This makes the Object Adapter more flexible than the Class Adapter (which uses i
 Would you like to know about the **Class Adapter** pattern for comparison, or see a practical example of the Object Adapter in code
 
 ![[Pasted image 20251119193906.png]]
-![[Pasted image 20251119193917.png]]![[Pasted image 20251119194015.png]]![[Pasted image 20251119194135.png]]![[Pasted image 20251119194143.png]]to solid last q abt scenario
+![[Pasted image 20251119193917.png]]![[Pasted image 20251119194015.png]]![[Pasted image 20251119194135.png]]![[Pasted image 20251119194143.png]]to solid last q abt scenario![[Pasted image 20260111190954.png]]
