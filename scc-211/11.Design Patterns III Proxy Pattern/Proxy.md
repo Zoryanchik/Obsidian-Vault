@@ -7,4 +7,4 @@
     
 - **Alternative Design (Lazy Loading):** In your contact book example, the `ContactBookProxy` is used to save memory. It doesn't create the heavy `ContactBookImpl` object until someone actually tries to search for or get a contact.
 
-![[Pasted image 20260112002310.png]]
+![[Pasted image 20260112002310.png]]![[Pasted image 20260112004103.png]]![[Pasted image 20260112004111.png]]![[Pasted image 20260112004119.png]]![[Pasted image 20260112004219.png]]![[Pasted image 20260112004342.png]]![[Pasted image 20260112004352.png]]
