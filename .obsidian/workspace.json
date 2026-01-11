@@ -473,12 +473,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/Lab/week7/Untitled.md",
+                "file": "scc-211/11.Design Patterns III Proxy Pattern/Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Proxy"
             }
           },
           {
@@ -793,8 +793,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "9ebd4963084a6422",
   "lastOpenFiles": [
+    "screen/Pasted image 20260111205958.png",
+    "scc-211/Lab/week7/Untitled.md",
+    "scc-211/11.Design Patterns III Proxy Pattern/Proxy.md",
     "scc-211/11.Design Patterns III Proxy Pattern",
     "scc-211/Lab/Untitled",
     "screen/Pasted image 20260111205103.png",
@@ -811,7 +814,6 @@
     "scc-211/9.Design Patterns – Observer & Adapter/Structural Pattern Adapter.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Desighn patterns.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Software engineering process.md",
-    "scc-211/Lab/week7/Untitled.md",
     "screen/Pasted image 20260111203655.png",
     "screen/Pasted image 20260111203647.png",
     "scc-211/10.Desighn Patterns/Structural Pattern Façade.md",
@@ -835,12 +837,10 @@
     "scc-221/Lab/week6/Task 2.md",
     "scc-221/Lab/week7/task4.md",
     "scc-221/Lab/week7/Task3.md",
-    "scc-221/Lab/week7/Task 1-2.md",
     "scc-221/Lab/week9",
     "scc-221/11.Aggregation",
     "scc-221/Lab/week8",
     "scc-221/10.Indexes and Queries",
-    "scc-221/Lab/week7",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
