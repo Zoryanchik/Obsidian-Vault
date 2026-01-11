@@ -1,4 +1,11 @@
-![[Pasted image 20260111203647.png]]![[Pasted image 20260111203655.png]]# SCC.204 Software Design Workshop
+![[Pasted image 20260111203647.png]]
+![[Pasted image 20260111204255.png]]![[Pasted image 20260111204342.png]]![[Pasted image 20260111203655.png]]
+![[Pasted image 20260111204820.png]]
+![[Pasted image 20260111205005.png]]
+![[Pasted image 20260111205020.png]]
+![[Pasted image 20260111205036.png]]
+![[Pasted image 20260111205103.png]]
+# SCC.204 Software Design Workshop
 
 ## Solved Problems: Observer & Adapter Patterns
 
