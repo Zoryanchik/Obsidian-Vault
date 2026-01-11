@@ -1,1 +1,1 @@
-![[Pasted image 20260111205958.png]]In this **Proxy Pattern** diagram, aggregation is used to show that the **Proxy** controls a **RealSubject** without owning its entire life cycle.
+![[Pasted image 20260111205958.png]]In this **Proxy Pattern** diagram, aggregation is used to show that the **Proxy** controls a **RealSubject** without owning its entire life cycle.![[Pasted image 20260111213703.png]]
