@@ -49,4 +49,4 @@ The **Builder pattern** separates the **construction** of a complex object from 
     
 3. Builder constructs and returns the Product
 
-![[Pasted image 20260111191749.png]]![[Pasted image 20260111191901.png]]![[Pasted image 20260111192000.png]]![[Pasted image 20260111192126.png]]
+![[Pasted image 20260111191749.png]]![[Pasted image 20260111191901.png]]![[Pasted image 20260111192000.png]]![[Pasted image 20260111192126.png]]![[Pasted image 20260111193021.png]]![[Pasted image 20260111193156.png]]![[Pasted image 20260111193208.png]]![[Pasted image 20260111193403.png]]
