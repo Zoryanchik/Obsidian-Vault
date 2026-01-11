@@ -473,12 +473,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/10.Desighn Patterns/Behavioural Pattern Template Method.md",
+                "file": "scc-211/10.Desighn Patterns/Structural Pattern Façade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioural Pattern Template Method"
+              "title": "Structural Pattern Façade"
             }
           },
           {
@@ -795,23 +795,23 @@
   },
   "active": "9ebd4963084a6422",
   "lastOpenFiles": [
+    "scc-211/10.Desighn Patterns/Behavioural Pattern Template Method.md",
+    "scc-211/10.Desighn Patterns/Structural Pattern Façade.md",
+    "screen/Pasted image 20260111201915.png",
+    "scc-211/9.Design Patterns – Observer & Adapter/Security implementation s.md",
+    "screen/Pasted image 20260111201747.png",
+    "screen/Pasted image 20260111201740.png",
+    "screen/Pasted image 20260111201714.png",
+    "screen/Pasted image 20260111201307.png",
     "screen/Pasted image 20260111200505.png",
     "screen/Pasted image 20260111200415.png",
     "scc-211/10.Desighn Patterns/Creational Pattern Builder.md",
-    "scc-211/10.Desighn Patterns/Behavioural Pattern Template Method.md",
     "screen/Pasted image 20260111195214.png",
     "screen/Pasted image 20260111195150.png",
     "screen/Pasted image 20260111193403.png",
-    "screen/Pasted image 20260111193208.png",
-    "screen/Pasted image 20260111193156.png",
-    "screen/Pasted image 20260111193021.png",
-    "screen/Pasted image 20260111192126.png",
-    "screen/Pasted image 20260111192000.png",
-    "screen/Pasted image 20260111191901.png",
     "scc-211/9.Design Patterns – Observer & Adapter/Structural Pattern Adapter.md",
     "scc-211/10.Desighn Patterns",
     "scc-211/9.Design Patterns – Observer & Adapter/Desighn patterns.md",
-    "scc-211/9.Design Patterns – Observer & Adapter/Security implementation s.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Software engineering process.md",
     "scc-221/Lab/week10/Untitled.md",
     "scc-221/Lab/Untitled 1.md",
