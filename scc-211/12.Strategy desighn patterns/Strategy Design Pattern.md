@@ -1,0 +1,2 @@
+![[Pasted image 20260112023754.png]]
+![[Pasted image 20260112023816.png]]![[Pasted image 20260112024015.png]]![[Pasted image 20260112024306.png]]![[Pasted image 20260112024317.png]]**Strategy Pattern** defines a family of algorithms, puts each one in a separate class, and makes them interchangeable at runtime.
