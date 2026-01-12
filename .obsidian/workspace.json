@@ -473,12 +473,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/11.Design Patterns III Proxy Pattern/Proxy.md",
+                "file": "scc-211/11.Design Patterns III Proxy Pattern/ATm system example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "ATm system example"
             }
           },
           {
@@ -795,19 +795,20 @@
   },
   "active": "9ebd4963084a6422",
   "lastOpenFiles": [
-    "screen/Pasted image 20260112005728.png",
-    "screen/Pasted image 20260112005521.png",
-    "screen/Pasted image 20260112004352.png",
-    "screen/Pasted image 20260112004342.png",
-    "screen/Pasted image 20260112004219.png",
-    "screen/Pasted image 20260112004119.png",
-    "screen/Pasted image 20260112004111.png",
-    "screen/Pasted image 20260112004103.png",
-    "screen/Pasted image 20260112002310.png",
-    "screen/Pasted image 20260112002002.png",
-    "screen/Pasted image 20260111224904.png",
-    "scc-211/9.Design Patterns – Observer & Adapter/Structural Pattern Adapter.md",
+    "screen/Pasted image 20260112020840.png",
+    "screen/Pasted image 20260112020803.png",
+    "screen/Pasted image 20260112020655.png",
+    "screen/Pasted image 20260112020624.png",
+    "screen/Pasted image 20260112020611.png",
+    "screen/Pasted image 20260112020541.png",
+    "screen/Pasted image 20260112020527.png",
+    "screen/Pasted image 20260112020453.png",
+    "screen/Pasted image 20260112020419.png",
+    "screen/Pasted image 20260112020355.png",
     "scc-211/11.Design Patterns III Proxy Pattern/Proxy.md",
+    "scc-211/11.Design Patterns III Proxy Pattern/ATm system example.md",
+    "screen/Pasted image 20260112005728.png",
+    "scc-211/9.Design Patterns – Observer & Adapter/Structural Pattern Adapter.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Security implementation s.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Desighn patterns.md",
     "scc-211/10.Desighn Patterns/Creational Pattern Builder.md",
@@ -836,7 +837,6 @@
     "scc-221/Lab/week6/Presedence graph.md",
     "scc-221/Lab/week6/Task 2.md",
     "scc-221/Lab/week7/task4.md",
-    "scc-221/Lab/week7/Task3.md",
     "scc-221/Lab/week9",
     "scc-221/11.Aggregation",
     "scc-221/Lab/week8",
