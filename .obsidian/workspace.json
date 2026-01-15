@@ -485,12 +485,14 @@
             "id": "c25c7a426e7858a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "scc-232/1.Concurrent and Parallel Programming/Concurrency (and Parallelism).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Concurrency (and Parallelism)"
             }
           },
           {
@@ -805,19 +807,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "c25c7a426e7858a5",
   "lastOpenFiles": [
+    "screen/Pasted image 20260116014524.png",
+    "screen/Pasted image 20260116014454.png",
+    "screen/Pasted image 20260116014349.png",
+    "screen/Pasted image 20260116014326.png",
+    "screen/Pasted image 20260116014318.png",
+    "screen/Pasted image 20260116014305.png",
+    "screen/Pasted image 20260116014110.png",
+    "screen/Pasted image 20260116014025.png",
+    "screen/Pasted image 20260116013720.png",
+    "screen/Pasted image 20260116013709.png",
+    "screen/Pasted image 20260116013358.png",
+    "scc-232/1.Concurrent and Parallel Programming/From CPUs to Threads.md",
+    "scc-232/1.Concurrent and Parallel Programming/Concurrency (and Parallelism).md",
+    "scc-232/1.Concurrent and Parallel Programming.md",
+    "scc-232/1.Concurrent and Parallel Programming",
     "scc-232",
-    "screen/Pasted image 20260112155245.png",
-    "screen/Pasted image 20260112155219.png",
-    "screen/Pasted image 20260112155151.png",
-    "screen/Pasted image 20260112155144.png",
-    "screen/Pasted image 20260112155136.png",
-    "screen/Pasted image 20260112155119.png",
-    "screen/Pasted image 20260112155045.png",
-    "screen/Pasted image 20260112154851.png",
-    "screen/Pasted image 20260112154845.png",
-    "screen/Pasted image 20260112154825.png",
     "scc-211/12.Strategy desighn patterns/Strategy Design Pattern.md",
     "scc-213/Untitled.md",
     "scc-213",
@@ -848,11 +855,6 @@
     "scc-221/11.Aggregation/Untitled.md",
     "scc-221/10.Indexes and Queries/Regular expressions not needed for exam.md",
     "scc-221/9.MongoDb basic operations/subset pattern.md",
-    "scc-221/9.MongoDb basic operations/bucket pattern.md",
-    "scc-221/Lab/week9/Untitled.md",
-    "scc-221/Lab/week6/wait-for graphs for dead lock.md",
-    "scc-221/Lab/week9",
-    "scc-221/11.Aggregation",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
