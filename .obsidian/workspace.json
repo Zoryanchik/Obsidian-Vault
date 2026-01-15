@@ -482,6 +482,18 @@
             }
           },
           {
+            "id": "c25c7a426e7858a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
@@ -634,7 +646,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -768,8 +780,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -793,7 +805,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ebd4963084a6422",
+  "active": "c25c7a426e7858a5",
   "lastOpenFiles": [
     "screen/Pasted image 20260112155245.png",
     "screen/Pasted image 20260112155219.png",
