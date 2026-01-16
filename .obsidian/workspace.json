@@ -807,8 +807,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c25c7a426e7858a5",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-222/1.Intro to ai",
+    "scc-222",
     "screen/Pasted image 20260116014524.png",
     "screen/Pasted image 20260116014454.png",
     "screen/Pasted image 20260116014349.png",
@@ -819,7 +821,6 @@
     "screen/Pasted image 20260116014025.png",
     "screen/Pasted image 20260116013720.png",
     "screen/Pasted image 20260116013709.png",
-    "screen/Pasted image 20260116013358.png",
     "scc-232/1.Concurrent and Parallel Programming/From CPUs to Threads.md",
     "scc-232/1.Concurrent and Parallel Programming/Concurrency (and Parallelism).md",
     "scc-232/1.Concurrent and Parallel Programming.md",
@@ -850,7 +851,6 @@
     "scc-221/12.Replication & Sharding/Sharding.md",
     "scc-221/12.Replication & Sharding/Replication.md",
     "scc-221/11.Aggregation/Continue of  aggregation.md",
-    "scc-221/12.Replication & Sharding",
     "scc-221/Lab/week9/Code.md",
     "scc-221/11.Aggregation/Untitled.md",
     "scc-221/10.Indexes and Queries/Regular expressions not needed for exam.md",
