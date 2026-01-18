@@ -487,12 +487,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-252/1.Authentication/Authentication.md",
+                "file": "scc-232/1.Concurrent and Parallel Programming/Concurrency (and Parallelism).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "Concurrency (and Parallelism)"
             }
           },
           {
@@ -809,6 +809,8 @@
   },
   "active": "c25c7a426e7858a5",
   "lastOpenFiles": [
+    "scc-232/1.Concurrent and Parallel Programming/From CPUs to Threads.md",
+    "scc-252/1.Authentication/Authentication.md",
     "screen/Pasted image 20260116183542.png",
     "screen/Pasted image 20260116183529.png",
     "screen/Pasted image 20260116183522.png",
@@ -819,15 +821,12 @@
     "screen/Pasted image 20260116183158.png",
     "screen/Pasted image 20260116182953.png",
     "screen/Pasted image 20260116182943.png",
-    "screen/Pasted image 20260116182815.png",
     "scc-222/1.Intro to ai/Untitled.md",
-    "scc-252/1.Authentication/Authentication.md",
     "scc-252/1.Authentication",
     "scc-252",
     "scc-232/1.Concurrent and Parallel Programming/Concurrency (and Parallelism).md",
     "scc-222/1.Intro to ai",
     "scc-222",
-    "scc-232/1.Concurrent and Parallel Programming/From CPUs to Threads.md",
     "scc-232/1.Concurrent and Parallel Programming.md",
     "scc-232/1.Concurrent and Parallel Programming",
     "scc-232",
