@@ -487,12 +487,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213/2.Web standarts/CSS.md",
+                "file": "scc-231/16.17.Link Layer/Link layer introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "Link layer introduction"
             }
           },
           {
@@ -807,8 +807,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c25c7a426e7858a5",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-231/18.OS Virtualisation/Containment.md",
+    "scc-213/2.Web standarts/CSS.md",
     "screen/Pasted image 20260119020245.png",
     "screen/Pasted image 20260119020201.png",
     "screen/Pasted image 20260119020152.png",
@@ -819,9 +821,7 @@
     "screen/Pasted image 20260119015918.png",
     "screen/Pasted image 20260119015908.png",
     "screen/Pasted image 20260119015833.png",
-    "screen/Pasted image 20260119015827.png",
     "scc-213/2.Web standarts/HTML.md",
-    "scc-213/2.Web standarts/CSS.md",
     "scc-213/2.Web standarts/HTTP Overview.md",
     "scc-213/1.Introduction/Untitled.md",
     "scc-213/2.Web standarts",
