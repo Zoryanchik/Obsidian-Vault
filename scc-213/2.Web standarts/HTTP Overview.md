@@ -1,0 +1,5 @@
+![[Pasted image 20260119010856.png]]![[Pasted image 20260119010908.png]]![[Pasted image 20260119010934.png]]![[Pasted image 20260119011018.png]]![[Pasted image 20260119011056.png]]![[Pasted image 20260119011132.png]]![[Pasted image 20260119011216.png]]
+![[Pasted image 20260119011312.png]]![[Pasted image 20260119011254.png]]![[Pasted image 20260119011350.png]]![[Pasted image 20260119011458.png]]![[Pasted image 20260119011525.png]]![[Pasted image 20260119011535.png]]![[Pasted image 20260119011647.png]]HTTP caching ==allows browsers and proxies to store responses (like HTML, images, JS) to reduce server load and latency==.
+![[Pasted image 20260119011827.png]]
+![[Pasted image 20260119011859.png]]![[Pasted image 20260119011917.png]]![[Pasted image 20260119011957.png]]![[Pasted image 20260119012033.png]]![[Pasted image 20260119012041.png]]
+![[Pasted image 20260119011859.png]]![[Pasted image 20260119011917.png]]![[Pasted image 20260119011957.png]]![[Pasted image 20260119012033.png]]![[Pasted image 20260119012041.png]]![[Pasted image 20260119012314.png]]![[Pasted image 20260119012325.png]]
