@@ -25,4 +25,12 @@
 
 
 ![[Pasted image 20260120173446.png]]![[Pasted image 20260120173942.png]]![[Pasted image 20260120173954.png]]![[Pasted image 20260120174232.png]]![[Pasted image 20260120174546.png]]XS IS A LIST
-![[Pasted image 20260120180627.png]]
+![[Pasted image 20260120180627.png]]![[Pasted image 20260120181420.png]]
+**The Error:** You cannot divide a number by an integer directly in Haskell. `length xs` returns an `Int`, but the division operator (`/`) expects both sides to be generic numbers (like `Float` or `Double`). **The Fix:** You must convert the length to a number using `fromIntegral`.
+### 1. `Eq` vs. `Ord`
+
+- **`Eq` (Equality):** This only allows you to check if two things are **equal** (`==`) or **not equal** (`/=`). It has no concept of "bigger" or "smaller."
+    
+- **`Ord` (Ordering):** This allows you to check **order** (`>`, `<`, `>=`, `<=`).
+
+![[Pasted image 20260120182201.png]]
