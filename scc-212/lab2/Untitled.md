@@ -34,3 +34,5 @@
 - **`Ord` (Ordering):** This allows you to check **order** (`>`, `<`, `>=`, `<=`).
 
 ![[Pasted image 20260120182201.png]]
+![[Pasted image 20260120182908.png]]
+![[Pasted image 20260120182925.png]]
