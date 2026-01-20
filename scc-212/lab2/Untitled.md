@@ -25,3 +25,4 @@
 
 
 ![[Pasted image 20260120173446.png]]![[Pasted image 20260120173942.png]]![[Pasted image 20260120173954.png]]![[Pasted image 20260120174232.png]]![[Pasted image 20260120174546.png]]XS IS A LIST
+![[Pasted image 20260120180627.png]]
