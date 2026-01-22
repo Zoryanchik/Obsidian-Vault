@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ту ду/Задание.md",
+                "file": "scc-212/lab2/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задание"
+              "title": "Untitled"
             }
           },
           {
@@ -823,12 +823,13 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "scc-212/2.Types and classes/Type classes.md",
+    "Ту ду/Задание.md",
     "screen/Pasted image 20260120182925.png",
     "screen/Pasted image 20260120182908.png",
     "screen/Pasted image 20260120182201.png",
     "screen/Pasted image 20260120181420.png",
     "screen/Pasted image 20260120180627.png",
-    "scc-212/2.Types and classes/Type classes.md",
     "scc-212/2.Types and classes/Basic concepts.md",
     "scc-212/lab2/Untitled.md",
     "screen/Pasted image 20260120174546.png",
@@ -836,7 +837,6 @@
     "screen/Pasted image 20260120173954.png",
     "screen/Pasted image 20260120173942.png",
     "screen/Pasted image 20260120173446.png",
-    "screen/Pasted image 20260120172857.png",
     "scc-212/lab2",
     "scc-212/1..Intro to haskal/Starter.md",
     "scc-212/2.Types and classes",
@@ -848,7 +848,6 @@
     "scc-212/1..Intro to haskal",
     "scc-212",
     "scc-232/1.Concurrent and Parallel Programming/From CPUs to Threads.md",
-    "Ту ду/Задание.md",
     "scc-231/16.17.Link Layer/Link layer introduction.md",
     "scc-231/18.OS Virtualisation/Containment.md",
     "scc-213/2.Web standarts/CSS.md",
