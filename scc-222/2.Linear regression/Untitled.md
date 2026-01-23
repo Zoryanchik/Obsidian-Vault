@@ -5,4 +5,4 @@
 |**Data Type**|Labelled (Has answers)|Unlabeled (No answers)|Decisions/Actions|
 |**Feedback**|Direct Feedback|No Feedback|Rewards/Punishments|
 |**Primary Goal**|Predict outcomes|Find hidden structures|Learn a series of actions|
-![[Pasted image 20260123180843.png]]
+![[Pasted image 20260123180843.png]]![[Pasted image 20260123181655.png]]![[Pasted image 20260123181705.png]]![[Pasted image 20260123181826.png]]![[Pasted image 20260123181836.png]]
