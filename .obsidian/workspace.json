@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-222/2.Linear regression/math.md",
+                "file": "scc-213/2.Web standarts/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "math"
+              "title": "CSS"
             }
           },
           {
@@ -823,6 +823,9 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "scc-213/2.Web standarts/HTML.md",
+    "scc-213/2.Web standarts/HTTP Overview.md",
+    "scc-222/2.Linear regression/math.md",
     "screen/Pasted image 20260123185245.png",
     "screen/Pasted image 20260123185238.png",
     "screen/Pasted image 20260123185137.png",
@@ -831,11 +834,9 @@
     "screen/Pasted image 20260123184923.png",
     "screen/Pasted image 20260123184903.png",
     "screen/Pasted image 20260123184435.png",
-    "scc-222/2.Linear regression/math.md",
     "screen/Pasted image 20260123184047.png",
     "screen/Pasted image 20260123184037.png",
     "screen/Pasted image 20260123183951.png",
-    "screen/Pasted image 20260123183940.png",
     "Ту ду/Задание.md",
     "scc-222/2.Linear regression",
     "scc-212/lab2/Untitled.md",
@@ -855,8 +856,6 @@
     "scc-231/16.17.Link Layer/Link layer introduction.md",
     "scc-231/18.OS Virtualisation/Containment.md",
     "scc-213/2.Web standarts/CSS.md",
-    "scc-213/2.Web standarts/HTML.md",
-    "scc-213/2.Web standarts/HTTP Overview.md",
     "scc-213/1.Introduction/Untitled.md",
     "scc-213/2.Web standarts",
     "scc-213/1.Introduction",
