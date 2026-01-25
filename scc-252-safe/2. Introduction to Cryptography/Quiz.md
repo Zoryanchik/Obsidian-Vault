@@ -1,0 +1,1 @@
+The **minimum** security requirement for any modern encryption system is resistance to a **ciphertext-only attack**. This is the most basic level of security; if an attacker can recover the message just by looking at the encrypted data, the system is fundamentally broken.
