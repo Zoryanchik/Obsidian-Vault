@@ -47,4 +47,26 @@ Haskell provides a special syntax called **sections** to convert standard oper
     - `(+2)`: A function that adds 2 to its argument.
         
 - **General Rule**: If ⊕ is an operator, then `(⊕)`, `(x⊕)`, and `(⊕y)` are all considered **sections**.
-![[Pasted image 20260124195938.png]]![[Pasted image 20260124200219.png]]![[Pasted image 20260124200233.png]]![[Pasted image 20260124200520.png]]![[Pasted image 20260124200602.png]]![[Pasted image 20260124200705.png]]![[Pasted image 20260124200809.png]]![[Pasted image 20260124200835.png]]![[Pasted image 20260124201008.png]]![[Pasted image 20260124201109.png]]![[Pasted image 20260124201249.png]]![[Pasted image 20260124201440.png]]
+![[Pasted image 20260124195938.png]]![[Pasted image 20260124200219.png]]![[Pasted image 20260124200233.png]]![[Pasted image 20260124200520.png]]![[Pasted image 20260124200602.png]]![[Pasted image 20260124200705.png]]![[Pasted image 20260124200809.png]]![[Pasted image 20260124200835.png]]![[Pasted image 20260124201008.png]]![[Pasted image 20260124201109.png]]![[Pasted image 20260124201249.png]]![[Pasted image 20260124201440.png]]![[Pasted image 20260125033214.png]]![[Pasted image 20260125033245.png]]![[Pasted image 20260125033330.png]]![[Pasted image 20260125033339.png]]![[Pasted image 20260125033412.png]]![[Pasted image 20260125033437.png]]
+![[Pasted image 20260125033924.png]]
+## 1. Partial Function (The Left Side)
+
+A partial function is one that is not defined for all possible values of its input type.
+
+- **The Code:** `abs n | n >= 0 = n`
+    
+- **The Problem:** The type signature says it takes an `Int`, but the logic only provides a result if `n` is 0 or greater.
+    
+- **The Result:** If you pass a negative number (e.g., -5), the program doesn't know what to do. It will likely crash or throw a "non-exhaustive patterns" error. It "partially" covers the range of integers.
+    
+
+## 2. Total Function (The Right Side)
+
+A total function is "safe" because it is defined for every possible value of its input type.
+
+- **The Code:** ```haskell abs n | n >= 0 = n | otherwise = -n
+    
+- **The Solution:** By adding the `otherwise` case (which handles all negative numbers), the function now covers the **total** range of the `Int` type.
+    
+- **The Result:** No matter what integer you provide, the function will always return a valid result and will not crash due to missing logic.
+![[Pasted image 20260125033954.png]]![[Pasted image 20260125034002.png]]![[Pasted image 20260125034008.png]]
