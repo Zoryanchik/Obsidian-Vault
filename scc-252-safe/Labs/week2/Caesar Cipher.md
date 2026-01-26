@@ -215,3 +215,6 @@ if __name__ == "__main__":
 
     print("Decrypted:", decrypted)
 ```
+
+![[Pasted image 20260126221221.png]]
+![[Pasted image 20260126221208.png]]

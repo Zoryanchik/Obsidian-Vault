@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ту ду/Задание.md",
+                "file": "scc-252-safe/Labs/week2/Caesar Cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задание"
+              "title": "Caesar Cipher"
             }
           },
           {
@@ -823,6 +823,14 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "screen/Pasted image 20260126221221.png",
+    "screen/Pasted image 20260126221208.png",
+    "scc-212-advanced/lab2/Untitled.md",
+    "scc-212-advanced/3.Functions in haskell/Start.md",
+    "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
+    "scc-212-advanced/3.Functions in haskell/Curried Functions.md",
+    "scc-212-advanced/2.Types and classes/Type classes.md",
+    "Ту ду/Задание.md",
     "scc-252-safe/3.Symmetric Cryptography/Quiz.md",
     "screen/Pasted image 20260126215840.png",
     "screen/Pasted image 20260126215647.png",
@@ -835,12 +843,10 @@
     "screen/Pasted image 20260126215439.png",
     "screen/Pasted image 20260126215418.png",
     "scc-252-safe/3.Symmetric Cryptography/Symmetric.md",
-    "Ту ду/Задание.md",
     "scc-252-safe/3.Symmetric Cryptography/Recap ish.md",
     "scc-213-internet-application/2.Web standarts/CSS.md",
     "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-252-safe/Labs/week2/Caesar Cipher.md",
-    "screen/Pasted image 20260126200522.png",
     "scc-252-safe/Labs/week2",
     "scc-252-safe/3.Symmetric Cryptography/PAdding.md",
     "scc-252-safe/2. Introduction to Cryptography/Quiz.md",
@@ -849,9 +855,6 @@
     "scc-252-safe/2. Introduction to Cryptography/Summary.md",
     "scc-252-safe/2. Introduction to Cryptography/Types of Cryptosystems.md",
     "scc-252-safe/2. Introduction to Cryptography/Hash functions.md",
-    "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
-    "scc-212-advanced/3.Functions in haskell/Curried Functions.md",
-    "scc-212-advanced/3.Functions in haskell/Start.md",
     "scc-212/3.Functions in haskell/Untitled",
     "scc-212-advanced/3.Functions in haskell",
     "scc-213-internet-application/3.Intro to javascript",
@@ -860,8 +863,6 @@
     "scc-222-ai/2.Linear regression/math.md",
     "scc-222-ai/2.Linear regression/Untitled.md",
     "scc-222-ai/2.Linear regression",
-    "scc-212-advanced/lab2/Untitled.md",
-    "scc-212-advanced/2.Types and classes/Type classes.md",
     "scc-212-advanced/2.Types and classes/Basic concepts.md",
     "scc-212-advanced/lab2",
     "scc-212-advanced/1..Intro to haskal/Starter.md",
