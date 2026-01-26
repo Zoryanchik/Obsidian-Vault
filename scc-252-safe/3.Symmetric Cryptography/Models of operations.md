@@ -33,123 +33,44 @@ You might notice a problem: the very first block ($m_1$) doesn't have a "previou
 - **The Solution:** We use an **Initialization Vector (IV)**.
     
 - **Purpose:** The IV is a random block of data used to start the process for the first block. This **ensures uniqueness**—even if you encrypt the exact same message twice with the same key, using a different IV will result in completely different ciphertext. 
-![[Pasted image 20260125231110.png]]![[Pasted image 20260125231350.png]]
-## 1️⃣ ECB — Electronic Codebook (❌ insecure)
+![[Pasted image 20260125231110.png]]
+### 1. The Core Mechanism
 
-**How it works**
+In CFB, we don't actually encrypt the message directly with the block cipher algorithm. Instead, we encrypt the **previous ciphertext** and then mix it with our message.
 
-- Each block is encrypted **independently**
+- **Step 1:** The algorithm encrypts the **Initialization Vector (IV)** (for the first block) or the **previous ciphertext block** ($c_{n-1}$) using the key ($k$).
     
-- Same plaintext block → same ciphertext block
+- **Step 2:** The result of that encryption is then **XORed** ($\oplus$) with the current plaintext block ($m_n$).
     
+- **Step 3:** This creates the ciphertext block ($c_n$), which is then "fed back" into the next stage to be encrypted.
+ 
+![[Pasted image 20260125231350.png]]
+You've hit the "speed demon" of the group. **Counter (CTR) Mode** is currently one of the most popular modes because it is incredibly fast and efficient.
 
-**Properties**
+While CBC and CFB were "chains" (where you had to wait for one block to finish before starting the next), CTR mode is all about **parallelism**.
 
-- ❌ No IV
+### 1. How it Works
+
+Instead of using the previous ciphertext to mix with the next block, it uses a simple **Counter** ($ctr$).
+
+- **The Keystream:** For every block, a unique counter value ($ctr_1, ctr_2, \dots$) is encrypted with the key ($k$).
     
-- ❌ Leaks patterns
+- **The XOR:** The output of that encryption is then XORed ($\oplus$) with your message block ($m_n$) to produce the ciphertext ($c_n$).
     
-- ❌ Not semantically secure
-    
-
-**Visual intuition**
-
-`P1 → E → C1 P2 → E → C2 P1 → E → C1   (same input → same output)`
-
-**When to use**
-
-- ❌ Never for real data
-    
-- ✔️ Only for learning
+- **Math:** $c_i = m_i \oplus E_k(ctr_i)$.
     
 
 ---
 
-## 2️⃣ CBC — Cipher Block Chaining (⚠️ legacy but better)
+### 2. Why is this better?
 
-**How it works**
+Imagine you have a 4-core processor. In CBC mode, three cores sit idle while the first core finishes block 1. In **CTR mode**, you can give block 1 to Core A, block 2 to Core B, and so on, because the counter values are known in advance.
 
-- Each plaintext block is XORed with the **previous ciphertext block**
+- **Speed:** It is massively parallelizable.
     
-- Uses an **IV** for the first block
-    
+- **Random Access:** If you only need to decrypt the 50th block of a file, you can jump straight there without decrypting the first 49 blocks.
+In the context of **Counter (CTR) Mode**, the "counter value" ($ctr$) is a unique, non-repeating number that acts as the input for the encryption algorithm.
 
-`C1 = E(P1 ⊕ IV) C2 = E(P2 ⊕ C1) C3 = E(P3 ⊕ C2)`
-
-**Properties**
-
-- ✔️ Hides patterns
-    
-- ✔️ Widely used historically
-    
-- ❌ Not parallelizable (encryption)
-    
-- ❌ Vulnerable to padding oracle attacks if used wrong
-    
-
-**When to use**
-
-- ⚠️ Legacy systems only
-    
-- ❌ Avoid in new designs
-    
-
----
-
-## 3️⃣ CFB — Cipher Feedback (stream-like)
-
-**How it works**
-
-- Turns a block cipher into a **stream cipher**
-    
-- Encrypts previous ciphertext and XORs with plaintext
-    
-
-`E(IV) ⊕ P1 → C1 E(C1) ⊕ P2 → C2`
-
-**Properties**
-
-- ✔️ No padding needed
-    
-- ✔️ Works on small chunks
-    
-- ❌ Error propagation
-    
-- ❌ Slower than CTR
-    
-
-**When to use**
-
-- Streaming data (older protocols)
-    
-
----
-
-## 4️⃣ CTR — Counter Mode (✅ modern & fast)
-
-**How it works**
-
-- Encrypts a **counter + nonce**
-    
-- XORs result with plaintext
-    
-
-`E(nonce || counter) ⊕ plaintext`
-
-**Properties**
-
-- ✔️ Very fast
-    
-- ✔️ Fully parallelizable
-    
-- ✔️ No padding
-    
-- ❌ **Nonce reuse = catastrophic**
-    
-
-**When to use**
-
-- Modern systems (if nonce is guaranteed unique)
 ![[Pasted image 20260125232055.png]]
 **![[Pasted image 20260125231826.png]]
 b**
