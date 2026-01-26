@@ -112,3 +112,106 @@ if __name__ == "__main__":
 **Exercise 2 Answer:** The Caesar cipher is not secure because there are only 25 possible shifts (1-25). An attacker can simply try all 25 possibilities in seconds and see which one makes sense. This is called a "brute force attack.
 
 ![[Pasted image 20260126192314.png]]
+
+
+![[Pasted image 20260126200522.png]]
+```Python
+# Task: Include any required modules here
+
+from unittest import result
+
+  
+
+def createSubstitutionTables(key):
+
+    # The key is the ciphertext alphabet
+
+    # "ESKMXRBPVHDTNFZAYQWILCOUGJ" from Table 2
+
+    plaintextToCiphertext = {}
+
+    ciphertextToPlaintext = {}
+
+    # Map each letter A-Z to the corresponding letter in the key
+
+    for i in range(26):
+
+        plainLetter = chr(ord('A') + i)
+
+        cipherLetter = key[i]
+
+        plaintextToCiphertext[plainLetter] = cipherLetter
+
+        ciphertextToPlaintext[cipherLetter] = plainLetter
+
+    return (plaintextToCiphertext, ciphertextToPlaintext)
+
+  
+
+def encrypt(plaintext, plaintextToCiphertext):
+
+    cipher = ""
+
+    for char in plaintext:
+
+        if char in plaintextToCiphertext:
+
+            cipher += plaintextToCiphertext[char]
+
+        else:
+
+            cipher += char
+
+    return cipher
+
+  
+  
+
+def decrypt(ciphertext, ciphertextToPlaintext):
+
+    result = ""
+
+    for char in ciphertext:
+
+        if char in ciphertextToPlaintext:
+
+            result += ciphertextToPlaintext[char]
+
+        else:
+
+            result += char
+
+    return result
+
+  
+
+if __name__ == "__main__":
+
+    # Create the substitution tables using the key from Table 2
+
+    # A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+    # E S M X K R B P V H D T N F Z A Y Q W I L C O U G J
+
+    key = "ESKMXRBPVHDTNFZAYQWILCOUGJ"
+
+    plainToCipher, cipherToPlain = createSubstitutionTables(key)
+
+    # Define a plaintext to encrypt
+
+    message = "SUBSTITUTION"
+
+    # Encrypt the plaintext and print the ciphertext
+
+    encrypted = encrypt(message, plainToCipher)
+
+    print("Plaintext:", message)
+
+    print("Ciphertext:", encrypted)
+
+    # Decrypt the ciphertext and print the plaintext
+
+    decrypted = decrypt(encrypted, cipherToPlain)
+
+    print("Decrypted:", decrypted)
+```
