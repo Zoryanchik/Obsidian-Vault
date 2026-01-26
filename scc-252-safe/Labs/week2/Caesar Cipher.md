@@ -218,3 +218,9 @@ if __name__ == "__main__":
 
 ![[Pasted image 20260126221221.png]]
 ![[Pasted image 20260126221208.png]]
+
+|**Feature**|**Keyword Cipher**|**Custom Key (Transposition)**|
+|---|---|---|
+|**Type**|Substitution (Swaps letters)|Transposition (Moves letters)|
+|**Goal**|Change "A" to "X"|Move "A" from index 1 to index 5|
+|**Weakness**|Letter frequency (e.g., 'E' is common)|Pattern recognition (Anagrams)|
