@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/3.Intro to javascript/Untitled.md",
+                "file": "scc-213-internet-application/lab/week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "week3"
             }
           },
           {
@@ -823,11 +823,11 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-213-internet-application/lab/week3.md",
     "screen/Pasted image 20260128165215.png",
     "screen/Pasted image 20260128165207.png",
     "scc-213-internet-application/lab/week2.md",
-    "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-213-internet-application/lab",
     "scc-213-internet-application/2.Web standarts/CSS.md",
     "scc-213-internet-application/2.Web standarts/HTML.md",
