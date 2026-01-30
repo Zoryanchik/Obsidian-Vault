@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-222-ai/3.Classification/Untitled.md",
+                "file": "scc-222-ai/3.Classification/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "KNN"
             }
           },
           {
@@ -824,7 +824,7 @@
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
     "scc-222-ai/3.Classification/Logistic Regression.md",
-    "scc-222-ai/3.Classification/Untitled.md",
+    "scc-222-ai/3.Classification/KNN.md",
     "screen/Pasted image 20260130195929.png",
     "screen/Pasted image 20260130195628.png",
     "screen/Pasted image 20260130195602.png",
