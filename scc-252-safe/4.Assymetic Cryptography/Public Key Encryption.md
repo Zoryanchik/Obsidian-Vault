@@ -36,4 +36,4 @@ The slide illustrates a conversation between Alice and Bob:
 The security relies on the **Discrete Logarithm Problem**. The slide explains that even if a hacker knows the public elements ($a, b, p$), it is mathematically "hard" to figure out the secret exponent ($x$) in the equation $a^x \equiv b \mod p$. Essentially, mixing the numbers is easy, but un-mixing them is nearly impossible without the private key.
 
 ![[Pasted image 20260202191308.png]]
-![[Pasted image 20260202191754.png]]![[Pasted image 20260202191942.png]]![[Pasted image 20260202192040.png]]![[Pasted image 20260202192431.png]]
+![[Pasted image 20260202191754.png]]![[Pasted image 20260202191942.png]]![[Pasted image 20260202192040.png]]![[Pasted image 20260202192431.png]]![[Pasted image 20260202193543.png]]
