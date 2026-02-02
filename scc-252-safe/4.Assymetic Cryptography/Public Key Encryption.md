@@ -38,4 +38,4 @@ The security relies on the **Discrete Logarithm Problem**. The slide explains th
 ![[Pasted image 20260202191308.png]]
 ![[Pasted image 20260202191754.png]]![[Pasted image 20260202191942.png]]![[Pasted image 20260202192040.png]]![[Pasted image 20260202192431.png]]![[Pasted image 20260202193543.png]]![[Pasted image 20260202194150.png]]
 
-![[Pasted image 20260202194727.png]]
+![[Pasted image 20260202194727.png]]![[Pasted image 20260202195608.png]]
