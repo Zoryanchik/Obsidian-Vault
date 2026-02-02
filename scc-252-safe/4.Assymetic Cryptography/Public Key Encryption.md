@@ -38,4 +38,35 @@ The security relies on the **Discrete Logarithm Problem**. The slide explains th
 ![[Pasted image 20260202191308.png]]
 ![[Pasted image 20260202191754.png]]![[Pasted image 20260202191942.png]]![[Pasted image 20260202192040.png]]![[Pasted image 20260202192431.png]]![[Pasted image 20260202193543.png]]![[Pasted image 20260202194150.png]]
 
-![[Pasted image 20260202194727.png]]![[Pasted image 20260202195608.png]]![[Pasted image 20260202201852.png]]
+![[Pasted image 20260202194727.png]]![[Pasted image 20260202195608.png]]![[Pasted image 20260202201852.png]]![[Pasted image 20260202203525.png]]### 1. What is "Deterministic"?
+
+In the context of encryption, **deterministic** means that the same input always creates the exact same output.
+
+- **The Scenario:** If you encrypt the word "Hello" today, and then encrypt the word "Hello" again tomorrow using the same key, the resulting ciphertext will look **identical**.
+    
+- **The Problem:** This is a security weakness. If an attacker sees the same ciphertext twice, they immediately know you sent the same message twice. It reveals patterns in your communication without them even needing to crack the code.
+    
+
+### 2. What is "Padding"?
+
+**Padding** is the solution used to fix the "deterministic" problem. It involves adding random data to your message _before_ you encrypt it.
+
+- **The Fix:** instead of just encrypting "Hello", the system automatically adds random numbers to it (e.g., "Hello + _random284_").
+    
+- **The Result (Probabilistic Encryption):**
+    
+    - **Attempt 1:** Encrypts "Hello + _random284_" $\rightarrow$ Output is `Xy7z...`
+        
+    - **Attempt 2:** Encrypts "Hello + _random991_" $\rightarrow$ Output is `Ab3q...`
+        
+- **Why it matters:** Even though the core message is the same, the encrypted text looks completely different every time. This hides patterns from attackers.
+    
+
+**Summary:**
+
+The slide states that because RSA is naturally **deterministic** (predictable), you _must_ use a **padding scheme** to make it **probabilistic** (random/unpredictable) and secure.
+
+**Would you**
+
+![[Pasted image 20260202203738.png]]
+idk![[Pasted image 20260202203804.png]]
