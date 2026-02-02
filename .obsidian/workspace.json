@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
+                "file": "scc-252-safe/4.Assymetic Cryptography/Public Key Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part C Modes of Operation for a Block Cipher"
+              "title": "Public Key Encryption"
             }
           },
           {
@@ -823,25 +823,25 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "scc-252-safe/4.Assymetic Cryptography/Digital Signature Schemes.md",
+    "scc-252-safe/Labs/week3/part3.md",
+    "scc-252-safe/Labs/week3/part B.md",
+    "scc-252-safe/Labs/week3/part A.md",
+    "scc-252-safe/Labs/week2/Caesar Cipher.md",
+    "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
+    "screen/Pasted image 20260203003045.png",
     "screen/Pasted image 20260203001924.png",
     "screen/Pasted image 20260203001857.png",
     "screen/Pasted image 20260203001722.png",
     "screen/Pasted image 20260203001715.png",
     "screen/Pasted image 20260203001641.png",
     "scc-252-safe/3.Symmetric Cryptography/Models of operations.md",
-    "scc-252-safe/4.Assymetic Cryptography/Digital Signature Schemes.md",
     "scc-252-safe/4.Assymetic Cryptography/Public Key Encryption.md",
-    "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
     "screen/Pasted image 20260203001451.png",
     "screen/Pasted image 20260203001124.png",
     "screen/Pasted image 20260203001119.png",
     "scc-252-safe/Labs/week1/Bcrypt hash.md",
     "screen/Pasted image 20260203001021.png",
-    "scc-252-safe/Labs/week3/part3.md",
-    "screen/Pasted image 20260203000927.png",
-    "scc-252-safe/Labs/week3/part B.md",
-    "screen/Pasted image 20260203000701.png",
-    "scc-252-safe/Labs/week3/part A.md",
     "scc-252-safe/Labs/week3",
     "scc-252-safe/4.Assymetic Cryptography/Recap.md",
     "scc-252-safe/2. Introduction to Cryptography/Quiz.md",
@@ -850,7 +850,6 @@
     "scc-252-safe/2. Introduction to Cryptography/Summary.md",
     "scc-252-safe/3.Symmetric Cryptography/Symmetric.md",
     "scc-252-safe/3.Symmetric Cryptography/Quiz.md",
-    "scc-252-safe/Labs/week2/Caesar Cipher.md",
     "scc-252-safe/4.Assymetic Cryptography",
     "scc-222-ai/2.Linear regression/Untitled.md",
     "scc-222-ai/2.Linear regression/math.md",
