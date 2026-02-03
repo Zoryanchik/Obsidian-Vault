@@ -23,4 +23,4 @@ main = do
     print (greet student1)  -- Output: "Hello, Alice!"
     print (greet student2)  -- Output: "Hello, Bob!"
 ```
-![[Pasted image 20260203180410.png]]
+![[Pasted image 20260203180410.png]]![[Pasted image 20260203184426.png]]![[Pasted image 20260203184437.png]]![[Pasted image 20260203184550.png]]![[Pasted image 20260203184630.png]] 
