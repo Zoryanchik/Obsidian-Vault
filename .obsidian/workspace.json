@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/4.Modelling data/Type keyword.md",
+                "file": "scc-212-advanced/4.Modelling data/data keyword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type keyword"
+              "title": "data keyword"
             }
           },
           {
@@ -823,18 +823,19 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
-    "scc-212-advanced/4.Modelling data/typ.md",
+    "screen/Pasted image 20260203220638.png",
+    "screen/Pasted image 20260203220530.png",
+    "screen/Pasted image 20260203220417.png",
+    "screen/Pasted image 20260203220232.png",
+    "screen/Pasted image 20260203220212.png",
+    "screen/Pasted image 20260203215742.png",
+    "screen/Pasted image 20260203215705.png",
+    "screen/Pasted image 20260203215153.png",
+    "screen/Pasted image 20260203215100.png",
+    "screen/Pasted image 20260203214622.png",
+    "screen/Pasted image 20260203214606.png",
     "scc-212-advanced/4.Modelling data/Type keyword.md",
-    "screen/Pasted image 20260203185612.png",
-    "screen/Pasted image 20260203185549.png",
-    "screen/Pasted image 20260203184630.png",
-    "screen/Pasted image 20260203184550.png",
-    "screen/Pasted image 20260203184437.png",
-    "screen/Pasted image 20260203184426.png",
-    "screen/Pasted image 20260203180410.png",
-    "screen/Pasted image 20260203180408.png",
-    "screen/Pasted image 20260203175016.png",
-    "screen/Pasted image 20260203174934.png",
+    "scc-212-advanced/4.Modelling data/data keyword.md",
     "scc-212-advanced/3.Functions in haskell/quiz.md",
     "scc-212-advanced/4.Modelling data",
     "scc-212-advanced/lab3/Untitled.md",
@@ -861,7 +862,6 @@
     "scc-222-ai/2.Linear regression/Untitled.md",
     "scc-222-ai/2.Linear regression/math.md",
     "scc-222-ai/3.Classification/Distance Measures.md",
-    "scc-222-ai/3.Classification/KNN.md",
     "scc-222-ai/3.Classification",
     "scc-212-advanced/lab3",
     "scc-213-internet-application/lab",
