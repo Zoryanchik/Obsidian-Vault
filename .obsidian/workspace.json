@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/lab4/Untitled.md",
+                "file": "scc-212-advanced/lab4/task2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "task2"
             }
           },
           {
@@ -823,20 +823,21 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
-    "screen/Pasted image 20260203224454.png",
-    "screen/Pasted image 20260203224441.png",
-    "screen/Pasted image 20260203224342.png",
-    "screen/Pasted image 20260203224211.png",
-    "screen/Pasted image 20260203223422.png",
-    "scc-212-advanced/4.Modelling data/data keyword.md",
+    "screen/Pasted image 20260203231723.png",
+    "screen/Pasted image 20260203231534.png",
+    "screen/Pasted image 20260203231245.png",
+    "screen/Pasted image 20260203231227.png",
+    "screen/Pasted image 20260203231021.png",
+    "screen/Pasted image 20260203230935.png",
+    "screen/Pasted image 20260203230725.png",
+    "screen/Pasted image 20260203230515.png",
+    "screen/Pasted image 20260203230315.png",
+    "screen/Pasted image 20260203230226.png",
     "scc-212-advanced/lab4/Untitled.md",
+    "scc-212-advanced/lab4/task2.md",
+    "screen/Pasted image 20260203230010.png",
+    "scc-212-advanced/4.Modelling data/data keyword.md",
     "scc-212-advanced/lab4",
-    "screen/Pasted image 20260203220638.png",
-    "screen/Pasted image 20260203220530.png",
-    "screen/Pasted image 20260203220417.png",
-    "screen/Pasted image 20260203220232.png",
-    "screen/Pasted image 20260203220212.png",
-    "screen/Pasted image 20260203215742.png",
     "scc-212-advanced/4.Modelling data/Type keyword.md",
     "scc-212-advanced/3.Functions in haskell/quiz.md",
     "scc-212-advanced/4.Modelling data",
@@ -862,7 +863,6 @@
     "scc-252-safe/3.Symmetric Cryptography/Quiz.md",
     "scc-252-safe/4.Assymetic Cryptography",
     "scc-222-ai/2.Linear regression/Untitled.md",
-    "scc-222-ai/2.Linear regression/math.md",
     "scc-222-ai/3.Classification",
     "scc-212-advanced/lab3",
     "scc-213-internet-application/lab",
