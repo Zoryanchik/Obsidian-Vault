@@ -501,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
+                "file": "scc-213-internet-application/lab/week4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State"
+              "title": "week4"
             }
           },
           {
@@ -823,6 +823,10 @@
   },
   "active": "f6bf2350f9817409",
   "lastOpenFiles": [
+    "screen/Pasted image 20260208001825.png",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
+    "scc-213-internet-application/lab/week4.md",
+    "scc-213-internet-application/lab/Untitled",
     "screen/Pasted image 20260207235117.png",
     "screen/Pasted image 20260207234917.png",
     "screen/Pasted image 20260207234909.png",
@@ -832,10 +836,8 @@
     "screen/Pasted image 20260207234312.png",
     "screen/Pasted image 20260207234235.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
-    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
     "screen/Pasted image 20260207234024.png",
     "screen/Pasted image 20260207233957.png",
-    "screen/Pasted image 20260207233749.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Interactivity.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Promises.md",
@@ -861,14 +863,12 @@
     "scc-252-safe/Labs/week3/part3.md",
     "scc-252-safe/Labs/week3/part B.md",
     "scc-252-safe/Labs/week3/part A.md",
-    "scc-252-safe/Labs/week2/Caesar Cipher.md",
     "scc-252-safe/Labs/week3",
     "scc-252-safe/4.Assymetic Cryptography",
     "scc-222-ai/3.Classification",
     "scc-212-advanced/lab3",
     "scc-213-internet-application/lab",
     "scc-252-safe/Labs/week2",
-    "scc-252-safe/3.Symmetric Cryptography",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
