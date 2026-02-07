@@ -1,0 +1,2 @@
+![[Pasted image 20260207234235.png]]![[Pasted image 20260207234312.png]]![[Pasted image 20260207234613.png]]![[Pasted image 20260207234728.png]]![[Pasted image 20260207234735.png]]
+![[Pasted image 20260207234917.png]]![[Pasted image 20260207235117.png]]**In summary:** The prop here is **`initialCount`**, and it acts like a configuration setting that lets you customize the component when you use it (e.g., you could tell one counter to start at 0 and another to start at 100).
