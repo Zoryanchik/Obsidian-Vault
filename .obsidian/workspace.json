@@ -510,6 +510,18 @@
             }
           },
           {
+            "id": "ea6bcea1085f6f8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
@@ -662,7 +674,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -821,7 +833,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6bf2350f9817409",
+  "active": "ea6bcea1085f6f8c",
   "lastOpenFiles": [
     "screen/Pasted image 20260208001825.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
