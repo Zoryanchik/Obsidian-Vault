@@ -513,12 +513,14 @@
             "id": "ea6bcea1085f6f8c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "scc-211/Lab/weeek2/Laba 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Laba 2"
             }
           },
           {
@@ -835,6 +837,15 @@
   },
   "active": "ea6bcea1085f6f8c",
   "lastOpenFiles": [
+    "scc-211/Lab/week 1/Question 1 Mary.md",
+    "scc-211/Lab/week4/wk4.md",
+    "scc-211/Lab/week3/Untitled.md",
+    "scc-211/4.Usecases 2/Typical exam question Use cases.md",
+    "scc-211/4.Usecases 2/use case 2.md",
+    "scc-211/3.Use cases/exer.md",
+    "scc-211/3.Use cases/2.Can you draw a use case diagram for this ATM example.md",
+    "scc-211/3.Use cases/1.USe cases.md",
+    "scc-211/5.Software architecture/Sftw architecture.md",
     "screen/Pasted image 20260208001825.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
     "scc-213-internet-application/lab/week4.md",
@@ -849,7 +860,6 @@
     "screen/Pasted image 20260207234235.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
     "screen/Pasted image 20260207234024.png",
-    "screen/Pasted image 20260207233957.png",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Interactivity.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Promises.md",
@@ -867,14 +877,6 @@
     "scc-212-advanced/4.Modelling data/Type keyword.md",
     "scc-212-advanced/3.Functions in haskell/quiz.md",
     "scc-212-advanced/4.Modelling data",
-    "scc-212-advanced/lab3/Untitled.md",
-    "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
-    "scc-212-advanced/3.Functions in haskell/Start.md",
-    "scc-252-safe/4.Assymetic Cryptography/Public Key Encryption.md",
-    "scc-252-safe/4.Assymetic Cryptography/Digital Signature Schemes.md",
-    "scc-252-safe/Labs/week3/part3.md",
-    "scc-252-safe/Labs/week3/part B.md",
-    "scc-252-safe/Labs/week3/part A.md",
     "scc-252-safe/Labs/week3",
     "scc-252-safe/4.Assymetic Cryptography",
     "scc-222-ai/3.Classification",
