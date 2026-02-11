@@ -515,12 +515,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/5.Node.js/AJAX.md",
+                "file": "scc-213-internet-application/5.Node.js/Express.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AJAX"
+              "title": "Express"
             }
           },
           {
@@ -837,20 +837,21 @@
   },
   "active": "ea6bcea1085f6f8c",
   "lastOpenFiles": [
-    "screen/Pasted image 20260211191911.png",
+    "screen/Pasted image 20260211194626.png",
+    "screen/Pasted image 20260211194512.png",
+    "screen/Pasted image 20260211194454.png",
+    "screen/Pasted image 20260211193838.png",
+    "screen/Pasted image 20260211193705.png",
+    "screen/Pasted image 20260211193549.png",
+    "screen/Pasted image 20260211193539.png",
+    "screen/Pasted image 20260211193337.png",
     "scc-213-internet-application/5.Node.js/Axois.md",
+    "scc-213-internet-application/5.Node.js/Express.md",
+    "screen/Pasted image 20260211193217.png",
+    "screen/Pasted image 20260211193210.png",
+    "screen/Pasted image 20260211193204.png",
     "scc-213-internet-application/5.Node.js/AJAX.md",
-    "screen/Pasted image 20260211191850.png",
-    "screen/Pasted image 20260211191745.png",
-    "screen/Pasted image 20260211191730.png",
     "scc-213-internet-application/5.Node.js/Node js.md",
-    "screen/Pasted image 20260211191605.png",
-    "screen/Pasted image 20260211191535.png",
-    "screen/Pasted image 20260211191450.png",
-    "screen/Pasted image 20260211191312.png",
-    "screen/Pasted image 20260211191304.png",
-    "screen/Pasted image 20260211191138.png",
-    "screen/Pasted image 20260211191130.png",
     "scc-213-internet-application/lab/week3.md",
     "scc-213-internet-application/5.Node.js",
     "scc-213-internet-application/lab/week4.md",
@@ -876,7 +877,6 @@
     "scc-211/Lab/week4/wk4.md",
     "scc-211/Lab/week3/Untitled.md",
     "scc-211/4.Usecases 2/Typical exam question Use cases.md",
-    "scc-211/4.Usecases 2/use case 2.md",
     "scc-213-internet-application/lab/Untitled",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications",
     "scc-212-advanced/lab4",
