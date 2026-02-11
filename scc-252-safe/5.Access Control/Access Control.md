@@ -1,0 +1,16 @@
+![[Pasted image 20260211165315.png]]![[Pasted image 20260211165345.png]]![[Pasted image 20260211165741.png]]![[Pasted image 20260211165818.png]]**Accountability means "No Anonymity."** In computer security, every single action (clicking a link, deleting a file, logging in) must be recorded and linked to a specific user or device. You must be able to prove exactly **who** did **what**.
+
+![[Pasted image 20260211170021.png]]![[Pasted image 20260211170047.png]]![[Pasted image 20260211170059.png]]**Logical Access Control is the "Digital Lock."** While physical security locks the office door, _logical_ access control locks the computer screen and files. It uses procedures specifically designed to protect "information and knowledge" rather than physical hardware.
+
+![[Pasted image 20260211170316.png]]
+![[Pasted image 20260211170336.png]]![[Pasted image 20260211170438.png]]![[Pasted image 20260211170445.png]]![[Pasted image 20260211170514.png]]![[Pasted image 20260211170716.png]]
+
+| **Feature**           | **DAC (Discretionary)**                                                | **MAC (Mandatory)**                                                                                    |
+| --------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Who is in charge?** | The data owner (the user who created the file).                        | The System Administrator / Security Policy.                                                            |
+| **Flexibility**       | **High.** Easy to share data on the fly.                               | **Low.** Very rigid and strict.                                                                        |
+| **Security Level**    | **Lower.** Prone to human error (users accidentally sharing too much). | **Highest.** Prevents accidental leaks.                                                                |
+| **Best Analogy**      | **Your House.** You decide who gets a key and enters your living room. | **A Military Base.** You need a specific badge to enter specific zones, regardless of who invited you. |
+| **Common Use**        | Personal computers, Windows, UNIX, standard corporate networks.        | Military, Government, High-Security Intelligence systems.                                              |
+
+![[Pasted image 20260211170940.png]]![[Pasted image 20260211171325.png]]![[Pasted image 20260211171337.png]]![[Pasted image 20260211171349.png]]![[Pasted image 20260211171356.png]]![[Pasted image 20260211171405.png]]![[Pasted image 20260211171411.png]]![[Pasted image 20260211171646.png]]![[Pasted image 20260211171702.png]]![[Pasted image 20260211171839.png]]![[Pasted image 20260211171848.png]]![[Pasted image 20260211172023.png]]**Monitoring is the "Security Camera."** While **Access Control** (Slide 2) is the lock that stops people, **Monitoring** (Slide 1) is the recording that watches what they do. It ensures that every action is "traced uniquely to that entity".
