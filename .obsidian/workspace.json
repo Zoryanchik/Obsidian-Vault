@@ -529,12 +529,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/5.Recursion/Other Library Functions.md",
+                "file": "scc-212-advanced/5.Recursion/Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other Library Functions"
+              "title": "Quiz"
             }
           },
           {
@@ -851,21 +851,22 @@
   },
   "active": "2ea0761534370967",
   "lastOpenFiles": [
-    "screen/Pasted image 20260216210003.png",
+    "screen/Pasted image 20260216213012.png",
+    "screen/Pasted image 20260216212617.png",
+    "screen/Pasted image 20260216212603.png",
+    "screen/Pasted image 20260216212556.png",
+    "screen/Pasted image 20260216212549.png",
+    "screen/Pasted image 20260216212546.png",
+    "screen/Pasted image 20260216212541.png",
+    "screen/Pasted image 20260216212537.png",
+    "scc-212-advanced/5.Recursion/Higher Order Functions.md",
+    "scc-212-advanced/5.Recursion/Quiz.md",
     "scc-212-advanced/5.Recursion/The foldr function.md",
     "scc-212-advanced/5.Recursion/Other Library Functions.md",
+    "screen/Pasted image 20260216211055.png",
+    "screen/Pasted image 20260216210003.png",
     "screen/Pasted image 20260216205816.png",
-    "screen/Pasted image 20260216205805.png",
-    "screen/Pasted image 20260216205647.png",
-    "screen/Pasted image 20260216205411.png",
-    "screen/Pasted image 20260216205350.png",
-    "screen/Pasted image 20260216205043.png",
-    "screen/Pasted image 20260216204951.png",
-    "screen/Pasted image 20260216204842.png",
-    "screen/Pasted image 20260216204720.png",
-    "screen/Pasted image 20260216204635.png",
     "scc-212-advanced/5.Recursion/Tail recursion.md",
-    "scc-212-advanced/5.Recursion/Higher Order Functions.md",
     "scc-212-advanced/5.Recursion/Recursion.md",
     "scc-252-safe/4.Assymetic Cryptography/quiz.md",
     "scc-212-advanced/5.Recursion",
@@ -889,7 +890,6 @@
     "scc-252-safe/Labs/week4/Untitled.md",
     "scc-252-safe/5.Access Control/lvel of logging.md",
     "scc-252-safe/Labs/week4",
-    "scc-252-safe/5.Access Control/Access Control.md",
     "scc-252-safe/5.Access Control",
     "Untitled.base",
     "scc-213-internet-application/lab/Untitled",
