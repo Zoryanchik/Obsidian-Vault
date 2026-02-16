@@ -515,12 +515,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/5.Node.js/Express.md",
+                "file": "scc-213-internet-application/2.Web standarts/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express"
+              "title": "HTML"
             }
           },
           {
@@ -837,6 +837,15 @@
   },
   "active": "ea6bcea1085f6f8c",
   "lastOpenFiles": [
+    "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
+    "scc-213-internet-application/2.Web standarts/HTML.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Interactivity.md",
+    "scc-213-internet-application/5.Node.js/AJAX.md",
+    "scc-213-internet-application/5.Node.js/Express.md",
+    "scc-213-internet-application/5.Node.js/Node js.md",
+    "scc-213-internet-application/5.Node.js/Axois.md",
     "screen/Pasted image 20260211194626.png",
     "screen/Pasted image 20260211194512.png",
     "screen/Pasted image 20260211194454.png",
@@ -845,13 +854,8 @@
     "screen/Pasted image 20260211193549.png",
     "screen/Pasted image 20260211193539.png",
     "screen/Pasted image 20260211193337.png",
-    "scc-213-internet-application/5.Node.js/Axois.md",
-    "scc-213-internet-application/5.Node.js/Express.md",
     "screen/Pasted image 20260211193217.png",
     "screen/Pasted image 20260211193210.png",
-    "screen/Pasted image 20260211193204.png",
-    "scc-213-internet-application/5.Node.js/AJAX.md",
-    "scc-213-internet-application/5.Node.js/Node js.md",
     "scc-213-internet-application/lab/week3.md",
     "scc-213-internet-application/5.Node.js",
     "scc-213-internet-application/lab/week4.md",
@@ -873,10 +877,6 @@
     "121.2/Searching/Linear search.md",
     "121.2/Queue array.md",
     "scc-211/Lab/weeek2/Laba 2.md",
-    "scc-211/Lab/week 1/Question 1 Mary.md",
-    "scc-211/Lab/week4/wk4.md",
-    "scc-211/Lab/week3/Untitled.md",
-    "scc-211/4.Usecases 2/Typical exam question Use cases.md",
     "scc-213-internet-application/lab/Untitled",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications",
     "scc-212-advanced/lab4",
