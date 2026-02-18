@@ -53,4 +53,4 @@ In real code, you usually want **strict** left fold:
 `foldl' (+) 0 bigList`
 
 (`foldl'` lives in `Data.List` and forces the accumulator at each step.)
-![[Pasted image 20260218035011.png]]![[Pasted image 20260218035018.png]]![[Pasted image 20260218035031.png]]
+![[Pasted image 20260218035011.png]]![[Pasted image 20260218035018.png]]![[Pasted image 20260218174514.png]]![[Pasted image 20260218035031.png]]
