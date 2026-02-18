@@ -529,12 +529,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Local bindings.md",
+                "file": "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Higher-order functions foldr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local bindings"
+              "title": "Higher-order functions foldr"
             }
           },
           {
@@ -851,10 +851,12 @@
   },
   "active": "2ea0761534370967",
   "lastOpenFiles": [
-    "screen/Pasted image 20260218040928.png",
+    "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/String Comprehensions.md",
+    "scc-212-advanced/lab5/part2.md",
+    "scc-212-advanced/lab5/part1.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Higher-order functions foldr.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Local bindings.md",
-    "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/String Comprehensions.md",
+    "screen/Pasted image 20260218040928.png",
     "scc-212-advanced/Lab 6",
     "screen/Pasted image 20260218035511.png",
     "screen/Pasted image 20260218035504.png",
@@ -867,10 +869,7 @@
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Guards.md",
     "screen/Pasted image 20260218035402.png",
     "screen/Pasted image 20260218035356.png",
-    "screen/Pasted image 20260218035349.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Lists Comprehensions.md",
-    "scc-212-advanced/lab5/part1.md",
-    "scc-212-advanced/lab5/part2.md",
     "scc-212-advanced/5.Recursion/Higher Order Functions.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips",
     "scc-212-advanced/lab4/task2.md",
