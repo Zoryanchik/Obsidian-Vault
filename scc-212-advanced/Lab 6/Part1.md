@@ -60,4 +60,4 @@ haskell
 - `if even x` — check if the current number is even
 - `then acc + x^2` — if yes, add its square to the running total
 - `else acc` — if no, leave the running total unchanged
-![[Pasted image 20260218223323.png]]
+![[Pasted image 20260218223323.png]]![[Pasted image 20260218223905.png]]
