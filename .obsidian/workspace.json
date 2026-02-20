@@ -529,12 +529,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/Lab 6/Part1.md",
+                "file": "scc-213-internet-application/5.Node.js/Node js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part1"
+              "title": "Node js"
             }
           },
           {
@@ -747,7 +747,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 460.5
   },
   "right": {
     "id": "b90051fed58aea3d",
@@ -851,10 +851,26 @@
   },
   "active": "2ea0761534370967",
   "lastOpenFiles": [
+    "scc-213-internet-application/lab/week4.md",
+    "scc-213-internet-application/lab/week3.md",
+    "scc-213-internet-application/5.Node.js/Node js.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
+    "scc-213-internet-application/lab/week2.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Interactivity.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Promises.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Callbacks.md",
+    "scc-213-internet-application/3.Intro to javascript/Untitled.md",
+    "scc-213-internet-application/2.Web standarts/CSS.md",
+    "scc-213-internet-application/2.Web standarts/HTML.md",
+    "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
+    "scc-213-internet-application/1.Introduction/Untitled.md",
+    "scc-252-safe/1.Authentication/Authentication.md",
+    "scc-212-advanced/Lab 6/Part1.md",
     "screen/Pasted image 20260218223905.png",
     "screen/Pasted image 20260218223323.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Lists Comprehensions.md",
-    "scc-212-advanced/Lab 6/Part1.md",
     "screen/Pasted image 20260218222956.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Higher-order functions foldr.md",
     "screen/Pasted image 20260218222609.png",
@@ -864,7 +880,6 @@
     "screen/Pasted image 20260218222151.png",
     "screen/Pasted image 20260218221959.png",
     "screen/Pasted image 20260218221933.png",
-    "screen/Pasted image 20260218221658.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Guards.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/The Zip function.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/String Comprehensions.md",
@@ -874,21 +889,6 @@
     "scc-212-advanced/Lab 6",
     "scc-212-advanced/5.Recursion/Higher Order Functions.md",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips",
-    "scc-212-advanced/lab4/task2.md",
-    "scc-212-advanced/lab4/Untitled.md",
-    "scc-212-advanced/lab3/Untitled.md",
-    "scc-212-advanced/lab2/Untitled.md",
-    "scc-212-advanced/5.Recursion/Tail recursion.md",
-    "scc-212-advanced/5.Recursion/Recursion.md",
-    "scc-212-advanced/4.Modelling data/data keyword.md",
-    "scc-212-advanced/4.Modelling data/Type keyword.md",
-    "scc-212-advanced/3.Functions in haskell/quiz.md",
-    "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
-    "scc-212-advanced/3.Functions in haskell/Start.md",
-    "scc-212-advanced/3.Functions in haskell/Curried Functions.md",
-    "scc-212-advanced/2.Types and classes/Type classes.md",
-    "scc-212-advanced/2.Types and classes/Basic concepts.md",
-    "scc-212-advanced/1..Intro to haskal/Exercise.md",
     "scc-212-advanced/lab5",
     "scc-212-advanced/5.Recursion",
     "scc-213-internet-application/5.Node.js",
