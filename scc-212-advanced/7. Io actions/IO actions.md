@@ -31,3 +31,6 @@ The slide notes that the **last line must return an IO type**. In Haskell, a `do
 
 ![[Pasted image 20260224021911.png]]
 ![[Pasted image 20260224022102.png]]
+![[Pasted image 20260224023247.png]]![[Pasted image 20260224023545.png]]
+![[Pasted image 20260224023848.png]]
+![[Pasted image 20260224024036.png]]![[Pasted image 20260224024049.png]]![[Pasted image 20260224024129.png]]![[Pasted image 20260224024537.png]]![[Pasted image 20260224024708.png]]![[Pasted image 20260224024949.png]]![[Pasted image 20260224025003.png]]![[Pasted image 20260224025122.png]]

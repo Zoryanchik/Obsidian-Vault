@@ -529,12 +529,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/7. Io actions/IO actions.md",
+                "file": "scc-212-advanced/7. Io actions/summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO actions"
+              "title": "summary"
             }
           },
           {
@@ -851,15 +851,21 @@
   },
   "active": "2ea0761534370967",
   "lastOpenFiles": [
-    "screen/Pasted image 20260224022102.png",
-    "screen/Pasted image 20260224021911.png",
-    "screen/Pasted image 20260224021313.png",
-    "screen/Pasted image 20260224021159.png",
-    "screen/Pasted image 20260224021051.png",
-    "screen/Pasted image 20260224020939.png",
     "scc-212-advanced/Lab 6/Part1.md",
+    "scc-222-ai/3.Classification/Distance Measures.md",
+    "scc-212-advanced/7. Io actions/summary.md",
+    "screen/Pasted image 20260224030105.png",
+    "scc-212-advanced/7. Io actions/MAIN haskell + terminal io.md",
+    "screen/Pasted image 20260224030046.png",
+    "screen/Pasted image 20260224030024.png",
+    "screen/Pasted image 20260224025900.png",
+    "screen/Pasted image 20260224025806.png",
+    "screen/Pasted image 20260224025626.png",
+    "screen/Pasted image 20260224025540.png",
+    "screen/Pasted image 20260224025432.png",
+    "screen/Pasted image 20260224025350.png",
+    "screen/Pasted image 20260224025151.png",
     "scc-212-advanced/7. Io actions/IO actions.md",
-    "screen/Pasted image 20260224020554.png",
     "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-212-advanced/7. Io actions",
     "scc-213-internet-application/lab/week2.md",
@@ -880,14 +886,8 @@
     "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
     "scc-213-internet-application/1.Introduction/Untitled.md",
     "scc-252-safe/1.Authentication/Authentication.md",
-    "screen/Pasted image 20260218223905.png",
-    "screen/Pasted image 20260218223323.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Lists Comprehensions.md",
-    "screen/Pasted image 20260218222956.png",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Higher-order functions foldr.md",
-    "screen/Pasted image 20260218222609.png",
-    "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/Guards.md",
-    "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips/The Zip function.md",
     "scc-212-advanced/Lab 6",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips",
     "scc-212-advanced/lab5",
