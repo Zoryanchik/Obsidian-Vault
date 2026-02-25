@@ -529,12 +529,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/lab7/Untitled.md",
+                "file": "scc-212-advanced/lab7/part3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "part3"
             }
           },
           {
@@ -851,6 +851,11 @@
   },
   "active": "2ea0761534370967",
   "lastOpenFiles": [
+    "screen/Pasted image 20260225180311.png",
+    "scc-212-advanced/lab7/Untitled.md",
+    "scc-212-advanced/lab7/part3.md",
+    "screen/Pasted image 20260225175859.png",
+    "screen/Pasted image 20260225175849.png",
     "screen/Pasted image 20260225175211.png",
     "screen/Pasted image 20260225175200.png",
     "screen/Pasted image 20260225174955.png",
@@ -859,15 +864,11 @@
     "screen/Pasted image 20260225174236.png",
     "screen/Pasted image 20260225174058.png",
     "screen/Pasted image 20260225174055.png",
-    "screen/Pasted image 20260225173724.png",
     "scc-212-advanced/7. Io actions/MAIN haskell + terminal io.md",
     "scc-212-advanced/7. Io actions/summary.md",
     "scc-212-advanced/Lab 6/Part1.md",
-    "scc-212-advanced/lab7/Untitled.md",
     "scc-212-advanced/lab7",
     "scc-222-ai/3.Classification/Distance Measures.md",
-    "screen/Pasted image 20260224030105.png",
-    "screen/Pasted image 20260224030046.png",
     "scc-212-advanced/7. Io actions/IO actions.md",
     "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-212-advanced/7. Io actions",
@@ -888,7 +889,6 @@
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Callbacks.md",
     "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
     "scc-213-internet-application/1.Introduction/Untitled.md",
-    "scc-252-safe/1.Authentication/Authentication.md",
     "scc-212-advanced/Lab 6",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips",
     "scc-212-advanced/lab5",
