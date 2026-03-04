@@ -538,6 +538,20 @@
             }
           },
           {
+            "id": "1e5351b529046f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implementation of a larger program in Haskell"
+            }
+          },
+          {
             "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
@@ -690,7 +704,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -849,23 +863,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ea0761534370967",
+  "active": "1e5351b529046f97",
   "lastOpenFiles": [
+    "scc-212-advanced/8.Everyday Programming with Haskell/Exceptions.md",
+    "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
+    "screen/Pasted image 20260305014113.png",
+    "screen/Pasted image 20260305013723.png",
+    "screen/Pasted image 20260305013125.png",
+    "screen/Pasted image 20260305012932.png",
+    "scc-252-safe/Labs/week4/Untitled.md",
+    "scc-212-advanced/lab7/Untitled.md",
+    "scc-212-advanced/7. Io actions/IO actions.md",
+    "scc-212-advanced/7. Io actions/summary.md",
+    "scc-212-advanced/7. Io actions/MAIN haskell + terminal io.md",
+    "scc-212-advanced/8.Everyday Programming with Haskell/DAta ..md",
+    "scc-252-safe/5.Access Control/Access Control.md",
+    "scc-252-safe/5.Access Control/Recap.md",
+    "scc-252-safe/5.Access Control/lvel of logging.md",
+    "screen/Pasted image 20260305012150.png",
+    "screen/Pasted image 20260305012136.png",
+    "screen/Pasted image 20260305011839.png",
+    "screen/Pasted image 20260305011619.png",
+    "screen/Pasted image 20260305011352.png",
+    "scc-212-advanced/8.Everyday Programming with Haskell/base library modules.md",
+    "screen/Pasted image 20260305011118.png",
+    "scc-212-advanced/8.Everyday Programming with Haskell",
     "scc-213-internet-application/8. Accessible Web Design/Wcag.md",
     "scc-213-internet-application/lab/week3.md",
     "scc-213-internet-application/6.Server-side Development 2/WebSockets.md",
-    "screen/Pasted image 20260303043549.png",
     "scc-213-internet-application/7.Sql databases/more.md",
     "scc-213-internet-application/8. Accessible Web Design/Web Accessibility.md",
-    "screen/Pasted image 20260303043505.png",
-    "screen/Pasted image 20260303043455.png",
-    "screen/Pasted image 20260303043412.png",
-    "screen/Pasted image 20260303043306.png",
-    "screen/Pasted image 20260303042934.png",
-    "screen/Pasted image 20260303042910.png",
-    "screen/Pasted image 20260303042805.png",
-    "screen/Pasted image 20260303042651.png",
-    "screen/Pasted image 20260303041837.png",
     "scc-213-internet-application/7.Sql databases/Untitled.md",
     "scc-213-internet-application/8. Accessible Web Design",
     "scc-213-internet-application/7.Sql databases",
@@ -878,24 +905,12 @@
     "scc-213-internet-application/5.Node.js/Express.md",
     "scc-213-internet-application/lab/week2.md",
     "scc-212-advanced/lab7/part3.md",
-    "scc-212-advanced/lab7/Untitled.md",
-    "scc-212-advanced/7. Io actions/MAIN haskell + terminal io.md",
-    "scc-212-advanced/7. Io actions/summary.md",
-    "scc-212-advanced/Lab 6/Part1.md",
     "scc-212-advanced/lab7",
-    "scc-222-ai/3.Classification/Distance Measures.md",
-    "scc-212-advanced/7. Io actions/IO actions.md",
-    "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-212-advanced/7. Io actions",
-    "scc-213-internet-application/2.Web standarts/CSS.md",
-    "scc-213-internet-application/2.Web standarts/HTML.md",
-    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
-    "scc-213-internet-application/5.Node.js/Axois.md",
     "scc-212-advanced/Lab 6",
     "scc-212-advanced/6.Higher-Order Functions cont. Lists and Zips",
     "scc-212-advanced/lab5",
     "scc-212-advanced/5.Recursion",
-    "scc-213-internet-application/5.Node.js",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
