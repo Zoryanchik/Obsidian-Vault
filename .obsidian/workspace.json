@@ -543,12 +543,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
+                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation of a larger program in Haskell"
+              "title": "Sketch of exceptions implementation (I)"
             }
           },
           {
@@ -865,12 +865,20 @@
   },
   "active": "1e5351b529046f97",
   "lastOpenFiles": [
+    "screen/Pasted image 20260305021618.png",
+    "screen/Pasted image 20260305021535.png",
+    "screen/Pasted image 20260305021514.png",
     "scc-212-advanced/8.Everyday Programming with Haskell/Exceptions.md",
+    "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
+    "screen/Pasted image 20260305021057.png",
     "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
+    "screen/Pasted image 20260305020906.png",
+    "screen/Pasted image 20260305020837.png",
+    "screen/Pasted image 20260305020615.png",
+    "screen/Pasted image 20260305020559.png",
     "screen/Pasted image 20260305014113.png",
     "screen/Pasted image 20260305013723.png",
     "screen/Pasted image 20260305013125.png",
-    "screen/Pasted image 20260305012932.png",
     "scc-252-safe/Labs/week4/Untitled.md",
     "scc-212-advanced/lab7/Untitled.md",
     "scc-212-advanced/7. Io actions/IO actions.md",
@@ -880,13 +888,7 @@
     "scc-252-safe/5.Access Control/Access Control.md",
     "scc-252-safe/5.Access Control/Recap.md",
     "scc-252-safe/5.Access Control/lvel of logging.md",
-    "screen/Pasted image 20260305012150.png",
-    "screen/Pasted image 20260305012136.png",
-    "screen/Pasted image 20260305011839.png",
-    "screen/Pasted image 20260305011619.png",
-    "screen/Pasted image 20260305011352.png",
     "scc-212-advanced/8.Everyday Programming with Haskell/base library modules.md",
-    "screen/Pasted image 20260305011118.png",
     "scc-212-advanced/8.Everyday Programming with Haskell",
     "scc-213-internet-application/8. Accessible Web Design/Wcag.md",
     "scc-213-internet-application/lab/week3.md",
@@ -903,8 +905,6 @@
     "scc-213-internet-application/5.Node.js/AJAX.md",
     "scc-213-internet-application/5.Node.js/Node js.md",
     "scc-213-internet-application/5.Node.js/Express.md",
-    "scc-213-internet-application/lab/week2.md",
-    "scc-212-advanced/lab7/part3.md",
     "scc-212-advanced/lab7",
     "scc-212-advanced/7. Io actions",
     "scc-212-advanced/Lab 6",
