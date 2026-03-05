@@ -543,12 +543,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
+                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sketch of exceptions implementation (I)"
+              "title": "Implementation of a larger program in Haskell"
             }
           },
           {
@@ -863,13 +863,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5351b529046f97",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-252-safe/8.Network Security",
+    "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
     "screen/Pasted image 20260305021618.png",
     "screen/Pasted image 20260305021535.png",
     "screen/Pasted image 20260305021514.png",
     "scc-212-advanced/8.Everyday Programming with Haskell/Exceptions.md",
-    "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
     "screen/Pasted image 20260305021057.png",
     "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
     "screen/Pasted image 20260305020906.png",
@@ -878,7 +879,6 @@
     "screen/Pasted image 20260305020559.png",
     "screen/Pasted image 20260305014113.png",
     "screen/Pasted image 20260305013723.png",
-    "screen/Pasted image 20260305013125.png",
     "scc-252-safe/Labs/week4/Untitled.md",
     "scc-212-advanced/lab7/Untitled.md",
     "scc-212-advanced/7. Io actions/IO actions.md",
