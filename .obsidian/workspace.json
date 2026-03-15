@@ -543,12 +543,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Ту ду тудей.md",
+                "file": "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ту ду тудей"
+              "title": "Implementation of a larger program in Haskell"
             }
           },
           {
@@ -865,8 +865,8 @@
   },
   "active": "1e5351b529046f97",
   "lastOpenFiles": [
-    "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
     "Uni/Ту ду тудей.md",
+    "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
     "Uni",
     "scc-212-advanced/8.Everyday Programming with Haskell/Exceptions.md",
     "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
