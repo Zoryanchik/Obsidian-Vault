@@ -543,12 +543,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-222-ai/6.Naïve Bayes/Estimate Probability from Continuous Data.md",
+                "file": "Uni/Ту ду тудей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estimate Probability from Continuous Data"
+              "title": "Ту ду тудей"
+            }
+          },
+          {
+            "id": "def143277f4e0914",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           },
           {
@@ -704,7 +716,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -863,10 +875,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5351b529046f97",
+  "active": "def143277f4e0914",
   "lastOpenFiles": [
-    "scc-222-ai/6.Naïve Bayes/Untitled.md",
     "scc-222-ai/6.Naïve Bayes/Estimate Probability from Continuous Data.md",
+    "scc-222-ai/6.Naïve Bayes/Untitled.md",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
     "screen/Pasted image 20260319055955.png",
@@ -908,12 +920,4 @@
     "scc-252-safe/Labs/week5",
     "scc-252-safe/8.Network Security",
     "scc-212-advanced/8.Everyday Programming with Haskell",
-    "scc-213-internet-application/8. Accessible Web Design",
-    "scc-213-internet-application/7.Sql databases",
-    "scc-241/Lab/Untitled.canvas",
-    "Задачи/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "121.2/week 11-15 Complexity and Operational Counting/1.Introducing to algoritms and complexity/Untitled.canvas"
-  ]
-}
+    "scc-213-int
