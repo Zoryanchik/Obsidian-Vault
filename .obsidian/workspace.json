@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Ту ду тудей.md",
+                "file": "Uni/Companies to apply later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ту ду тудей"
+              "title": "Companies to apply later"
             }
           },
           {
@@ -879,6 +879,8 @@
   },
   "active": "def143277f4e0914",
   "lastOpenFiles": [
+    "Uni/Ту ду тудей.md",
+    "Uni/Companies to apply later.md",
     "Ту ду/Задание.md",
     "scc-222-ai/6.Naïve Bayes/Estimate Probability from Continuous Data.md",
     "scc-222-ai/6.Naïve Bayes/Untitled.md",
@@ -907,7 +909,6 @@
     "scc-222-ai/4.Unsupervised Learning",
     "scc-222-ai/3.Classification/KNN.md",
     "scc-222-ai/3.Classification/Logistic Regression.md",
-    "Uni/Ту ду тудей.md",
     "scc-212-advanced/8.Everyday Programming with Haskell/Implementation of a larger program in Haskell.md",
     "scc-212-advanced/8.Everyday Programming with Haskell/Sketch of exceptions implementation (I).md",
     "Uni",
