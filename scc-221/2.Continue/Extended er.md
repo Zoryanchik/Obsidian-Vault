@@ -10,4 +10,4 @@
 So, both subclasses **inherit** the attributes of the superclass `Employees`.
 
 ![[Pasted image 20251016205133.png]]Each **player** is a member of **one team**,  
-![[Pasted image 20251016205156.png]]and each **team** can have **many players**.
+![[Pasted image 20251016205156.png]]and each **team** can have **many players**.![[Pasted image 20251016205156.png]]
