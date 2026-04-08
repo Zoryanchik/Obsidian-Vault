@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/2.Continue/Extended er.md",
-                "mode": "source",
+                "file": "scc-221/3.Relational Database/exercise.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extended er"
+              "title": "exercise"
             }
           },
           {
@@ -879,11 +879,21 @@
   },
   "active": "def143277f4e0914",
   "lastOpenFiles": [
+    "scc-221/3.Relational Database/Study this one.md",
+    "scc-221/3.Relational Database/exercise.md",
+    "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
+    "scc-221/3.Relational Database/3.Referential integrity.md",
+    "scc-221/3.Relational Database/2.Relationship database.md",
+    "scc-221/Lab/week4.md",
+    "scc-221/Lab/week 3.2.md",
+    "scc-221/Lab/week 3.md",
+    "scc-221/3.Relational Database/1.REvision.md",
+    "scc-221/Lab/week2.md",
+    "scc-221/2.Continue/Extended er.md",
     "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/2.Continue/3.Fill this.md",
     "scc-221/2.Continue/2.Participation constraints.md",
     "scc-221/2.Continue/1 to many and etc.md",
-    "scc-221/Lab/week2.md",
     "scc-221/1.Intro/3.6 ER Cardinalities.md",
     "scc-221/1.Intro/3.5.Er model.md",
     "scc-221/1.Intro/4.Lab.md",
@@ -895,17 +905,7 @@
     "scc-252-safe/Labs/week4/q4.md",
     "scc-252-safe/Labs/week5/Untitled.md",
     "scc-252-safe/8.Network Security/quiz.md",
-    "scc-252-safe/8.Network Security/Network attacks.md",
-    "scc-252-safe/8.Network Security/Network models.md",
-    "scc-252-safe/8.Network Security/Starter.md",
-    "scc-252-safe/5.Access Control/lvel of logging.md",
-    "scc-252-safe/5.Access Control/Access Control.md",
-    "scc-252-safe/5.Access Control/Recap.md",
     "screen/Pasted image 20260405140912.png",
-    "scc-252-safe/4.Assymetic Cryptography/quiz.md",
-    "scc-252-safe/4.Assymetic Cryptography/Digital Signature Schemes.md",
-    "scc-252-safe/4.Assymetic Cryptography/Public Key Encryption.md",
-    "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
     "screen/Pasted image 20260319055955.png",
