@@ -552,29 +552,17 @@
             }
           },
           {
-            "id": "def143277f4e0914",
+            "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/3.Relational Database/exercise.md",
-                "mode": "preview",
+                "file": "scc-221/Lab/week 3.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise"
-            }
-          },
-          {
-            "id": "d088afff42814b92",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "screen/Pasted image 20251231162304.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251231162304"
+              "title": "week 3"
             }
           },
           {
@@ -877,18 +865,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "def143277f4e0914",
+  "active": "d088afff42814b92",
   "lastOpenFiles": [
-    "scc-221/3.Relational Database/Study this one.md",
+    "scc-221/Lab/week2.md",
+    "scc-221/Lab/week5/task 5 my try.md",
+    "scc-221/Lab/week5/Task 6 my try.md",
+    "scc-221/Lab/week5/Question 1 er diagram.md",
+    "scc-221/Lab/week5/Question 1.md",
+    "scc-221/Lab/week 3.md",
+    "scc-221/Lab/week 3.2.md",
+    "scc-221/Lab/week4.md",
+    "scc-221/Lab/Untitled.md",
+    "scc-221/Lab/Untitled 1.md",
     "scc-221/3.Relational Database/exercise.md",
+    "scc-221/3.Relational Database/Study this one.md",
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
     "scc-221/3.Relational Database/3.Referential integrity.md",
     "scc-221/3.Relational Database/2.Relationship database.md",
-    "scc-221/Lab/week4.md",
-    "scc-221/Lab/week 3.2.md",
-    "scc-221/Lab/week 3.md",
     "scc-221/3.Relational Database/1.REvision.md",
-    "scc-221/Lab/week2.md",
     "scc-221/2.Continue/Extended er.md",
     "scc-221/2.Continue/Weak entity and relationship set.md",
     "scc-221/2.Continue/3.Fill this.md",
@@ -899,12 +893,6 @@
     "scc-221/1.Intro/4.Lab.md",
     "scc-221/1.Intro/3.Relations.md",
     "scc-221/1.Intro/2.ER entity.md",
-    "scc-221/1.Intro/1.What is data-engineering.md",
-    "Uni/Companies to apply later.md",
-    "scc-252-safe/Labs/week4/Untitled.md",
-    "scc-252-safe/Labs/week4/q4.md",
-    "scc-252-safe/Labs/week5/Untitled.md",
-    "scc-252-safe/8.Network Security/quiz.md",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
