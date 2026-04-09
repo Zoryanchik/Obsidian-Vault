@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/Lab/week4.md",
+                "file": "Uni/Ту ду тудей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week4"
+              "title": "Ту ду тудей"
             }
           },
           {
@@ -867,11 +867,13 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-221/5.Data enginerring/MySQL.md",
+    "scc-221/5.Data enginerring/Recap.md",
+    "scc-221/Lab/week4.md",
     "Uni/Companies to apply later.md",
     "Uni/Ту ду тудей.md",
     "Uni/Проект.md",
     "Ту ду/Задание.md",
-    "scc-221/Lab/week4.md",
     "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
@@ -891,8 +893,6 @@
     "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
     "scc-221/3.Relational Database/3.Referential integrity.md",
     "scc-221/3.Relational Database/2.Relationship database.md",
-    "scc-221/2.Continue/Extended er.md",
-    "scc-221/2.Continue/Weak entity and relationship set.md",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
