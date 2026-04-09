@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/5.Data enginerring/Inserting and querying.md",
+                "file": "scc-221/5.Data enginerring/Conceptual Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inserting and querying"
+              "title": "Conceptual Evaluation"
             }
           },
           {
@@ -867,8 +867,18 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
-    "scc-221/5.Data enginerring/Referential Integrity.md",
+    "scc-221/5.Data enginerring/question.md",
+    "scc-221/5.Data enginerring/Aggregate Operators.md",
+    "scc-221/5.Data enginerring/Conceptual Evaluation.md",
+    "scc-221/5.Data enginerring/Nested Queries.md",
+    "scc-221/6.2Data enginerring/Deadlocks.md",
+    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
+    "scc-221/6.2Data enginerring/Reservation problem.md",
+    "scc-221/6.2Data enginerring/Schedules.md",
+    "scc-221/5.Data enginerring/Expressions and Strings.md",
+    "scc-221/5.Data enginerring/What will happen if more than relations are used.md",
     "scc-221/5.Data enginerring/Inserting and querying.md",
+    "scc-221/5.Data enginerring/Referential Integrity.md",
     "scc-221/7.NoSQL/NoSQL.md",
     "buisness/Untitled.md",
     "buisness",
@@ -884,16 +894,6 @@
     "scc-221/4.Functional dependensis and Normal forms/3.Normal Forms.md",
     "scc-221/4.Functional dependensis and Normal forms/2.Finding keys using F+.md",
     "scc-221/4.Functional dependensis and Normal forms/Untitled.md",
-    "scc-221/3.Relational Database/1.REvision.md",
-    "scc-221/Lab/week 3.2.md",
-    "scc-221/Lab/week 3.md",
-    "scc-221/Lab/week2.md",
-    "scc-221/Lab/week5/task 5 my try.md",
-    "scc-221/Lab/week5/Task 6 my try.md",
-    "scc-221/Lab/week5/Question 1 er diagram.md",
-    "scc-221/Lab/week5/Question 1.md",
-    "scc-221/Lab/Untitled.md",
-    "scc-221/Lab/Untitled 1.md",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",

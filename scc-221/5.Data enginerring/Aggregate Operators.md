@@ -1,4 +1,4 @@
-![[Pasted image 20251029215359.png]]![[Pasted image 20251029215415.png]]![[Pasted image 20251029215433.png]]![[Pasted image 20251029215444.png]]`DISTINCT` here means "only consider **unique** values" when calculating the average.
+  ![[Pasted image 20251029215359.png]]![[Pasted image 20251029215415.png]]![[Pasted image 20251029215433.png]]![[Pasted image 20251029215444.png]]`DISTINCT` here means "only consider **unique** values" when calculating the average.
 ![[Pasted image 20251029215711.png]]![[Pasted image 20251029215820.png]]You are right to be confused, as `S2` is not a different table.
 
 **`S2` is just a temporary nickname (an alias) for the `Sailors` table.**
