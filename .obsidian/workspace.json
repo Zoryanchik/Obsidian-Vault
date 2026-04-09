@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Ту ду тудей.md",
+                "file": "scc-221/5.Data enginerring/Inserting and querying.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ту ду тудей"
+              "title": "Inserting and querying"
             }
           },
           {
@@ -867,11 +867,17 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-221/5.Data enginerring/Referential Integrity.md",
+    "scc-221/5.Data enginerring/Inserting and querying.md",
+    "scc-221/7.NoSQL/NoSQL.md",
+    "buisness/Untitled.md",
+    "buisness",
+    "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
     "scc-221/5.Data enginerring/MySQL.md",
     "scc-221/5.Data enginerring/Recap.md",
+    "Uni/Ту ду тудей.md",
     "scc-221/Lab/week4.md",
     "Uni/Companies to apply later.md",
-    "Uni/Ту ду тудей.md",
     "Uni/Проект.md",
     "Ту ду/Задание.md",
     "scc-221/4.Functional dependensis and Normal forms/4.Third Normal Form  (3NF).md",
@@ -888,11 +894,6 @@
     "scc-221/Lab/week5/Question 1.md",
     "scc-221/Lab/Untitled.md",
     "scc-221/Lab/Untitled 1.md",
-    "scc-221/3.Relational Database/exercise.md",
-    "scc-221/3.Relational Database/Study this one.md",
-    "scc-221/3.Relational Database/4.How do we derive Foreign Keys and ICs for different relationship types.md",
-    "scc-221/3.Relational Database/3.Referential integrity.md",
-    "scc-221/3.Relational Database/2.Relationship database.md",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
@@ -912,7 +913,6 @@
     "scc-252-safe/8.Network Security",
     "scc-212-advanced/8.Everyday Programming with Haskell",
     "scc-213-internet-application/8. Accessible Web Design",
-    "scc-213-internet-application/7.Sql databases",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
