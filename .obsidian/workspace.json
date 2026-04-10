@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/8.Data Modelling for NoSQL/mongodb.md",
+                "file": "Uni/Ту ду тудей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mongodb"
+              "title": "Ту ду тудей"
             }
           },
           {
@@ -867,6 +867,7 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-221/8.Data Modelling for NoSQL/mongodb.md",
     "scc-221/7.NoSQL/NoSQL.md",
     "scc-221/7.NoSQL/2PC and cap protocol.md",
     "scc-221/7.NoSQL/amdahel law.md",
@@ -892,7 +893,6 @@
     "scc-221/5.Data enginerring/question.md",
     "scc-221/5.Data enginerring/Conceptual Evaluation.md",
     "scc-221/5.Data enginerring/Aggregate Operators.md",
-    "scc-221/5.Data enginerring/Nested Queries.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
