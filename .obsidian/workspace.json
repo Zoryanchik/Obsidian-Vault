@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/6.2Data enginerring/Deadlocks.md",
+                "file": "Uni/Ту ду тудей.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlocks"
+              "title": "Ту ду тудей"
             }
           },
           {
@@ -867,6 +867,10 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "Uni/Проект.md",
+    "Uni/Companies to apply later.md",
+    "Uni/Ту ду тудей.md",
+    "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "scc-221/6.2Data enginerring/Schedules.md",
     "scc-221/Lab/week10/Untitled.md",
@@ -889,10 +893,6 @@
     "scc-221/10.Indexes and Queries/Indexes.md",
     "scc-221/9.MongoDb basic operations/Computed values pattern.md",
     "scc-221/9.MongoDb basic operations/more patterns.md",
-    "scc-221/9.MongoDb basic operations/bucket pattern.md",
-    "scc-221/9.MongoDb basic operations/subset pattern.md",
-    "scc-252-safe/4.Assymetic Cryptography/Digital Signature Schemes.md",
-    "scc-252-safe/4.Assymetic Cryptography/Recap.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
