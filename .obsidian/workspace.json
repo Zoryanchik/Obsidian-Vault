@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Ту ду тудей.md",
+                "file": "Uni/Проект.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ту ду тудей"
+              "title": "Проект"
             }
           },
           {
@@ -840,8 +840,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -865,11 +865,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d088afff42814b92",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-231/5.Process communication and Threads/Thread.md",
+    "scc-231/5.Process communication and Threads/3.Pipe cont.md",
+    "scc-231/5.Process communication and Threads/2.pipe.md",
+    "scc-231/6.Introduction to Layering/Introducing Abstractions.md",
+    "scc-231/6.Introduction to Layering/Internet Structure.md",
+    "scc-231/6.Introduction to Layering/Network core.md",
+    "scc-231/6.Introduction to Layering/Rev questions.md",
+    "scc-252-safe/5.Access Control/lvel of logging.md",
+    "scc-252-safe/8.Network Security/Network attacks.md",
+    "scc-252-safe/8.Network Security/Starter.md",
+    "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
+    "scc-252-safe/Labs/week4/q4.md",
+    "scc-252-safe/Labs/week4/Untitled.md",
+    "scc-252-safe/2. Introduction to Cryptography/Hash functions.md",
+    "scc-252-safe/2. Introduction to Cryptography/Digital Signatures.md",
+    "scc-252-safe/1.Authentication/Authentication.md",
+    "Uni/Ту ду тудей.md",
     "Uni/Проект.md",
     "Uni/Companies to apply later.md",
-    "Uni/Ту ду тудей.md",
     "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "scc-221/6.2Data enginerring/Schedules.md",
@@ -877,22 +893,6 @@
     "scc-221/Lab/week9/Code.md",
     "scc-221/Lab/week8/task 3.md",
     "scc-221/Lab/week8/task1.md",
-    "scc-221/Lab/week8/task2.md",
-    "scc-221/Lab/week7/task4.md",
-    "scc-221/Lab/week7/Task3.md",
-    "scc-221/Lab/week7/Task 1-2.md",
-    "scc-221/Lab/week9/Untitled.md",
-    "scc-221/12.Replication & Sharding/Sharding.md",
-    "scc-221/12.Replication & Sharding/Replication.md",
-    "scc-221/11.Aggregation/Continue of  aggregation.md",
-    "scc-221/11.Aggregation/Untitled.md",
-    "scc-221/10.Indexes and Queries/embeded.md",
-    "scc-221/10.Indexes and Queries/Regular expressions not needed for exam.md",
-    "scc-221/10.Indexes and Queries/Cursor.md",
-    "scc-221/10.Indexes and Queries/Queries.md",
-    "scc-221/10.Indexes and Queries/Indexes.md",
-    "scc-221/9.MongoDb basic operations/Computed values pattern.md",
-    "scc-221/9.MongoDb basic operations/more patterns.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
