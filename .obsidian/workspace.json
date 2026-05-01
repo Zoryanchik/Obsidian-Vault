@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/1.Software req/1.intro.md",
+                "file": "scc-211/1.Software req/2.software req.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.intro"
+              "title": "2.software req"
             }
           },
           {
@@ -867,6 +867,8 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-211/1.Software req/3.Types of req.md",
+    "scc-211/1.Software req/1.intro.md",
     "scc-211/Lab/week 1/Question 1 Mary.md",
     "scc-211/Lab/weeek2/Laba 2.md",
     "Uni/Работа.md",
@@ -893,8 +895,6 @@
     "scc-252-safe/1.Authentication/Authentication.md",
     "scc-221/6.2Data enginerring/Deadlocks.md",
     "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
-    "scc-221/6.2Data enginerring/Schedules.md",
-    "scc-221/Lab/week10/Untitled.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
