@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-211/3.Use cases/1.USe cases.md",
-                "mode": "source",
+                "file": "scc-211/4.Usecases 2/Typical exam question Use cases.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.USe cases"
+              "title": "Typical exam question Use cases"
             }
           },
           {
@@ -867,8 +867,12 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
-    "scc-211/Lab/week 1/Question 1 Mary.md",
+    "scc-211/3.Use cases/exer.md",
+    "scc-211/3.Use cases/1.USe cases.md",
+    "scc-211/Lab/week3/Untitled.md",
     "scc-211/Lab/weeek2/Laba 2.md",
+    "scc-211/3.Use cases/2.Can you draw a use case diagram for this ATM example.md",
+    "scc-211/Lab/week 1/Question 1 Mary.md",
     "scc-211/2.Software req/Second problem.md",
     "scc-211/2.Software req/UML.md",
     "scc-211/2.Software req/Problems.md",
@@ -896,10 +900,6 @@
     "scc-231/6.Introduction to Layering/Rev questions.md",
     "scc-252-safe/5.Access Control/lvel of logging.md",
     "scc-252-safe/8.Network Security/Network attacks.md",
-    "scc-252-safe/8.Network Security/Starter.md",
-    "scc-252-safe/Labs/week3/Part C Modes of Operation for a Block Cipher.md",
-    "scc-252-safe/Labs/week4/q4.md",
-    "scc-252-safe/Labs/week4/Untitled.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
