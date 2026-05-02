@@ -555,12 +555,14 @@
             "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "screen/Pasted image 20260430175258.png"
+                "file": "scc-211/2.Software req/Problems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260430175258"
+              "icon": "lucide-file",
+              "title": "Problems"
             }
           },
           {
@@ -863,8 +865,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d088afff42814b92",
+  "active": "29d11a61db20963d",
   "lastOpenFiles": [
+    "scc-211/1.Software req/4.Requirements engineering.md",
+    "scc-211/1.Software req/2.software req.md",
+    "scc-211/1.Software req/3.Types of req.md",
+    "scc-211/1.Software req/1.intro.md",
+    "screen/Pasted image 20260430175258.png",
     "screen/Pasted image 20260430180521.png",
     "Screenshot from 2024-11-27 15-33-42.png",
     "Screenshot from 2024-11-27 15-43-44.png",
@@ -875,12 +882,8 @@
     "Uni/Проект.md",
     "Uni/Ту ду тудей.md",
     "Uni/Работа.md",
-    "scc-211/1.Software req/2.software req.md",
-    "scc-211/1.Software req/3.Types of req.md",
-    "scc-211/1.Software req/1.intro.md",
     "scc-211/Lab/week 1/Question 1 Mary.md",
     "scc-211/Lab/weeek2/Laba 2.md",
-    "screen/Pasted image 20260430175258.png",
     "scc-231/5.Process communication and Threads/Thread.md",
     "scc-231/5.Process communication and Threads/3.Pipe cont.md",
     "scc-231/5.Process communication and Threads/2.pipe.md",
@@ -901,7 +904,6 @@
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
-    "screen/Pasted image 20260319055955.png",
     "scc-222-ai/6.Naïve Bayes",
     "scc-222-ai/5.Decision trees",
     "scc-222-ai/4.Unsupervised Learning",
