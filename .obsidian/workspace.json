@@ -555,14 +555,12 @@
             "id": "d088afff42814b92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "scc-211/1.Software req/2.software req.md",
-                "mode": "source",
-                "source": false
+                "file": "screen/Pasted image 20260430175258.png"
               },
-              "icon": "lucide-file",
-              "title": "2.software req"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260430175258"
             }
           },
           {
@@ -738,7 +736,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "![[Pasted image 20260430175258.png]]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -867,15 +865,21 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "screen/Pasted image 20260430180521.png",
+    "Screenshot from 2024-11-27 15-33-42.png",
+    "Screenshot from 2024-11-27 15-43-44.png",
+    "screen/Pasted image 20251006165239.png",
+    "screen/Pasted image 20251006165220.png",
+    "screen/Pasted image 20251006133248.png",
+    "Uni/Companies to apply later.md",
+    "Uni/Проект.md",
+    "Uni/Ту ду тудей.md",
+    "Uni/Работа.md",
+    "scc-211/1.Software req/2.software req.md",
     "scc-211/1.Software req/3.Types of req.md",
     "scc-211/1.Software req/1.intro.md",
     "scc-211/Lab/week 1/Question 1 Mary.md",
     "scc-211/Lab/weeek2/Laba 2.md",
-    "Uni/Работа.md",
-    "Uni/Ту ду тудей.md",
-    "Uni/Companies to apply later.md",
-    "Uni/Проект.md",
-    "screen/Pasted image 20260430180521.png",
     "screen/Pasted image 20260430175258.png",
     "scc-231/5.Process communication and Threads/Thread.md",
     "scc-231/5.Process communication and Threads/3.Pipe cont.md",
@@ -893,17 +897,11 @@
     "scc-252-safe/2. Introduction to Cryptography/Hash functions.md",
     "scc-252-safe/2. Introduction to Cryptography/Digital Signatures.md",
     "scc-252-safe/1.Authentication/Authentication.md",
-    "scc-221/6.2Data enginerring/Deadlocks.md",
-    "scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
     "buisness",
     "screen/Pasted image 20260405140912.png",
     "screen/Pasted image 20260319060054.png",
     "screen/Pasted image 20260319060004.png",
     "screen/Pasted image 20260319055955.png",
-    "screen/Pasted image 20260319055713.png",
-    "screen/Pasted image 20260319055637.png",
-    "screen/Pasted image 20260319055451.png",
-    "screen/Pasted image 20260319055210.png",
     "scc-222-ai/6.Naïve Bayes",
     "scc-222-ai/5.Decision trees",
     "scc-222-ai/4.Unsupervised Learning",
