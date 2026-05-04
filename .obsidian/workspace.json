@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-221/1.Intro/3.5.Er model.md",
+                "file": "scc-221/Lab/week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5.Er model"
+              "title": "week2"
             }
           },
           {
@@ -867,6 +867,7 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-221/1.Intro/3.5.Er model.md",
     "scc-221/1.Intro/2.ER entity.md",
     "scc-221/5.Data enginerring/Relationship Sets to Tables.md",
     "scc-221/5.Data enginerring/Nested Queries.md",
@@ -892,7 +893,6 @@
     "scc-221/Lab/week7/Task3.md",
     "scc-221/Lab/week7/task4.md",
     "scc-221/Lab/week7/Task 1-2.md",
-    "scc-221/Lab/week6/Task 2.md",
     "screen/Pasted image 20260503190140.png",
     "screen/Pasted image 20260503190047.png",
     "screen/Pasted image 20260430175258.png",
