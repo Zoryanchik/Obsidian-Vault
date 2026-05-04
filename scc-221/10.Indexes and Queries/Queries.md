@@ -1,4 +1,4 @@
-![[Pasted image 20260105232014.png]]![[Pasted image 20260105232059.png]]![[Pasted image 20260105232110.png]]
+  ![[Pasted image 20260105232014.png]]![[Pasted image 20260105232059.png]]![[Pasted image 20260105232110.png]]
 - **Goal:** Find songs by specific bands.
     
 - **Explanation:** Instead of writing multiple "OR" statements, `$in` allows you to provide a list (array). If the artist matches **any** of the names in that list, the document is returned.
