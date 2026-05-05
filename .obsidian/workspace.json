@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-222-ai/3.Classification/Distance Measures.md",
+                "file": "scc-222-ai/5.Decision trees/Entropy and Information Gain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distance Measures"
+              "title": "Entropy and Information Gain"
             }
           },
           {
@@ -867,11 +867,20 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
-    "scc-222-ai/3.Classification/KNN.md",
+    "scc-222-ai/5.Decision trees/linear and nonm separation.md",
+    "scc-222-ai/5.Decision trees/Overfitting.md",
+    "scc-222-ai/5.Decision trees/decision trees.md",
+    "scc-222-ai/5.Decision trees/ID3 Algorithm.md",
+    "scc-222-ai/5.Decision trees/Gini Impurity - cart.md",
+    "scc-222-ai/5.Decision trees/Entropy and Information Gain.md",
+    "scc-222-ai/4.Unsupervised Learning/What is Unsupervised Learning.md",
+    "scc-222-ai/4.Unsupervised Learning/K means.md",
     "scc-222-ai/3.Classification/Logistic Regression.md",
-    "Uni/Проект.md",
+    "scc-222-ai/3.Classification/Distance Measures.md",
     "scc-222-ai/2.Linear regression/Untitled.md",
     "scc-222-ai/2.Linear regression/math.md",
+    "scc-222-ai/3.Classification/KNN.md",
+    "Uni/Проект.md",
     "scc-222-ai/1.Intro to ai/Untitled.md",
     "scc-221/12.Replication & Sharding/Sharding.md",
     "scc-221/12.Replication & Sharding/Replication.md",
@@ -884,15 +893,6 @@
     "scc-221/Lab/week8/task1.md",
     "scc-221/Lab/week8/task 3.md",
     "scc-221/Lab/week7/Task3.md",
-    "scc-221/Lab/week7/task4.md",
-    "scc-221/Lab/week7/Task 1-2.md",
-    "scc-221/Lab/week6/Presedence graph.md",
-    "scc-221/Lab/week6/Task 2.md",
-    "scc-221/Lab/week 3.2.md",
-    "scc-221/Lab/week2.md",
-    "scc-221/Lab/week 3.md",
-    "scc-221/Lab/week5/Question 1.md",
-    "scc-221/Lab/week5/Question 1 er diagram.md",
     "screen/Pasted image 20260503190140.png",
     "screen/Pasted image 20260503190047.png",
     "screen/Pasted image 20260430175258.png",
