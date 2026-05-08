@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
+                "file": "scc-231/Laba/week4/5. UDP Traceroute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet-switching  + delay"
+              "title": "5. UDP Traceroute"
             }
           },
           {
@@ -867,6 +867,12 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-231/Laba/week4/4.5 Iperf.md",
+    "scc-231/Laba/week4/task 4.md",
+    "scc-231/Laba/week4/Task 3 Traffic inspection.md",
+    "scc-231/Laba/week4/Task 2 Creating custom topologies.md",
+    "scc-231/Laba/week4/1.Mininet.md",
+    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
     "scc-231/12.Congestion Control/TCP Congestion Control.md",
     "scc-231/12.Congestion Control/Congestion Control.md",
     "scc-231/8.Web & HTTP/http. 2.md",
@@ -874,7 +880,6 @@
     "scc-231/8.Web & HTTP/Non persistnet http.md",
     "scc-231/8.Web & HTTP/HTTP request message.md",
     "scc-231/8.Web & HTTP/HTTp.md",
-    "scc-231/7.– Introduction to Socket Interface and Measuring Network Performance/Packet-switching  + delay.md",
     "scc-231/Laba/week3/2b.md",
     "scc-231/Laba/week3/2a.md",
     "scc-231/Laba/week3/1a.md",
@@ -888,11 +893,6 @@
     "scc-231/3.Processes and op systems/What is a process.md",
     "scc-231/3.Processes and op systems/Recap.md",
     "scc-231/3.Processes and op systems/Limited direct execution.md",
-    "scc-231/2.Intro System Design/System Bottlenecks.md",
-    "scc-231/2.Intro System Design/System Design in Real Life.md",
-    "scc-231/2.Intro System Design/pipelining + batching.md",
-    "scc-231/2.Intro System Design/multiplexing.md",
-    "scc-231/2.Intro System Design/What is system design and opimization.md",
     "screen/Pasted image 20260503190140.png",
     "screen/Pasted image 20260503190047.png",
     "screen/Pasted image 20260430175258.png",
