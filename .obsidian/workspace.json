@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-241/3.Vision and colour/4.Visual Perception/Gestalt perception.md",
+                "file": "scc-241/5.Fitts law and movment/Fitts law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestalt perception"
+              "title": "Fitts law"
             }
           },
           {
@@ -867,14 +867,19 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-241/15.Design Principles/Feedback.md",
+    "scc-241/15.Design Principles/Affordances vs Signifiers.md",
+    "scc-241/15.Design Principles/Affordances in Design.md",
+    "scc-241/14.Mental Models, Metaphors, Errors/rev q.md",
+    "scc-241/5.Fitts law and movment/Fitts law.md",
+    "scc-241/Lab/week2/E2.md",
+    "scc-241/Lab/week2/Untitled.md",
     "scc-241/3.Vision and colour/4.Visual Perception/Visual encoding of data.md",
-    "scc-241/3.Vision and colour/4.Visual Perception/Gestalt perception.md",
     "scc-241/3.Vision and colour/4.Visual Perception/Visual Perception.md",
+    "scc-241/3.Vision and colour/4.Visual Perception/Gestalt perception.md",
     "scc-241/3.Vision and colour/Phyisology of the Eye.md",
     "scc-241/3.Vision and colour/More abt eye.md",
     "scc-241/3.Vision and colour/answer.md",
-    "scc-241/Lab/week2/Untitled.md",
-    "scc-241/Lab/week2/E2.md",
     "scc-241/Lab/week 1/Untitled.md",
     "scc-241/2.Model Human Processor and Time Scales/Time Scales of Human Action.md",
     "scc-241/2.Model Human Processor and Time Scales/Cognitive System.md",
@@ -888,11 +893,6 @@
     "scc-231/Laba/week6/Overview of how part 1 works together.md",
     "scc-231/Laba/week4/1.Mininet.md",
     "scc-231/Laba/week3/2b.md",
-    "scc-231/Laba/week3/2a.md",
-    "scc-231/Laba/week3/1a.md",
-    "scc-231/Laba/week3/1b.md",
-    "scc-231/Laba/WEEK8/task4.md",
-    "scc-231/Laba/WEEK8/task3.md",
     "screen/Pasted image 20260503190140.png",
     "screen/Pasted image 20260503190047.png",
     "screen/Pasted image 20260430175258.png",
