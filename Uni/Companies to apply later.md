@@ -15,4 +15,6 @@ how and what
 
 descriptiom at start 
 
+
+apply to ba too for it 
 PLPAIN TEXT AT START, 
