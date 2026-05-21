@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
+                "file": "scc-213-internet-application/lab/week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Overview"
+              "title": "week3"
             }
           },
           {
@@ -867,10 +867,17 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-213-internet-application/lab/week2.md",
+    "scc-213-internet-application/lab/week3.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Promises.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Interactivity.md",
+    "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Callbacks.md",
+    "scc-213-internet-application/3.Intro to javascript/Untitled.md",
     "scc-213-internet-application/2.Web standarts/CSS.md",
     "scc-213-internet-application/2.Web standarts/HTML.md",
     "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
-    "scc-213-internet-application/lab/week2.md",
     "scc-213-internet-application/1.Introduction/Untitled.md",
     "Uni/Companies to apply later.md",
     "Uni/Проект.md",
@@ -886,13 +893,6 @@
     "scc-211/9.Design Patterns – Observer & Adapter/Security implementation s.md",
     "scc-211/9.Design Patterns – Observer & Adapter/Desighn patterns.md",
     "scc-211/Lab/week4/wk4.md",
-    "scc-211/8.Software Design State Machines/more ex 6..md",
-    "scc-211/8.Software Design State Machines/State.md",
-    "scc-211/7.Solid principles/Open-Closed Principle (OCP).md",
-    "scc-211/7.Solid principles/Dependency Inversion Principle (DIP.md",
-    "scc-211/7.Solid principles/Interface Segregation Principle (ISP).md",
-    "scc-211/7.Solid principles/LSP.md",
-    "scc-211/7.Solid principles/SOLID Design Principles.md",
     "scc-211/7.Solid principles/Pasted image 20251110200400.png",
     "screen/Pasted image 20260503190140.png",
     "screen/Pasted image 20260503190047.png",
