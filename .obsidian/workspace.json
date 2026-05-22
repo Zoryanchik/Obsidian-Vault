@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-212-advanced/5.Recursion/Recursion.md",
+                "file": "scc-212-advanced/5.Recursion/Higher Order Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Higher Order Functions"
             }
           },
           {
@@ -867,6 +867,10 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-212-advanced/5.Recursion/Other Library Functions.md",
+    "scc-212-advanced/5.Recursion/Higher Order Functions.md",
+    "scc-212-advanced/5.Recursion/Tail recursion.md",
+    "scc-212-advanced/5.Recursion/Recursion.md",
     "scc-212-advanced/lab5/part2.md",
     "scc-212-advanced/lab5/part1.md",
     "scc-212-advanced/lab4/task2.md",
@@ -889,10 +893,6 @@
     "scc-213-internet-application/6.Server-side Development 2/WebSockets.md",
     "scc-213-internet-application/6.Server-side Development 2/JSON.md",
     "scc-213-internet-application/6.Server-side Development 2/Post.md",
-    "scc-213-internet-application/5.Node.js/Express.md",
-    "scc-213-internet-application/5.Node.js/Axois.md",
-    "scc-213-internet-application/5.Node.js/Node js.md",
-    "scc-213-internet-application/5.Node.js/AJAX.md",
     "screen/Pasted image 20260521141007.png",
     "scc-211/7.Solid principles/Pasted image 20251110200400.png",
     "screen/Pasted image 20260503190140.png",
