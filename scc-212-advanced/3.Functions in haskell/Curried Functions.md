@@ -1,4 +1,4 @@
-![[Pasted image 20260124192348.png]]![[Pasted image 20260124192746.png]]![[Pasted image 20260124192842.png]]![[Pasted image 20260124192936.png]]- **The Function Definition**: `mult x y z = x*y*z`.
+5![[Pasted image 20260124192348.png]]![[Pasted image 20260124192746.png]]![[Pasted image 20260124192842.png]]![[Pasted image 20260124192936.png]]- **The Function Definition**: `mult x y z = x*y*z`.
     
 - **The Type Signature**: `mult :: Int -> (Int -> (Int -> Int))`.
     
