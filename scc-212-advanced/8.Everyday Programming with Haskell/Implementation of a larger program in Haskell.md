@@ -1,3 +1,4 @@
+
 ![[Pasted image 20260305012136.png]]![[Pasted image 20260305012150.png]]![[Pasted image 20260305012932.png]] ![[Pasted image 20260305013125.png]]
 from () we can use $
 
