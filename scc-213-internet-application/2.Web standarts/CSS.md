@@ -1,4 +1,4 @@
-![[Pasted image 20260119013709.png]] ![[Pasted image 20260119013838.png]]![[Pasted image 20260119013858.png]]![[Pasted image 20260119013920.png]]![[Pasted image 20260119013941.png]]## 1. Element selector
+ ![[Pasted image 20260119013709.png]] ![[Pasted image 20260119013838.png]]![[Pasted image 20260119013858.png]]![[Pasted image 20260119013920.png]]![[Pasted image 20260119013941.png]]## 1. Element selector
 
 ### What it does
 
