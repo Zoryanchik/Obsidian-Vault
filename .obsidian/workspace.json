@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
+                "file": "Uni/Проект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Overview"
+              "title": "Проект"
             }
           },
           {
@@ -867,6 +867,7 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
     "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
     "scc-212-advanced/3.Functions in haskell/Start.md",
     "scc-212-advanced/lab2/Untitled.md",
@@ -882,7 +883,6 @@
     "scc-213-internet-application/5.Node.js/Express.md",
     "scc-213-internet-application/5.Node.js/Axois.md",
     "scc-213-internet-application/5.Node.js/AJAX.md",
-    "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/State.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Promises.md",
