@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Проект.md",
+                "file": "Uni/Работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проект"
+              "title": "Работа"
             }
           },
           {
@@ -867,6 +867,9 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "Uni/poggotovka.md",
+    "Uni/Ту ду тудей.md",
+    "Uni/Проект.md",
     "scc-213-internet-application/2.Web standarts/HTTP Overview.md",
     "scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
     "scc-212-advanced/3.Functions in haskell/Start.md",
@@ -890,9 +893,6 @@
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Events & Event Handling.md",
     "scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Callbacks.md",
     "scc-213-internet-application/lab/week2.md",
-    "scc-213-internet-application/lab/week3.md",
-    "scc-213-internet-application/lab/week4.md",
-    "scc-213-internet-application/2.Web standarts/HTML.md",
     "screen/Pasted image 20260523191846.png",
     "screen/Pasted image 20260523191800.png",
     "screen/Pasted image 20260521141007.png",
