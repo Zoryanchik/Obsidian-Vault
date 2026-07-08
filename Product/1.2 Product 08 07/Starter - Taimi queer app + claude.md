@@ -20,7 +20,7 @@ Stakeholder = is anyone who is interested in success of a product
 
 НАписать завтра про спасибо и посмотреть продукт и тд 
 [
-
+hit map + user journey 
 ## Roman Kalynchuk
 
 
