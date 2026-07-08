@@ -16,3 +16,15 @@ Every quarter $
 ![[Pasted image 20260708171709.png]]
 ![[Pasted image 20260708173208.png]]![[Pasted image 20260708174056.png]]![[Pasted image 20260708174545.png]]![[Pasted image 20260708174835.png]]
 Stakeholder = is anyone who is interested in success of a product 
+![[Pasted image 20260708175518.png]]![[Pasted image 20260708175839.png]]
+
+НАписать завтра про спасибо и посмотреть продукт и тд 
+[
+
+## Roman Kalynchuk
+
+
+
+
+
+](https://www.linkedin.com/in/roman-kalynchuk-258996147/)
