@@ -1,0 +1,3 @@
+![[Pasted image 20260708171914.png]]![[Pasted image 20260708171949.png]]
+The less is more ![[Pasted image 20260708172441.png]]![[Pasted image 20260708172518.png]]![[Pasted image 20260708172525.png]]![[Pasted image 20260708172532.png]]![[Pasted image 20260708172536.png]]![[Pasted image 20260708172541.png]]![[Pasted image 20260708172626.png]]
+The less is more ![[Pasted image 20260708172441.png]]![[Pasted image 20260708172518.png]]![[Pasted image 20260708172525.png]]![[Pasted image 20260708172532.png]]![[Pasted image 20260708172536.png]]![[Pasted image 20260708172541.png]]![[Pasted image 20260708172626.png]]

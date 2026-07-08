@@ -1,0 +1,2 @@
+![[Pasted image 20260708173440.png]]![[Pasted image 20260708173446.png]]![[Pasted image 20260708173500.png]]![[Pasted image 20260708173517.png]]![[Pasted image 20260708173644.png]]![[Pasted image 20260708173809.png]]
+man hours 
