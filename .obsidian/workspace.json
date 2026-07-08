@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уник перший рік/1/Untitled 1.md",
+                "file": "Product/1.2 Product 08 07/Starter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Starter"
             }
           },
           {
@@ -865,12 +865,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "screen/Pasted image 20260708163112.png",
+    "screen",
+    "Уник перший рік/1/Untitled 1.md",
+    "Product/1.2 Product 08 07/Starter.md",
+    "Product/1.2 Product 08 07",
+    "Product",
     "IMG_8805.MP4",
     "Треш",
     "Уник другий рік",
-    "Уник перший рік/1/Untitled 1.md",
     "Уник перший рік/1/Untitled 2.md",
     "Уник перший рік/1/Untitled.md",
     "Уник перший рік/1/test 2.md",
@@ -898,7 +903,6 @@
     "Уник другий рік/scc-213-internet-application/5.Node.js/Express.md",
     "Уник другий рік/scc-213-internet-application/5.Node.js/Axois.md",
     "Уник другий рік/scc-213-internet-application/5.Node.js/AJAX.md",
-    "Уник другий рік/scc-213-internet-application/4.Asynchronous Programming & Interactivity in web applications/Why react.md",
     "Треш/screen/Pasted image 20260523191846.png",
     "Треш/screen/Pasted image 20260523191800.png",
     "Треш/screen/Pasted image 20260521141007.png",
@@ -909,10 +913,6 @@
     "buisness",
     "Уник другий рік/scc-222-ai/6.Naïve Bayes",
     "Уник другий рік/scc-222-ai/5.Decision trees",
-    "Уник другий рік/scc-222-ai/4.Unsupervised Learning",
-    "Uni",
-    "Уник другий рік/scc-212-advanced/lab8",
-    "Уник другий рік/scc-252-safe/Labs/week5",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",
     "Untitled 1.canvas",
