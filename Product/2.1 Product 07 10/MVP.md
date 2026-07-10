@@ -5,3 +5,38 @@
 ![[Pasted image 20260710171138.png]]
 ![[Pasted image 20260710171331.png]]
 Москоу
+![[Pasted image 20260710172552.png]]
+What we shouldnt have done 
+![[Pasted image 20260710172658.png]]
+Start from one market 
+![[Pasted image 20260710172950.png]]
+arket research really important 
+![[Pasted image 20260710173125.png]]
+Check usage of each feature if no use fuck that
+
+Pivot = кардинальна зміна 
+
+Якщо не прет зроби великий пивот)) 
+
+Пуш хуйня 
+пивот сдохли а потом новая хуйня єто пиовт
+
+for b2b sometimes one business is enough - networking 
+
+Ніхто вас не буду шукати треба маркетинг всегдаб 
+
+Прототип - потім - маркетінг - дививтися результати охват - 
+
+Fin model -  
+Bis model - 
+вірю чи я що сможу продавать 50 чашок кофе в кафе для окупа 
+
+Treba znat vse cikavo б продукт користувач + кошти 
+
+Кілер фіча у книг різноманітність 
+
+Перший рік це просто доганть це не кіллер фіча
+
+А спочатку копі опонентів крутих а потім вже кіллер 
+
+Саме ринок який зростає 
