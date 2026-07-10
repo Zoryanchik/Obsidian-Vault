@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product/2.1 Product 07 10/Funnel is important.md",
+                "file": "Product/2.1 Product 07 10/Scalling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funnel is important"
+              "title": "Scalling"
             }
           },
           {
@@ -867,9 +867,13 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "screen/Pasted image 20260710184021.png",
+    "screen/Pasted image 20260710183926.png",
+    "Product/2.1 Product 07 10/Funnel is important.md",
+    "Product/2.1 Product 07 10/Scalling.md",
+    "screen/Pasted image 20260710183544.png",
     "Product/2.1 Product 07 10/Unit economics.md",
     "screen/Pasted image 20260710183032.png",
-    "Product/2.1 Product 07 10/Funnel is important.md",
     "screen/Pasted image 20260710182919.png",
     "screen/Pasted image 20260710182912.png",
     "screen/Pasted image 20260710182707.png",
@@ -877,8 +881,6 @@
     "screen/Pasted image 20260710182257.png",
     "screen/Pasted image 20260710182249.png",
     "screen/Pasted image 20260710182202.png",
-    "screen/Pasted image 20260710182137.png",
-    "screen/Pasted image 20260710181830.png",
     "Product/2.1 Product 07 10/PMF.md",
     "Product/букс.md",
     "Product/2.1 Product 07 10/Вейв бординг.md",
@@ -910,7 +912,6 @@
     "Уник другий рік/scc-212-advanced/3.Functions in haskell/Lambda Expressions.md",
     "Уник другий рік/scc-212-advanced/3.Functions in haskell/Start.md",
     "Уник другий рік/scc-212-advanced/lab2/Untitled.md",
-    "Уник другий рік/scc-212-advanced/2.Types and classes/Basic concepts.md",
     "buisness",
     "scc-241/Lab/Untitled.canvas",
     "Задачи/Untitled.canvas",

@@ -17,4 +17,7 @@
 ![[Pasted image 20260710182659.png]]
 ![[Pasted image 20260710182707.png]]
 ![[Pasted image 20260710182912.png]]
-![[Pasted image 20260710182919.png]]
+![[Pasted image 20260710182919.png]]![[Pasted image 20260710183544.png]]
+Onboarding is who u are 
+
+Quiz is the actual building step 
