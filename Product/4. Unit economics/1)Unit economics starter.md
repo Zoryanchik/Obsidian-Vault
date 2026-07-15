@@ -3,4 +3,13 @@
 ![[Pasted image 20260715183800.png]]
 **Unit economics measures a company's profitability on a per-unit basis, which can refer to individual items sold or customers acquired. It helps businesses understand their revenue and costs, guiding financial decisions and growth strategies.**
 ![[Pasted image 20260715184023.png]]
-![[Pasted image 20260715185308.png]]
+![[Pasted image 20260715185308.png]]![[Pasted image 20260715190356.png]]
+
+- **Less than 1:1 (e.g., 0.5:1):** The product is losing money on every user it acquires. This usually requires immediate adjustments to monetization or marketing channels before the company runs out of cash.
+    
+- **1:1:** The product is only breaking even on acquisition costs. While not losing money directly on the ad spend, there is no margin left to cover other operating expenses, salaries, or further software development.
+    
+- **3:1:** **Good / Healthy.** The business is generating enough value to easily cover its acquisition costs, fund its day-to-day operations, and yield a profit.
+    
+- **5:1 or higher:** The product is highly profitable per user. However, extremely high ratios (like 10:1) can sometimes be a red flag to investors, as it might indicate the company is playing it too safe and under-investing in marketing, thereby missing out on aggressive growth and market share.
+![[Pasted image 20260715191036.png]]
