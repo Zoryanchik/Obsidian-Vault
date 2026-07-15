@@ -3,3 +3,4 @@
 ![[Pasted image 20260715183800.png]]
 **Unit economics measures a company's profitability on a per-unit basis, which can refer to individual items sold or customers acquired. It helps businesses understand their revenue and costs, guiding financial decisions and growth strategies.**
 ![[Pasted image 20260715184023.png]]
+![[Pasted image 20260715185308.png]]
