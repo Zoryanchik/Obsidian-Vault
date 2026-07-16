@@ -30,3 +30,8 @@
 - **How it works:** A basic version of the product is available for free forever. Users are only prompted to pay if they want to unlock advanced "premium" features, remove branding, or increase their usage limits (e.g., more storage or extra seats).
     
 - **Why it's used:** This model requires the highest level of product maturity. It casts the widest possible net for user acquisition and relies heavily on product-led growth. To work successfully, the cost of serving a free user must be very low, and the product must be intuitive enough that a small percentage of users naturally upgrade to the paid tiers without needing intervention from a sales team.
+
+![[Pasted image 20260716185016.png]]![[Pasted image 20260716185021.png]]
+!!!
+
+![[Pasted image 20260716185049.png]]
