@@ -60,3 +60,23 @@
     
 - **c. PSP (Комісія провайдера / Націнка еквайєра):** Це безпосередній прибуток або маржа самого **провайдера платіжних послуг**. Це єдина частина з цих трьох, яка підлягає обговоренню, оскільки комісії Interchange та Scheme Fee суворо встановлюються банками та картковими мережами (це просто транзитні витрати для PSP).![[Pasted image 20260720191804.png]]
 - ![[Pasted image 20260720192848.png]]
+![[Pasted image 20260720193737.png]]
+Based on the provided file **image_4b09dc.png**, **APM** stands for **Alternative Payment Method**.
+
+In finance and e-commerce, an APM refers to any payment option a consumer uses to pay for goods or services that isn't physical cash or a traditional major credit/debit card (like Visa or Mastercard).
+
+The diagram breaks down APMs into four main categories:
+
+- **Wallet (Digital/e-Wallets):** Services that store payment information securely or hold a digital balance to facilitate quick online transactions.
+    
+    - _Example shown:_ PayPal.
+        
+- **BNPL (Buy Now Pay Later):** A type of short-term financing that allows consumers to make purchases and pay for them in future installments.
+    
+    - _Examples shown:_ Klarna, Affirm.
+        
+- **Mobile Payment:** Payments initiated, processed, and received via a mobile device. The inset photograph showing a basic mobile phone alongside cash typically illustrates mobile money systems (like M-Pesa), which are widely used in regions where consumers might not have traditional bank accounts.
+    
+- **Bank transfers:** Direct, electronic transfers of funds from the buyer's bank account directly to the merchant's account.
+    
+    - _Examples shown:_ **SEPA** (Single Euro Payments Area, a standard for cross-border Euro bank transfers) and **OpenBanking** (a technology that allows secure, direct payments via third-party financial APIs).
