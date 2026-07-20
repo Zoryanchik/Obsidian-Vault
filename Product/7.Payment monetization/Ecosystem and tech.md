@@ -1,31 +1,37 @@
 ![[Pasted image 20260720184152.png]]![[Pasted image 20260720185243.png]]
-### Key Components
+Діаграма у файлі **image_49b7e8.png** ілюструє стандартний процес цифрової платіжної транзакції. Зокрема, вона показує, як платіжні дані передаються від продавця до банку клієнта для авторизації.
 
-- **Merchant:** The business selling the goods or services.
+Ось детальний опис компонентів та покрокового процесу, зображеного на схемі.
+
+### Основні компоненти
+
+- **Merchant (Продавець):** Бізнес, що продає товари або послуги.
     
-- **PSP (Payment Service Provider):** A third-party company that provides merchants with the tools necessary to accept electronic payments. In this diagram, the PSP encompasses two main elements:
+- **PSP (Провайдер платіжних послуг):** Стороння компанія, яка надає продавцям інструменти для прийому електронних платежів. На цій схемі PSP включає два основні елементи: платіжний шлюз та банк-еквайєр.
     
-    - **Payment Gateway:** The technology that securely captures the customer's payment data at checkout and transmits it. Think of it as a digital point-of-sale (POS) terminal.
-        
-    - **Acquiring Bank:** The bank that holds the merchant's business account and receives the funds on the merchant's behalf.
-        
-- **Processing Center:** Facilities or systems that act as intermediaries, securely routing the transaction data between the payment gateway, card networks, and banks.
+- **Payment Gateway (Платіжний шлюз):** Технологія, яка безпечно збирає платіжні дані клієнта під час оформлення замовлення та передає їх далі. Це своєрідний цифровий POS-термінал.
     
-- **Card Network:** The company that manages the card brand (e.g., Visa, Mastercard, American Express). They act as the central switchboard, connecting the merchant's bank to the customer's bank.
+- **Acquiring Bank (Банк-еквайєр):** Банк, у якому відкрито бізнес-рахунок продавця і який отримує кошти від його імені.
     
-- **Issuer Bank:** The bank that issued the credit or debit card to the customer. This bank holds the customer's funds and is responsible for approving or declining the transaction.
+- **Processing Center (Процесинговий центр):** Системи або установи, що діють як посередники, безпечно направляючи дані транзакції між платіжним шлюзом, картковими мережами та банками.
+    
+- **Card Network (Карткова мережа):** Компанія, що управляє брендом картки (наприклад, Visa, Mastercard). Вона діє як центральний комутатор, з'єднуючи банк продавця з банком клієнта.
+    
+- **Issuer Bank (Банк-емітент):** Банк, який випустив кредитну або дебетову картку клієнта. Цей банк зберігає кошти клієнта та несе відповідальність за схвалення або відхилення транзакції.
     
 
-### The Transaction Flow
+### Процес транзакції
 
-Following the arrows in the diagram, here is how the data moves:
+Рухаючись за стрілками на діаграмі, дані передаються наступним чином:
 
-1. **Checkout:** The **Merchant** sends the customer's payment information to the **Payment Gateway** (within the PSP).
+1. **Оформлення замовлення:** **Merchant (Продавець)** надсилає платіжну інформацію клієнта до **Payment Gateway (Платіжного шлюзу)**.
     
-2. **Acquiring Side Processing:** The Payment Gateway, working in tandem with the **Acquiring Bank**, securely forwards the transaction request to a **Processing Center**.
+2. **Обробка на стороні еквайєра:** Платіжний шлюз, працюючи в тандемі з **Acquiring Bank (Банком-еквайєром)**, безпечно пересилає запит на транзакцію до **Processing Center (Процесингового центру)**.
     
-3. **Routing to the Network:** The Processing Center sends the transaction data to the appropriate **Card Network** (based on whether the customer used a Visa, Mastercard, etc.).
+3. **Маршрутизація до мережі:** Процесинговий центр надсилає дані транзакції до відповідної **Card Network (Карткової мережі)**.
     
-4. **Routing to the Issuer:** The Card Network routes the transaction through another **Processing Center** to reach the specific **Issuer Bank**.
+4. **Маршрутизація до емітента:** Карткова мережа направляє транзакцію через інший **Processing Center (Процесинговий центр)**, щоб досягти конкретного **Issuer Bank (Банку-емітента)**.
     
-5. **Authorization:** The **Issuer Bank** receives the request, checks if the customer has sufficient funds and ensures the transaction isn't fraudulent. It then sends an "approved" or "declined" message all the way back through this exact same chain to the merchant so the sale can be completed.
+5. **Авторизація:** **Issuer Bank (Банк-емітент)** отримує запит, перевіряє наявність достатньої суми коштів у клієнта та переконується, що транзакція не є шахрайською. Після цього він надсилає повідомлення про схвалення або відхилення у зворотному напрямку через той самий ланцюжок до продавця, щоб завершити покупку.
+
+![[Pasted image 20260720190355.png]]![[Pasted image 20260720190749.png]]![[Pasted image 20260720190858.png]]
