@@ -10,6 +10,7 @@
 - **1:1:** The product is only breaking even on acquisition costs. While not losing money directly on the ad spend, there is no margin left to cover other operating expenses, salaries, or further software development.
     
 - **3:1:** **Good / Healthy.** The business is generating enough value to easily cover its acquisition costs, fund its day-to-day operations, and yield a profit.
+- A ratio of **3:1** means that for every $1 you spend acquiring a customer, that customer brings in $3 in lifetime value. For example, if you spend $100 on ads and sales to get a customer, they will generate $300 for your business before they leave.
     
 - **5:1 or higher:** The product is highly profitable per user. However, extremely high ratios (like 10:1) can sometimes be a red flag to investors, as it might indicate the company is playing it too safe and under-investing in marketing, thereby missing out on aggressive growth and market share.
 ![[Pasted image 20260715191036.png]]
