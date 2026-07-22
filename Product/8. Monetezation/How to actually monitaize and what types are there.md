@@ -1,0 +1,4 @@
+![[Pasted image 20260722184143.png]]![[Pasted image 20260722184201.png]]![[Pasted image 20260722184513.png]]![[Pasted image 20260722184800.png]]the **transactional model (транзакційна модель)** refers to a "pay-per-use"
+![[Pasted image 20260722185342.png]]![[Pasted image 20260722185456.png]]![[Pasted image 20260722185659.png]]
+1 демпінгування![[Pasted image 20260722185838.png]]**Vendor lock-in** (often just called "vendor lock") is a situation where a customer becomes so dependent on a specific product, service, or technology provider that switching to a competitor becomes practically impossible, highly disruptive, or prohibitively expensive.
+![[Pasted image 20260722190000.png]]![[Pasted image 20260722190040.png]]

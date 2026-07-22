@@ -5,4 +5,4 @@ LTV lock in if u use one app for like year less likely to change and be happy
 Китова та не китова кит дохуя мани
 ![[Pasted image 20260721131543.png]]![[Pasted image 20260721132222.png]]
 Example monobank
-![[Pasted image 20260721132518.png]]![[Pasted image 20260721132626.png]]
+![[Pasted image 20260721132518.png]]**Vendor lock-in** (often just called "vendor lock") is a situation where a customer becomes so dependent on a specific product, service, or technology provider that switching to a competitor becomes practically impossible, highly disruptive, or prohibitively expensive.![[Pasted image 20260721132626.png]]
